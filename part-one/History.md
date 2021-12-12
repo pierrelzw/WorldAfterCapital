@@ -2,12 +2,12 @@
 
 I will now provide a highly abstract account of human history that focuses on how technology has shifted scarcity over time and how those shifts have contributed to dramatic changes in human societies.
 
-现在我将对人类历史进行高度抽象的描述，重点是技术如何随着时间的推移而转移稀缺性，以及这些转移如何促成了人类社会的巨大变化。
+现在我将对人类历史进行高度抽象的概述，我们将重点关注：技术如何随着时间的推移而转移稀缺性，以及这些转移如何促成了人类社会的巨大变化。
 
 
 Homo sapiens emerged roughly two hundred and fifty thousand years ago. Over most of the time since, humans were foragers (also referred to as hunter-gatherers). During the Forager Age, the defining scarcity was food. Tribes either found enough food in their territory, migrated further or starved.
 
-智人大约是在二十五万年前出现的。在此后的大部分时间里，人类都是觅食者（也被称为狩猎-采集者）。在觅食时代，决定性的稀缺是食物。部落要么在他们的领土上找到足够的食物，要么进一步迁移，要么饿死。
+智人大约是在二十五万年前出现的。在此后的大部分时间里，人类都是觅食者（也被称为狩猎-采集者）。在觅食时代，决定性的稀缺是食物。部落要么在他们的领土上找到足够的食物，要么迁移到其他地方，要么饿死。
 
 
 Then, roughly ten thousand years ago, humanity came up with a series of technologies such as the planting of seeds, irrigation and the domestication of animals that together we recognize today as agriculture. These technologies shifted the scarcity from food to land in what became the Agrarian Age. A society that had enough arable land (on which food can be grown), could meet its needs and flourish. It could, in fact, create a food surplus that allowed for the existence of groups such as artists and soldiers that were not directly involved in food production.
@@ -27,27 +27,27 @@ In each of those two prior transitions, the way humanity lived changed radically
 
 What accounts for these changes? In each transition the nature of the scarcity changed in a way that made measurement of human effort more difficult, which in turn required more sophisticated ways of providing incentives to sustain the necessary level of effort.
 
-是什么原因导致了这些变化？在每一次转型中，稀缺性的性质都发生了变化，使得对人类努力的衡量更加困难，这反过来又需要更复杂的方法来提供激励以维持必要的努力水平。
+是什么原因导致了这些变化？在每一次转型中，稀缺性的性质都发生了变化，使得对人类努力程度的衡量更加困难，这反过来又需要更复杂的方法来提供激励以维持必要的努力水平。
 
 
 In the Forager Age, when the key scarcity was food, the measurement and incentive problem was almost trivial: everyone in a tribe sees how much food the hunters and gatherers bring back, and it is either enough to feed everyone or not. In so-called immediate return societies (which had no storage) that is literally all there is to it. With storage the story gets slightly more complicated, but not by much. I believe that this explains many of the features of successful foraging tribal societies, including the flat hierarchy and the equality of sharing.
 
-在觅食者时代，当关键的稀缺物是食物时，衡量和激励问题是很容易：部落里的每个人都能看到猎手和采集者带回多少食物，这些食物要么足够养活所有人，要么不够。在所谓的 “立即返回” 社会（没有储存）中，这简直就是所有的问题了。有了储存，故事就会变得稍微复杂一些，但不会太复杂。我相信这可以解释成功的觅食部落社会的许多特征，包括扁平的等级制度和平等的分享。
+在觅食者时代，当关键的稀缺物是食物时，衡量和激励是很容易：部落里的每个人都能看到猎手和采集者带回多少食物，这些食物要么足够养活所有人，要么不够。在所谓的 “立即返回” 社会（没有储存）中，这就足够用来衡量和激励可。有了储存，故事就会变得稍微复杂一些，但不会太复杂。我相信这可以解释成功的觅食部落社会的许多特征，包括扁平的等级制度和平等的分享。
 
 
 In the Agrarian Age, when the scarcity was land, the measurement problem got significantly harder: you can really only tell at harvest time (once per year in many regions of the world) how well-off a society will be. Again, I believe that this explains many of the features of successful agrarian societies, in particular the need for a lot of structure and strict rules. It is crucial to keep in mind that these societies were essentially pre-scientific, so they had to find out what works by trial and error. When they found a rule that seemed to work, they wanted to stick with it and codify it (much of this happened via the theistic religions).
 
-在农业时代，当稀缺的是土地时，测量问题变得明显困难：你真的只能在收获季节（在世界许多地区每年一次）知道一个社会将有多富裕。我再次相信，这解释了成功的农业社会的许多特征，特别是对大量体系和严格规则的需求。关键是要记住，这些社会基本上是前科学社会，所以他们不得不通过试验和错误来发现什么是可行的。当他们发现一个似乎有效的规则时，他们就想持续使用这个规则并将其编纂成法典（这在很大程度上是通过有神论宗教发生的）。
+在农业时代，当稀缺的是土地时，衡量的难度大幅度地提升了：你只能在收获季节（在世界许多地区每年一次）知道一个社会将有多富裕。再次，我相信，这解释了成功的农业社会的许多特征，特别是对大量建筑和严格规则的需求。关键是要记住，这些社会基本上是前科学社会，所以他们只能通过试验和错误来发现什么是可行的。当他们发现一个似乎有效的规则时，他们就想持续使用这个规则并将其编纂成法典（这在很大程度上是通过有神论宗教发生的）。
 
 
 In the Industrial Age, when the scarcity was capital, the measurement problem became even harder. How do you decide where a factory should be built and what it should produce? It might take years of process and product innovation to put physical capital together that is truly productive. I believe that this explains much of the success of the market-based model, especially when contrasted with planned economies. Effectively, the solution to the incentive problem moved from static rules to a dynamic process that allows for many experiments to take place and only a few of them to succeed.
 
-在工业时代，当稀缺的是资本时，衡量问题变得更加困难。你如何决定一个工厂应该建在哪里以及它应该生产什么？可能需要多年的工艺和产品创新，才能把真正具有生产力的物质资本放在一起。我相信这在很大程度上解释了基于市场的模式的成功，尤其是在与计划经济的对比中。事实上，此时激励问题的解决方案从静态规则转为动态过程，允许进行许多实验，而只有少数实验能够成功。
+在工业时代，当稀缺的是资本时，衡量问题变得更加困难：你如何决定一个工厂应该建在哪里以及它应该生产什么？可能需要多年的工艺和产品创新，才能把真正具有生产力的物质资本放在一起。我相信这在很大程度上解释了基于市场机制的成功，尤其是在与计划经济的对比中。事实上，此时激励问题的解决方案从静态规则转为动态过程，允许进行许多实验，而只有少数实验能够成功。
 
 
 These changes in how humanity lives were responses to an increasingly difficult measurement problem, as technological progress shifted scarcity from food to land and then from land to capital. But the transitions don’t occur deterministically; they are the result of human choice driving changes in regulation. For example, when it came to the scarcity of capital, humanity tried out radically different approaches between market-based and planned economies. As it turned out, competitive markets, combined with entrepreneurialism and the strategic deployment of state support (e.g. in the form of regulation), were better at allocating and accumulating capital. Similarly, the Agrarian Age contained vastly different societies, including the Athenian democracy, which was hugely advanced compared to much of Northern European society in the Middle Ages.
 
-这些人类生活方式的变化是对日益困难的衡量问题的回应，因为技术进步将稀缺性从食物转移到土地，然后从土地转移到资本。但这些转变并不是决定性地发生的；它们取决于人类是如何选择监管方式的。例如，当涉及到资本的稀缺性时，采用市场经济模式和计划经济模式的人们，尝试了截然不同的方法。事实证明，竞争性市场，结合创业精神和国家支持的战略部署（如监管形式），更有利于分配和积累资本。同样，农业时代也大相径庭的社会，其中包括雅典的民主社会 —— 与中世纪北欧的大部分社会相比，是非常先进的。
+这些人类生活方式的变化是对日益困难的衡量问题的回应，因为技术进步将稀缺性从食物转移到土地，然后从土地转移到资本。但这些转变并不一定会发生，取决于人类是如何选择监管规则（方式）的。例如，当涉及到资本的稀缺性时，采用市场经济模式和计划经济模式的人们，尝试了截然不同的方法。事实证明，竞争性市场，结合创业精神和国家支持的战略部署（如法规），更有利于分配和积累资本。同样，农业时代也有大相径庭的社会，其中包括雅典的民主社会 —— 与中世纪北欧的大部分社会相比，它是非常先进的。
 
 
 The other important point to note about the previous transitions is that they took quite some time and were incredibly violent. Agriculture emerged over the span of thousands of years, during which time agrarian societies slowly expanded, either subduing or killing foraging tribes. The transition from the Agrarian Age to the Industrial Age played out over several hundred years and involved many bloody revolutions and ultimately two world wars. At the end of the Agrarian Age, the ruling elites had gained their power from controlling land and still believed it to be the critical scarcity. For them, industry was a means of building and equipping increasingly powerful armies with tanks and battleships to ensure control over land. Even the Second World War was about land, as Hitler pursued “Lebensraum“ (literally “room to live”) for his Third Reich. It was only after the Second World War that we finally left the Agrarian Age behind for good.
@@ -67,5 +67,5 @@ Finally, there is a historic similarity to the transition out of the Agrarian Ag
 
 Just as the ruling elites at the end of the Agrarian Age came from land, the ruling elites today come from capital. They often don’t take up political roles themselves but rather have ways of influencing policy indirectly, exposing them to less personal risk. A good recent example is the role of the billionaire hedge fund manager Robert Mercer and his family in supporting groups that influenced the outcome of the US Presidential election in 2016, such as the right-wing news organization Breitbart (Gold, 2017).
 
-正如农业时代末期一样，当时的统治精英来自于土地，今天的统治精英来自于资本。他们往往不亲自担任政治角色，而是有办法间接地影响政策，使他们面临较少的个人风险。最近的一个很好的例子是亿万富翁对冲基金经理罗伯特-默瑟及其家族，他们支持了一些机构以影响2016年美国总统选举结果，比如右翼新闻组织布莱特巴特（Gold, 2017）。
+正如农业时代末期一样，当时的统治精英来自于土地，今天的统治精英来自于资本。他们往往不亲自担任政治角色，而是有办法间接地影响政策，来减少他们面临的个人风险。最近的一个很好的例子是亿万富翁对冲基金经理罗伯特-默瑟及其家族，他们支持了一些机构以影响2016年美国总统选举结果，比如右翼新闻组织布莱特巴特（Gold, 2017）。
 

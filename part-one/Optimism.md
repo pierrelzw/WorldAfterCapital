@@ -7,7 +7,7 @@ When I started my blog over a decade ago, I called myself a “technology optimi
  
 > I am excited to be living [at] a time when we are making tremendous progress on understanding aging, fighting cancer, developing clean technologies and so much more. This is not to say that I automatically assume that technology by itself will solve all our problems […]. Instead, I believe that – over time – we as a society figure out how to use technology to […] improve our standard of living. I for one am […] glad I am not living in the Middle Ages.
 
-> 我很高兴生活在这样一个时代，我们在理解衰老、抗击癌症、开发清洁技术和其他许多方面都取得了巨大的进展。这并不是说我自动假设技术本身会解决我们所有的问题…… 相反，我相信 —— 随着时间的推移 —— 我们这个社会会找出如何利用技术来…… 提高我们的生活水平。我很高兴我没有生活在中世纪。
+> 我很高兴生活在这样一个时代，我们在理解衰老、抗击癌症、开发清洁技术和其他许多方面都取得了巨大的进展。这并不是说我天然地假设技术本身会解决我们所有的问题…… 相反，我相信 —— 随着时间的推移 —— 我们这个社会会找出如何利用技术来…… 提高我们的生活水平。（总之，）我很高兴我没有生活在中世纪。
 
 
 This book is fundamentally optimistic, which is partly a reflection of my personality. I can’t see how it would be possible to be a venture capitalist as a pessimist. You would find yourself focusing on the reasons why a particular startup would be unlikely to succeed and as a result would never make an investment. 
@@ -17,12 +17,12 @@ This book is fundamentally optimistic, which is partly a reflection of my person
 
 I want to be clear about this apparent bias from the start. Optimism, however, is much more than a personal bias—it is essential for human knowledge. Acts of knowledge creation, such as inventing a new technology or writing a new song, are profoundly optimistic. They assume that problems can be solved, and that art will impact the audience (which is true even for a pessimistic song). Optimism is the attitude that progress is possible.
 
-我想从一开始就清楚地说明我的这种明显的倾向。然而，乐观不仅仅是一种个人倾向 —— 它对人类知识来说也是必不可少的。创造知识的行为，如发明一项新技术或写一首新歌，本质上就是乐观主义。他们假设问题可以被解决，艺术会影响听众（即使是悲观的歌曲也是如此）。乐观主义是一种 “我们可能进步” 态度。
+我想从一开始就清楚地说明我有这种明显的倾向。但是，乐观不仅仅是一种个人倾向 —— 它对人类知识来说也是必不可少的。创造知识的行为，如发明一项新技术或写一首新歌，本质上就是乐观主义。他们假设问题可以被解决，艺术会影响听众（即使是悲观的歌曲也是如此）。乐观主义是一种 “我们可能进步” 态度。
 
 
 Progress has become a loaded term. After all, despite our technological achievements, aren’t humans also responsible for the many diseases of civilization, for the extinction of countless species, and potentially for our own demise through climate change? Without a doubt we have caused tremendous suffering throughout human history, and we are currently faced with huge problems including a global pandemic and the ongoing climate crisis. But what is the alternative to trying to tackle these?
 
-进步已经成为一个被过度使用的术语。毕竟，尽管我们取得了技术上的成就，但文明社会的许多疾病、无数物种的灭绝以及可能因气候变化而导致人类的灭亡，人类不也是难辞其咎的吗？毫无疑问，我们在整个人类历史上造成了巨大的痛苦，而且我们目前面临着巨大的问题，包括全球大流行病和正在发生的气候危机。但是，除了试图解决这些问题之外，我们还有什么选择呢？
+不过，进步已经成为一个被过度使用的术语。尽管我们取得了技术上的成就，但文明社会的许多疾病、无数物种的灭绝以及可能因气候变化而导致人类的灭亡，我们不也难辞其咎吗？毫无疑问，我们造成了整个人类在历史进程中承受巨大的痛苦。而且，我们目前依然面临着巨大问题，包括全球大流行病和正在发生的气候危机。但是，除了试图解决这些问题之外，我们还有其他选择么？
 
 
 The beauty of problems is that knowledge can help us overcome them. Consider the problem of warming ourselves in the cold. Humans invented ways of making fire, eventually documented them, and have since dramatically improved the ways in which we can produce heat. We may take the existence of knowledge for granted, but no other species has it, which means whether they can solve a problem depends largely on luck and circumstance. So not only is optimism essential for knowledge, but the existence of knowledge is the basis for optimism. 
@@ -32,7 +32,7 @@ The beauty of problems is that knowledge can help us overcome them. Consider the
 
 There is an extreme position that suggests that we would have been better off if we had never developed knowledge in the first place (Ablow, 2015). While this may sound absurd, much of religious eschatology (theology about the ‘end times’) and apocalyptic thinking is associated with this position, asserting that a grand reckoning for the sins of progress is inevitable. And while they are rare, there have even been voices welcoming the COVID-19 pandemic and the climate crisis as harbingers, if not of apocalypse, then at least of a “Great Reset.” Although there is no guarantee that all future problems will be solvable through knowledge, one thing is certain: assuming that problems cannot be solved guarantees that they will not be. Pessimism is self-defeating, and apocalyptic beliefs are self-fulfilling.
 
-有一种极端的立场认为，如果我们一开始就不发展知识，我们会过得更好（Ablow，2015）。虽然这听起来很荒谬，但许多宗教末世论（关于 “末世” 的神学）和世界末日思想都与这一立场有关 —— 他们断言对进步产生的罪孽进行大清算是不可避免的。甚至，少数人欢迎新冠病毒（COVID-19）这样的大流行病和气候危机的预兆，他们认为 “这可能不是启示录，至少也是 ‘大重置’ 的预兆”。虽然知识不能保证解决所有的未来问题，但有一点是肯定的：假设问题不能被解决，最终问题就不能被解决。悲观主义终将实现自证预言，而对世界末日有信仰的人也可以自圆其说【比如他们会说，那一天迟早会到来，这句话也没法反驳】。
+有一种极端的立场认为，如果我们一开始就不发展知识，我们会过得更好（Ablow，2015）。虽然这听起来很荒谬，但许多宗教末世论（关于 “末世” 的神学）和世界末日思想都与这一立场有关 —— 他们断言对进步产生的罪孽进行大清算是不可避免的。甚至，少数人欢迎新冠病毒（COVID-19）这样的大流行病和气候危机的预兆：这可能不是启示录，至少也是 ‘大重置’ 的预兆。虽然知识不能保证解决所有未来的问题，但有一点是肯定的：假设问题不能被解决，最终问题就不能被解决。悲观主义终将实现自证预言，而对世界末日有信仰的人也可以自圆其说【比如他们会说，那一天迟早会到来，这句话也没法反驳】。
 
 
 All of this is also true for digital technology, which has already brought with it a new set of problems. We will encounter many of them in this book, including the huge incentives for companies such as Facebook to capture as much attention as possible, and the conflicts that arise from exposure to content that runs counter to one’s cultural or religious beliefs. And yet digital technology also enables amazing progress, such as the potential for the diagnosis of diseases at zero marginal cost. *The World After Capital* is optimistic that we can solve not only the problems of digital technology, but also that we can apply digital technology in a way that results in broad progress, including the knowledge creation needed to address the climate crisis. 

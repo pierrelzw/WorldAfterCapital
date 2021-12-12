@@ -2,13 +2,13 @@
 
 Those with some familiarity with economic theory are likely to understand ‘scarcity’ in its terms. In that context, something is scarce if its price is greater than zero. By this definition, land is scarce—it costs a lot of money to buy a piece of land. And financial capital is still because even with our current low interest rates, there is a price for borrowing money or raising equity.
 
-那些对经济理论有一定了解的人可能会从这样的角度理解 “稀缺性”：如果某样东西的价格大于零，那么它就是稀缺的。根据这个定义，土地是稀缺的 —— 购买一块土地需要很多钱。金融资本也是，因为即使我们目前的利率很低，但借钱或筹集股权也是有价的。
+那些对经济理论有一定了解的人可能会从这样的角度理解 “稀缺”：如果某样东西的价格大于零，那么它就是稀缺的。根据这个定义，土地是稀缺的 —— 购买一块土地需要很多钱。金融资本也是，因为即使我们目前的利率很低，但借钱或筹集股权也是有价的。
 
  
 However, there is a fundamental problem with this price-based definition of scarcity: anything can be made scarce by assigning ownership of it. Imagine for a moment that the world’s atmosphere belonged to Global Air Ltd, a company which could charge a fee to anyone who breathes air. Air would suddenly have become scarce, according to the price-based theory of scarcity. That might seem like an extreme example, and yet some people have argued that assigning ownership to the atmosphere would solve the problem of air pollution, on the grounds that it would result in the air’s owners having an economic incentive to maintain an unpolluted atmosphere. 
 
 
-然而，这种基于价格的稀缺性定义有一个根本问题：任何东西都可以通过分配所有权而变得稀缺。想象一下，世界上的大气属于全球大气有限公司，这家公司可以向任何呼吸空气的人收取费用。根据基于价格的稀缺性理论，空气将突然变得稀缺。这似乎是一个极端的例子，但有些人认为，确定大气层的所有权分配将解决空气污染的问题，因为这将导致空气的所有者有经济激励来维持一个没有污染的大气层。
+然而，这种基于价格的对 “稀缺” 的定义有一个根本问题：任何东西都可以通过分配所有权而变得稀缺。想象一下，世界上的大气属于全球大气有限公司，这家公司可以向任何呼吸空气的人收取费用。根据基于价格的稀缺性理论，空气将突然变得稀缺。这似乎是一个极端的例子，但有些人认为，给大气的分配所有权将解决空气污染的问题，因为这将导致空气的所有者有经济激励来维持一个没有污染的大气层。
 
 Here I will use a different meaning of scarcity, one not based on price. I will call something scarce when there is less of it than we require to meet our needs. If people are starving because not enough food has been produced (or made available), food is scarce. Insofar as more knowledge would allow this problem to be solved, this can be thought of as technological (as opposed to economic) scarcity. The point here is that technological progress makes things less scarce. As I discuss in Part Two below, the eighteenth-century scholar Thomas Malthus (1798) was correct when he predicted that global population growth would be exponential, but his prediction that such growth would outpace growth in the food supply, resulting in ongoing shortages and mass starvation, turned out to be wrong, because technological progress resulted in exponential increases in food production. In fact, recent advances in agricultural techniques have meant that the amount of land needed for food production is now declining, even as food production is continuing to grow rapidly. 
 
