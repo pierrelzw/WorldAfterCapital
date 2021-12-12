@@ -59,13 +59,16 @@ Increasing these three freedoms will make attention less scarce. Economic freedo
 
 
 One crucial goal in reducing the scarcity of attention is to improve the functioning of the ‘knowledge loop’, which is the source of all knowledge and which consists of learning, creating and sharing. Producing more knowledge is essential to human progress. The history of humanity is littered with failed civilizations that didn’t produce enough knowledge to overcome the challenges facing them. 
+
 减少注意力稀缺的一个关键目标是改善 “知识圈” 的运作，它是所有知识的来源，由学习、创造和分享组成。生产更多的知识对人类进步至关重要。人类历史上有很多失败的文明，它们没有产生足够的知识来克服它们所面临的挑战。
 
 
 To achieve collective progress through increased individual freedoms, we must establish a set of values that include critical inquiry, democracy and responsibility. These values ensure that the benefits of the knowledge loop accrue broadly to humanity and extend to other species. They are central to a renewed humanism, which in turn has an objective basis in the existence and power of human knowledge. Reasserting humanism is especially critical at a time when we are coming close to creating ‘transhumans’ through genetic engineering and augmentation, as well as ‘neohumans’ through artificial intelligence. 
+
 为了通过增加个人自由实现集体进步，我们必须建立一套包括批判性探索、民主和责任的价值观。这些价值观确保知识圈的利益广泛惠及人类，并延伸到其他物种。它们是更新的人文主义的核心，而人文主义又在人类知识的存在和力量中具有客观基础。在我们即将通过基因工程和增强技术创造 “超人类”，以及通过人工智能创造 “新人类” 的时候，重申人文主义尤为关键。
 
 
 *The World After Capital* argues that only this combination of increased freedoms and strong humanist values will allow us to safely navigate the transition from the Industrial Age to the Knowledge Age. Though I am profoundly optimistic about the ultimate potential for human progress, I am pessimistic about how we will get there. We seem intent on clinging to the Industrial Age at all costs, which increases the likelihood of violent change. My hope is that in writing this book I can in some small way help to move us forward peacefully.
+
 *《资本之后的世界》*认为，只有这种增加自由和强有力的人文主义价值观的结合，才能使我们安全地度过从工业时代到知识时代的过渡期。尽管我对人类进步的最终潜力深感乐观，但我对我们将如何达到这一目标感到悲观。我们似乎有意不惜一切代价坚持工业时代，这增加了暴力变革的可能性。我希望通过写这本书，我可以以某种小小的方式帮助我们和平地向前迈进。
 
