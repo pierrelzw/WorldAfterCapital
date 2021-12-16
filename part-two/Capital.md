@@ -42,12 +42,21 @@ In conclusion here, we should realize that the accumulation of financial capital
 
 We will now examine whether physical capital is sufficient to meet our needs.
 
+我们现在将研究物质资本是否足以满足我们的需要。
+
+
 
 ## Individual Needs 
 
 My claim is that capital is no longer the binding constraint on our ability to meet our individual needs. This is especially true for the developed economies, but it is increasingly true globally. Let’s start by considering the needs emanating from keeping our bodies powered (see the Appendix for additional supporting information).
 
+我的主张是，资本不再是对我们满足个人需求能力的约束性制约。这对发达经济体来说尤其如此，但它在全球范围内也逐渐成真。让我们首先考虑保持我们的身体动力所产生的需求（见附录中的补充资料）。
+
+
 **Oxygen**: There’s plenty of air for us to breathe; the key challenge is to make sure it is clean and safely breathable. China and India are both currently struggling with this, but they developed rapidly and are reliant on outdated energy sources. What is needed here are improvements to capital, such as switching to electric cars from internal combustion engine ones. 
+
+**氧气**。地球上有大量的空气供我们呼吸；关键的挑战是要确保空气的清洁和安全呼吸。中国和印度目前都在努力解决这个问题，他们发展迅速，但依赖过时的能源。这里需要的是对资本的改进，例如从内燃机汽车转为电动汽车。
+
 
 **Water**: There’s plenty of water for everyone in the world to drink (the oceans are full of it). Though there are distribution and access problems, including in the United States (for example, the crisis of polluted drinking water in Flint, Michigan), physical capital is not a binding constraint. We are even able to build new desalination plants in record time.
 
