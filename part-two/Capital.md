@@ -60,16 +60,34 @@ My claim is that capital is no longer the binding constraint on our ability to m
 
 **Water**: There’s plenty of water for everyone in the world to drink (the oceans are full of it). Though there are distribution and access problems, including in the United States (for example, the crisis of polluted drinking water in Flint, Michigan), physical capital is not a binding constraint. We are even able to build new desalination plants in record time.
 
+**水**。世界上有足够的水供每个人饮用（海洋里充满了水）。虽然存在分配和获取问题，包括在美国（例如密歇根州弗林特市的饮用水污染危机），但物质资本并不是一个有约束力的制约因素。我们甚至能够在破纪录的时间内建造新的海水淡化厂。
+
+
 **Calories**: We have made dramatic progress in farming: as a result of increased productivity, the rate of increase in the amount of land used globally to produce has plummeted, and the amount of land used worldwide for agriculture may have already peaked (Ramankutty et al., 2018; Ausubel et al., 2013). There have been significant recent breakthroughs in vertical farming, the practice of growing plants under controlled conditions, and in automated farming. For instance, one of the world’s largest vertical farms operates in Jersey City, and the Japanese indoor farming company Spread’s automated facility can produce 30,000 heads of lettuce per day (Harding, 2020).
+
+**卡路里**。我们在农业方面取得了巨大的进步：由于生产力的提高，全球用于生产的土地数量的增长速度急剧下降，全球用于农业的土地数量可能已经达到了顶峰（Ramankutty 等人，2018；Ausubel 等人，2013）。最近在垂直耕作（在受控条件下种植植物的做法）和自动耕作方面取得了重大突破。例如，在泽西市有世界上最大的垂直农场之一，日本室内农业公司 Spread 的自动化设施每天可以生产 30,000 头生菜（Harding，2020）。
+
 
 **Nutrients**: This is primarily a question of knowledge, as we still don’t fully understand which nutrients the body really needs to ingest in what quantities. We obtain most of them from food, but depending on our diet we may need to add some supplements. The remaining amounts tend to be small, and we can produce plenty of them already (in developed countries, entire industries have sprung up trying to convince people to buy and consume food supplements that they do not need). 
 
+
+**营养物质**。这主要是一个知识问题，因为我们仍然不完全了解身体真正需要摄入哪些以及多少营养物质。我们从食物中获得大部分营养，但根据我们的饮食，我们可能需要添加一些补充剂。剩余的数量往往很少，而且我们已经可以生产大量的营养物质（在发达国家，整个行业已经兴起，试图说服人们购买和消费他们不需要的食品补充剂）。
+
 **Discharge**: This is primarily addressed through modern sewage technology. Here too, capital is no longer a binding constraint, though its uneven distribution around the world is a problem.
+
+**排放**。这主要是通过现代污水处理技术来解决。在这里，资本也不再是一个有约束力的制约因素，尽管它在世界各地的分布不均衡是一个问题。
+
 
 
 Now let’s consider the needs relating to the operating environment for humans.
 
+现在让我们来考虑与人类活动环境有关的需求。
+
+
 **Temperature**: The Chinese construction boom of the early 2000s illustrates how quickly we can build shelter, which, together with heating and air conditioning, is one crucial solution to our temperature needs. In the US, in the opening years of the 21st century, a construction boom was powered by artificially cheap mortgage credit. Though a lot of housing was built speculatively and remained empty, it powerfully demonstrated our construction capacity. Clothing is another strategy for meeting our temperature needs. The price of clothing has been falling in many parts of the world, including the United States. Capital is not a constraint here – indeed, we have the ability to clothe the world’s population many times over.
+
+**温度**。中国 21 世纪初的建筑热潮说明了我们可以非常迅速地建造住房，它与供暖、空调一起，是解决我们温度需求的一种重要方式。在美国，在 21 世纪的最初几年，建筑业的繁荣是由人为的廉价抵押贷款推动的。虽然很多住房是投机性建造的，而且仍然是空的，但它有力地证明了我们建造房屋的能力。服装是满足我们温度需求的另一种策略。在世界许多地方，包括美国，衣服的价格一直在下降。资本在这里不是一个制约因素 —— 事实上，我们有能力为世界上的人口提供多倍的衣服。
+
 
 **Pressure**: Thankfully, we have nothing to do here, as we have plenty of space for humans to live in the right pressure range. This is a great example of a need that we do not consider much at all, but that would loom very large if land were to cease to be habitable and we had to go underwater or into space.
 
