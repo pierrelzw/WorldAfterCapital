@@ -91,48 +91,111 @@ Now let’s consider the needs relating to the operating environment for humans.
 
 **Pressure**: Thankfully, we have nothing to do here, as we have plenty of space for humans to live in the right pressure range. This is a great example of a need that we do not consider much at all, but that would loom very large if land were to cease to be habitable and we had to go underwater or into space.
 
+**压力**。值得庆幸的是，对这一点我们无需做什么，因为我们有足够的空间让人类在合适的压力范围内生活。这是一个很好地可以用来说明我们根本没有过多地考虑这种需求的例子，但如果陆地不再适合居住，我们不得不进入水下或太空，这种需求会非常大。
+
+
 **Light**: We have become very good at providing light. One study shows how the hours of light provided by 60 hours of labor in the United States exploded from around 10 in 1800 to over 100,000 by 1990 (Harford, 2017; Nordhaus, 1994). Since then, we have made considerable further progress with LED lighting. That progress has also come to other parts of the world, for instance in the form of off-grid, solar-powered lamps.
+
+**光**。我们在提供光线方面已经变得非常出色。一项研究表明，在美国，60小时的劳动所提供的光照时间是如何从1800年的10小时左右爆发到1990年的10万多小时的（Harford, 2017; Nordhaus, 1994）【有意思的衡量指标：60小时劳动力能产生的光照时间，相对值而不是绝对值】。从那时起，我们已经在LED照明方面取得了更进一步的进展。这种进步也已经遍布世界各地，例如通过离网的用太阳能供电的电灯。
 
 
 Finally we come to the more abstract individual needs. 
 
+最后，我们来谈谈更抽象的个人需求。
+
+
 **Healing**: We often read that healthcare consumes an increasingly large fraction of the economy, especially in the United States, but that does not imply that capital is scarce. In industrialized countries we have plenty of hospital space and doctor’s offices. But, you may ask, didn’t the COVID-19 pandemic show that we didn’t have enough ICU beds? The answer is no: countries that reacted to the virus in good time stayed well within their capacity. Overall capital is sufficient for healing. We have extensive diagnostic facilities and are able to produce large quantities of medicine.
+
+**疗养**。我们经常看到这样的说法：医疗保健在经济中的消耗越来越大，特别是在美国，但这并不意味着资本的稀缺。在工业化国家，我们有大量的医院和医生办公室。但是，你可能会问，COVID-19这种全国性的大流行病不是表明我们没有足够的ICU床位吗？事实并不是这样：及时对病毒作出反应的国家都在其能力范围内保持良好的状态。总的来说，资本是足够用来治疗的。我们有广泛的诊断设施，并且能够生产大量的药品。
+
 
 **Learning**: Nor are we constrained by capital when it comes to learning. This is increasingly true not just in industrialized nations but also globally, due to the expansion of wireless networks and the increasing affordability of smartphones. We are not far away from reaching a point where we have enough capital for anyone in the world to learn anything that can be transmitted over the Internet; the binding constraint is the availability of affordable content and the time it takes to learn and teach.
 
+**学习**。在学习方面，我们也没有受到资本的限制。不仅在工业化国家，而且在全球范围内，由于无线网络的日益普及和智能手机价格的支持下降，这一点也越来越成为现实。我们离达到这样的程度并不遥远，即我们有足够的资本让世界上的任何人学习任何可以通过互联网传输的东西；具有约束力的制约因素是能否获得负担得起的内容，以及学习和教学所需的时间。
+
+
 **Meaning**: The final individual need, that of meaning, is not and has never been constrained by capital. Capital plays no role in meeting our need for it.
+
+**意义**。最后一个个人的需求，即意义的需求，没有也从来没有受到资本的限制。资本在满足我们对它的需求方面没有发挥任何作用。
+
 
 
 ## Collective Needs 
 
+## 集体的需求
+
 At first it might seem difficult to see how capital relates to our collective needs. How could it have anything to do with such abstract concepts as motivation and coordination? In discussing why capital is already sufficient today to meet our collective needs, I will also briefly point out how it was scarce with regard to these needs in the past.
+
+起初，似乎很难看到资本与我们的集体需求有什么关系。它怎么可能与激励和协作这样的抽象概念有任何关系？在讨论为什么今天的资本已经足以满足我们的集体需要时，我还会简要地说明，在过去，资本在这些需要方面是如何稀缺的。
+
 
 **Reproduction**: Available capital has always been sufficient for reproduction – otherwise, we wouldn’t be here today. 
 
+
+**繁殖**。可用的资本一直都足以进行繁殖 —— 否则，我们今天就不会在这里了。
+
 **Allocation**: During the Industrial Age the allocation of capital, such as where to build a factory and what it should produce, was the central allocation problem, and it was the scarcity of capital that made it difficult to meet this need. When there were few roads and other means of transportation, there were few places a factory could be built. Getting the place just right and building the right factory was thus a much harder problem than today where we can ship products around the world. As a result, the allocation problem for capital is no longer constrained by capital. And because capital is no longer scarce, it is also no longer the dominant allocation problem. As we will see in the next section, it has been replaced by the allocation of attention, for which capital is largely irrelevant.
+
+**分配**。在工业时代，关于资本的分配，如在哪里建厂，应该生产什么，是核心的分配问题，正是资本的稀缺性使得这一需求难以满足。当道路和其他运输工具很少的时候，可以建厂的地方也很少。因此，与今天我们可以将产品运往世界各地的情况相比，找到合适的地方并建造合适的工厂是一个难得多的问题。因此，资本的分配问题不再受制于资本。而且，由于资本不再稀缺，它也不再是最主要的分配问题。正如我们将在下一节看到的，它已被注意力的分配所取代，而资本在很大程度上与此无关。
+
 
 **Motivation**: Again, it might at first seem as if capital never played a role here. But consider what it was like to work in an early factory, when the outputs were generally not affordable for the workers. Workers at the time had to more or less be forced into factory work, a situation that still persists in some parts of the world for certain industries (e.g., clothing and hardware assembly). Contrast this with much of the period following the Second World War, when more advanced economies already had a fair bit of capital, making possible the mass production of goods that workers could afford. Motivation can of course come from many sources other than what wages can buy, such as wanting to help others (e.g. in healthcare) or facing an enemy (e.g. wartime production). The key point is that today motivation is no longer constrained by capital in principle. 
 
+**激励**。同样，起初看起来似乎资本从未在这里发挥过作用。但想想在早期的工厂工作是什么样子的，当时的产出一般都是工人负担不起的。当时的工人不得不或多或少地被迫在工厂工作，这种情况在世界某些地区的某些行业（如服装和硬件组装）仍然存在。与此形成对比的是第二次世界大战后的大部分时间，当时更先进的经济体已经拥有相当多的资本，使得大规模生产工人能够负担得起的商品成为可能。当然，激励可以有工资所能购买的东西以外的其他来源，例如想要帮助他人（例如在医疗保健方面）或面对敌人（例如战时生产）。关键的一点是，今天当我们谈到激励问题时，原则上它不再受到资本的限制。
+
+
 **Coordination**: One of the primary ways to meet the need for coordination is through communication, which was heavily constrained by capital for the longest time. Today, however, we can hold a real-time video conference with nearly anybody in the world. And some of the big coverage gaps, such as parts of Africa, are rapidly being filled in.
 
+**协作**。满足协作需求的主要方式之一是通过通信。在很长一段时间里，通信受到资本的严重制约。然而今天，我们几乎可以与世界上的任何人举行实时视频会议。而一些还没有普及这种技术的地方，如非洲的部分地区，其需求正在迅速被满足。
+
+
 **Knowledge**: Finally, our collective need for knowledge was long constrained by capital. Making books, for instance, was expensive and time-consuming, and copies could only be made by humans, which introduced errors. The spread of knowledge was limited by the need to create and supply physical copies, constraints that we have now left behind. There were also other ways in which capital was scarce as far as knowledge was concerned. For instance, we had insufficient scientific instruments for inspecting matter, such as microscopes. Today, by contrast, we are able to build massive undertakings to support science, such as the Large Hadron Collider.
+
+**知识**。最后，我们对知识的集体需求长期受制于资本。例如，制作书籍既昂贵又费时，而且只能由人制作副本，这就会产生错误。知识的传播受制于创造和提供实体副本的需要，这种限制今天已经没有了。就知识而言，还有会有一些资本匮乏的情况。例如，我们没有足够的科学仪器来检查物质，如显微镜。相比之下，今天我们能够建立大规模的项目来支持科学，如大型强子对撞机。
+
 
 
 ## Enablers 
 
+## 推动因素
+
 Our progress on the four foundational enablers – energy, resources, transformation and transportation – is another way to understand why capital is no longer scarce. There have been massive breakthroughs on all four during the Industrial Age.
+
+我们在能源、资源、转换和运输这四个基础性推动因素上的进展，是理解为什么资本不再稀缺的另一种方式。在工业时代，这四个方面都取得了巨大的突破。
+
  
 **Energy**: The biggest breakthrough in energy was the development of electricity, which allowed us to apply energy precisely. Our remaining challenges relate to the production, storage and distribution of electricity. Further improvements will let us meet different needs in new ways, but we are not fundamentally energy-constrained. For instance, at current efficiency rates, covering less than 0.1% of the Earth’s surface with solar panels could meet all of today’s energy needs (Berners-Lee, 2019).
 
+**能源**。能源方面最大的突破是电力的发展，它使我们能够精确地应用能源。我们剩下的挑战与电力的生产、储存和分配有关。进一步的改进将使我们以新的方式满足不同的需求，但我们并没有从根本上受到能源的限制。例如，按照目前的效率，用太阳能电池板覆盖不到 0.1% 的地球表面就可以满足今天所有的能源需求（Berners-Lee，2019）。
+
+
 **Resources**: The availability of resources was completely transformed during the Industrial Age through mining, which was enabled by innovation in transportation (railways) and energy (steam power). People who have concerns about sustainability sometimes point to the scarcity of resources as the primary constraint, but there are three sources that we can tap in the future: recycling, asteroid mining, and eventually transmutation (turning one element into another, as in the alchemists’ quest to turn lead into gold). For instance, a lot of electronics currently end up in landfill instead of being recycled, we achieved the first soft landing on an asteroid as far back as 2001, and we can already turn lithium into tritium.
+
+**资源**。在工业时代，通过采矿，资源的可用性被完全改变了，这是由运输（铁路）和能源（蒸汽动力）的创新促成的。对可持续发展有顾虑的人有时会指出资源的稀缺性是主要的制约因素，但我们在未来可以利用三种资源：回收、小行星采矿和最终会实现的物质转化（将一种元素转化为另一种元素，如炼金术士将铅转化为金一样）。例如，目前很多电子产品最终被填埋，而不是被回收，我们早在 2001 年就实现了在小行星上的首次软着陆，而且我们已经可以将锂变成氚。
+
 
 **Transformation**: Our ability to transform materials also improved radically during the Industrial Age. For instance, chemistry enabled the synthetic production of rubber, which previously had to be harvested from trees. Machine tools enabled the rapid transformation of wood and metals. We later added transformation technologies such as injection molding and additive manufacturing technologies (often referred to as “3D printing”). 
 
+
+**转化**。在工业时代，我们改造材料的能力也得到了彻底的提高。例如，化学使橡胶的合成生产成为可能，而以前橡胶必须从树上采摘。机器工具使木材和金属得以快速转化。后来，我们又增加了一些改造技术，如注射成型和快速制造技术（通常称为 "3D打印"）。
+
 **Transportation**: Here we went from human-, animal- and wind-powered movement to machine-powered movement, dramatically increasing our capabilities. We can now fly across continents and oceans on commercial flights, reaching any major city in a single day, and there has been extraordinary progress in flight safety. While some have complained about a recent lack of progress, pointing to the lack of commercial supersonic options following the retirement of Concorde, work has recently resumed on developing new options for commercial supersonic flight. We have also made tremendous progress on reusable rockets and autonomous vehicles (for instance, drones and robots used in warehouses).
+
+**交通**。在这里，我们完成了人类、动物和风力驱动的移动，到机器驱动的移动的转变，这极大地提高了人类整体的能力。我们现在可以通过商业航班飞越各大洲和大洋，在一天之内到达全球任何主要城市，而且在飞行安全方面有了非凡的进步。虽然有些人抱怨最近航空行业缺乏进展，指出Concorde飞机退役后就再也没有商业超音速飞机可选了，但最近已经有人恢复了开发商业超音速飞机的工作。我们在可重复使用的火箭和自动驾驶运输工具（例如，无人机和仓库中使用的机器人）方面也取得了巨大的进展。
+
 
 The progress made on all these enablers has allowed us to produce more physical capital, to do so more rapidly and cheaply, and to transport it anywhere in the world. One illustration of how far we have come is the fact that smartphones only became available in 2000, but by 2017 there were over 2 billion smartphone users in the world.
 
+所有这些在推动因素上取得的进展，使我们能够生产更多的实物资本，更迅速、更廉价地生产，并将其运送到世界任何地方。有一个事实证明我们已经取得了巨大成就，智能手机在2000年才开始使用，但到2017年，世界上已经有有超过20亿智能手机用户。
+
+
 I am not claiming that everyone’s needs are being met today, nor am I arguing that governments should be meeting people’s needs through government-run programs such as food stamps or subsidized housing – quite the opposite. My point is simply that physical capital is no longer the constraint when it comes to meeting our individual and collective needs.
 
+我并不是说今天每个人的需求都得到了满足，也不是说政府应该通过政府管理的项目，如食品券或补贴住房来满足人们的需求 —— 恰恰相反。我的观点是，当我们谈论 “如何满足我们的个人和集体需求” 这样的问题时，物质资本不再是制约因素。
+
+
 The great success of capitalism is that capital is no longer scarce. However, we now face a scarcity of attention, and, as we will see, capitalism cannot and will not properly address that new scarcity without dramatic changes in how we regulate our society and ourselves.
+
+资本主义的巨大成功在于，资本不再稀缺。然而，我们现在面临着注意力的稀缺，而且，正如我们将看到的，如果不对我们的社会和我们自己的管理方式进行巨大的改变，资本主义不能也不会适当地解决这种新的稀缺性。
+
 
