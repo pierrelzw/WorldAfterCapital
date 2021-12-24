@@ -66,33 +66,32 @@ This shift to power laws is driving a huge increase in wealth and income inequal
 
 Beyond the social implications of such inequality, the largest digital companies also wield undue political and market power. When Amazon acquired a relatively small online pharmacy, signaling its intent to compete in that market, there was a dramatic drop in the market capitalization of pharmacy chains. Historically, market power produced inefficient allocations due to excessive rents as prices were kept artificially high. In digital markets, in contrast, powerful companies have often pushed prices down or even made things free. While this appears positive at first, the harm to customers comes via reduced innovation, as companies and investors stop trying to bring better alternative products to market (consider, for example, the lack of innovation in Internet search). 
 
-除了这种不平等的社会影响，最大的数字技术公司还拥有不适当的政治和市场力量。当亚马逊收购了一家相对较小的网上药店，表明其有意在该市场竞争时，连锁药店的市值出现了大幅下降。从历史上看，由于价格被人为地保持在高位，市场力量产生了过度的租金，导致了低效的分配。相反，在数字市场上，强大的公司往往将价格压低，甚至让东西免费。虽然这起初看起来是积极的，但对客户的伤害是通过减少创新来实现的，因为公司和投资者不再尝试将更好的替代产品推向市场（例如，互联网搜索中就缺乏创新）。
+除了这种不平等的社会影响，最大的数字技术公司还拥有不适当的政治和市场力量。当亚马逊收购了一家相对较小的网上药店，表明其有意在该市场竞争时，连锁药店的市值出现了大幅下降。从历史上看，由于价格被人为地保持在高位，市场力量产生了过度的租金，导致了低效的分配。相反，在数字市场上，强大的公司往往将价格压低，甚至让东西免费。虽然这起初看起来是积极的，但对客户的伤害是通过减少创新来实现的，因为公司和投资者不再尝试将更好的替代产品推向市场（例如，互联网搜索就缺乏创新）。
 
 
 Joseph Schumpeter coined the term “creative destruction” to describe the way in which entrepreneurs create new products, technologies, methods, and ultimately economic structures to replace old ones (Kopp, 2021). Indeed, if you look at the dominant companies today, such as Google, Amazon and Facebook, they are all relatively new having displaced in importance those of the Industrial Age. However, such ‘Schumpeterian' innovation will be more difficult going forward, if not downright impossible. During the Industrial Age, machines served a specific purpose, which meant that when a new product or manufacturing technology became available, the installed base of machines became essentially worthless. Today, general-purpose computers can easily implement a new product, add a feature or adopt a new algorithm. Furthermore, production functions with information as a key input have a property known as ‘supermodularity’: the more information you have, the higher the marginal benefit of additional information (Wenger, 2012). This gives the incumbent companies tremendous sustained power—they gain more marginal value from a new product or service than a new entrant does. 
 
-约瑟夫-熊彼特创造了 "创造性破坏 "一词，以描述企业家创造新产品、新技术、新方法以及最终取代旧的经济结构的方式（Kopp, 2021）。事实上，如果你看看今天占主导地位的公司，如谷歌、亚马逊和Facebook，它们都是相对较新的，在重要性上取代了工业时代的公司。然而，这种 "熊彼特式 "的创新在未来将更加困难，如果不是完全不可能的话。在工业时代，机器服务于一个特定的目的，这意味着当一个新的产品或制造技术出现时，机器的安装基础基本上变得毫无价值。今天，通用计算机可以很容易地实现一个新产品，增加一个功能或采用一个新算法。此外，以信息为关键输入的生产函数有一个被称为 "超模数 "的属性：你拥有的信息越多，额外信息的边际效益就越高（Wenger，2012）。这给了在位公司巨大的持续能力--他们从一个新产品或服务中获得的边际价值比新进入者要多。
-
+约瑟夫·熊彼特创造了 “创造性破坏” 一词，以描述企业家创造新产品、新技术、新方法以及最终取代旧的经济结构的方式（Kopp, 2021）。事实上，如果你看看今天占主导地位的公司，如谷歌、亚马逊和 Facebook，它们都是相对较新的，在重要性上取代了工业时代的公司。然而，这种 “熊彼特式” 的创新在未来将更加困难，如果不是完全不可能的话。在工业时代，机器服务于一个特定的目的，这意味着当一个新的产品或制造技术出现时，机器的安装基础基本上变得毫无价值。今天，通用计算机可以很容易地实现一个新产品，增加一个功能或采用一个新算法。此外，以信息为关键输入的生产模式有一个被称为 “超模数” 的属性：你拥有的信息越多，额外信息的边际效益就越高（Wenger，2012）。这给了在位公司强大的持续能力 —— 他们从一个新产品或服务中获得的边际价值比新进入者要多。
 
 
 ## Self-Conservation 
 
 Toward the end of the Agrarian Age, when land was scarce, political elites came from the landowning classes, and their influence wasn’t truly diminished until after the Second World War. Now, although we have reached the end of the time of capital scarcity, political elites largely represent the interests of capital holders. In some countries, such as China, senior political leaders and their families own large parts of industry outright. In other countries such as the United States, politicians are heavily influenced by the owners of capital because of the need to raise funds, the impact on policy of lobbyists, ’think tanks’ and foundations backed by capital, the skewing of public debate through capital-owned media (e.g. FOX), as well as global ’regulatory competition’ allowing capital owners to play governments off against one another in order to limit wealth redistribution through taxation. Consider just lobbying: over a five-year period, the 200 most politically active companies spent nearly $6 billion to influence policy (Allison & Harkins, 2014). A clever study from 2019 showed how this kind of lobbying directly impacts the language of laws subsequently drafted by lawmakers (O’Dell & Penzenstadler, 2019).
 
-在土地稀缺的农业时代末期，政治精英来自地主阶级，他们的影响力直到第二次世界大战后才真正减弱。现在，虽然我们已经到了资本稀缺时代的尾声，但政治精英们在很大程度上代表了资本持有者的利益。在一些国家，如中国，高级政治领导人和他们的家人直接拥有大量的产业。在其他国家，如美国，政治家受到资本所有者的严重影响，因为需要筹集资金，游说者、"智囊团 "和由资本支持的基金会对政策的影响，通过资本拥有的媒体（如FOX）对公共辩论的歪曲，以及全球 "监管竞争 "允许资本所有者将政府相互竞争，以便通过税收限制财富再分配。仅考虑游说：在五年期间，政治上最活跃的200家公司花费了近60亿美元来影响政策（Allison & Harkins, 2014）。2019年的一项巧妙研究表明，这种游说如何直接影响立法者随后起草的法律语言（O'Dell & Penzenstadler, 2019）。
+在土地稀缺的农业时代末期，政治精英来自地主阶级，他们的影响力直到第二次世界大战后才真正减弱。现在，虽然我们已经到了资本稀缺时代的尾声，但政治精英们在很大程度上代表了资本持有者的利益。在一些国家，如 “印度”，高级政治领导人和他们的家人直接拥有大量的产业。在其他国家，如美国，政治家受到资本所有者的严重影响，因为政府筹集资金的需求，游说者、“智囊团” 和由资本支持的基金对政策的影响，资本拥有的媒体（如 FOX）对公共辩论的歪曲，以及全球 “监管竞争” 允许资本所有者让政府相互竞争，以便通过税收限制财富再分配。仅考虑游说：在五年期间，政治上最活跃的 200 家公司花费了近 60 亿美元来影响政策（Allison & Harkins, 2014）。2019 年的一项精巧的研究表明，这种游说如何直接影响立法者随后起草的法律用语（O'Dell & Penzenstadler, 2019）。
 
 
 The net effect of all of this are policies that are favorable to owners of capital, such as low rates of capital gains tax. Low corporate tax rates, with loopholes that allow corporations to accumulate profits in countries where taxes are low, are also favorable to owners of capital. This is why in many countries we have some of the lowest effective tax rates for corporations and wealthy individuals and families in history (‘effective’ means what is paid after exemptions and other ways of reducing or avoiding tax payments). 
 
-所有这些的净效果都是有利于资本所有者的政策，如低资本收益税率。低的公司税率，以及允许公司在低税率国家积累利润的漏洞，也对资本所有者有利。这就是为什么在许多国家，我们有一些历史上最低的公司和富有的个人和家庭的有效税率（"有效 "是指在豁免和其他减少或避免缴税的方式之后所支付的费用）。
+所有这些的综合影响就是有利于资本所有者的政策，如低资本收益税率。低的公司税率，以及允许公司在低税率国家积累利润的漏洞，这也对资本所有者有利。这就是为什么在许多国家，我们有一些历史上最低的公司有效税率，以及最低针对富有个人和富有家族的有效税率（“有效” 是指在豁免和其他减少或避免缴税的方式之后所支付的费用）。
 
 
 In addition to preserving and creating financial benefits for the owners of capital, corporations have also attacked the creation and sharing of knowledge. They have lobbied heavily to lengthen terms of copyright and to strengthen copyright protection. And scientific publishers have made access to knowledge so expensive that libraries and universities struggle to afford the subscriptions (Sample, 2018; Buranyi, 2018).  
 
-除了为资本所有者保留和创造经济利益外，公司还攻击了知识的创造和分享。他们为延长版权期限和加强版权保护进行了大量的游说。而科学出版商让知识的获取变得如此昂贵，以至于图书馆和大学都难以负担订阅费用（Sample，2018；Buranyi，2018）。 
+除了为资本所有者保留和创造经济利益外，公司还侵袭了知识的创造和分享。他们为延长版权期限和加强版权保护进行了大量的游说。而科学出版商让知识的获取变得如此昂贵，以至于图书馆和大学都难以负担订阅费用（Sample，2018；Buranyi，2018）。 
 
 
 A key limitation of capitalism thus is that without meaningful change, it will keep us trapped in the Industrial Age by keeping governments and the political process focused on capital. As long as that is the case, we will continue to over-allocate attention to work and consumption, and under-allocate it to areas such as the individual need for meaning and the collective need for the growth of knowledge. Parts Four and Five of *The World After Capital* will examine how we can get out of the Industrial Age, but first we will take a closer look at the power of knowledge and the promise of the digital knowledge loop.
 
-因此，资本主义的一个关键限制是，如果没有有意义的改变，它将使我们困在工业时代，使政府和政治进程专注于资本。只要这种情况存在，我们就会继续过度关注工作和消费，而对个人对意义的需求和集体对知识增长的需求等领域的关注不足。资本之后的世界》第四和第五部分将探讨我们如何才能走出工业时代，但首先我们将仔细研究知识的力量和数字知识圈的承诺。
+因此，资本主义的一个核心的局限是，如果没有有意义的改变，它将使我们困在工业时代，使政府和政治进程专注于资本。只要这种情况存在，我们就会继续过度关注工作和消费，而对个人对意义的需求和集体对知识增长的需求等领域关注不足。资本之后的世界》第四和第五部分将探讨我们如何才能走出工业时代，但首先我们将仔细研究知识的力量和数字知识循环的获得成功的迹象。
 
