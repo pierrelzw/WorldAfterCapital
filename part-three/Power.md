@@ -88,25 +88,42 @@ These characteristics are found in other systems that similarly show the promise
 
 Wikipedia illustrates another important aspect of the digital knowledge loop: it allows individuals to participate in extremely small ways. If you wish, you can contribute to Wikipedia by fixing a single typo. If ten thousand people fixed one typo every day, that would be 3.65 million typos a year. If we assume that it takes two minutes to discover and fix a typo, it would take nearly fifty people working full-time for a year (2,500 hours) to fix that many typos. 
 
-维基百科说明了数字知识圈的另一个重要方面：它允许个人以极小的方式参与。如果你愿意，你可以通过修正一个错别字来为维基百科做出贡献。如果每天有一万个人修正一个错别字，那么一年就有 365 万个错别字。如果我们假设发现和修正一个错别字需要两分钟，那么需要近 50 人全职工作一年（2500 小时）才能修正这么多错别字。
+维基百科说明了数字知识圈的另一个重要方面：它允许个人以极小投入的方式参与。如果你愿意，你可以通过修正一个错别字来为维基百科做出贡献。如果每天有一万个人修正一个错别字，那么一年就有 365 万个错别字。假设发现和修正一个错别字需要两分钟，那么需要近 50 人全职工作一年（2500 小时）才能修正这么多错别字。
 
 
 The example of a Wikipedia spelling correction shows the power of small contributions that add up within the digital knowledge loop. Their peril can be seen on social networks such as Twitter and Facebook, where the small contributions are likes and retweets or reposts to one’s friends or followers. While these tiny actions can amplify high-quality content, they can also spread mistakes, rumors and propaganda: indeed, research carried out at MIT in 2018 found that fake news stories spread faster and more widely than true ones (Vosoughi et al., 2018) (see “Freedom to Learn”, below). These information cascades can have significant consequences, ranging from jokes going viral to the outcomes of elections being affected. They have even contributed to major outbreaks of violence, as in the well-known case of the brutal persecution of the Rohingya in Myanmar (BBC News, 2018). 
 
 
-维基百科的拼写更正的例子显示了在数字知识圈中小贡献的力量。在Twitter和Facebook等社交网络上可以看到它们的危险性，在那里，小贡献是喜欢和转发或转贴给自己的朋友或追随者。虽然这些微小的行动可以放大高质量的内容，但它们也可以传播错误、谣言和宣传：事实上，2018年在麻省理工学院进行的研究发现，假新闻故事比真新闻传播得更快、更广（Vosoughi等人，2018）（见下文 "学习的自由"）。这些信息级联可以产生重大的后果，从笑话的病毒式传播到选举结果受到影响。它们甚至促成了重大暴力事件的爆发，比如众所周知的缅甸罗兴亚人遭受残酷迫害的案例（BBC新闻，2018）。
+维基百科的更正拼写的例子显示了在数字知识圈中小贡献累加的力量。而这种累加的危险性可以在 Twitter 和 Facebook 等社交网络上看到。在那里，小贡献是点击 “喜欢” 和转发，或转贴给自己的朋友或追随者。虽然这些微小的行动可以放大高质量的内容，但它们也可以传播错误、谣言和宣传：事实上，2018 年麻省理工学院的一项研究发现，假新闻故事比真新闻传播得更快、更广（Vosoughi 等人，2018）（见下文 “学习的自由”）。这些信息级联可以产生严重的后果，从笑话的病毒式传播到受影响的选举结果。它们甚至导致会重大暴力事件的爆发，比如众所周知的缅甸罗兴亚人遭受残酷迫害的案例（BBC 新闻，2018）。
 
 Some platforms make it possible for people to contribute passively to the digital knowledge loop. Waze is a GPS navigation app. It tracks users that seem to be in a car, and the speed at which they are moving. It then passes that information back to its servers, and algorithms figure out where traffic is moving smoothly and where drivers will encounter traffic jams. Waze then proposes alternative routes, taking the traffic into account. If you follow a different route proposed by Waze, you automatically contribute your speed on that detour, a further example of passive contribution. 
 
+一些平台使人们有可能被动地对数字知识圈作出贡献。Waze 是一个 GPS 导航应用程序。它追踪那些似乎在车里的用户，以及他们的移动速度。然后，它将这些信息传回服务器，并通过算法计算出哪里交通顺畅，哪里的司机会遇到交通堵塞。然后，Waze 在考虑到交通情况的基础上，提出替代路线。如果你遵循 Waze 提出的不同路线，你会自动贡献出你在这条弯路上的速度，这是一个进一步说明被动贡献的例子。
+
+
 To see the peril of passive contribution, consider Google’s autocomplete for search queries, which are derived from what people frequently search for. As a result, they often reflect existing biases, further amplifying them: often, instead of typing out their whole query, users select one of the autocompleted options presented to them. Another example of dangerous passive contribution are suggested ’follows’ on networks such as Twitter. These often present accounts of people similar to the ones someone is already connected with, thus deepening connections among people who think alike while cutting them off from other groups, a phenomenon giving rise to a kind of “Cyber-Balkans” (Van Alstyne & Brynjolfsson, 2005). 
 
+要看到被动贡献的危险性，请想一想用谷歌搜索查询时的自动填充功能，它来自人们经常搜索的内容。因此，它们往往反映了现有的偏见，并进一步扩大了这些偏见：用户往往不输入他们的整个查询，而是选择呈现给他们的自动填充的选项中的一个。另一个危险的被动贡献的例子是 Twitter 等网络上建议的 “关注”。这些人的账户往往与某人已经连接的人相似，从而加深了想法相同的人之间的联系，同时也切断了他们与其他群体的联系，这种现象产生了一种 “巴尔干网络”（Van Alstyne & Brynjolfsson, 2005）。
+
+
 The promise of the digital knowledge loop is broad access to a rapidly improving body of knowledge. The peril is that it will lead to a post-truth society that is constantly in conflict. Both of these possibilities are enabled by the same characteristics of digital technologies. Here once again, we can see that technology by itself does not determine the future.
+
+数字技术的前景是广泛获取快速改进的知识体系。其危险性在于它将导致一个不断冲突的后真相社会。这两种可能性都是由数字技术的相同特征促成的。在这里，我们可以再次看到，技术本身并不能决定未来。
 
 
 ## Technology Is Not Enough 
 
 To achieve the promise of the digital knowledge loop and sidestep its perils will require human societies to go through a massive transition, on a par with the two previous ones, from the Forager Age to the Agrarian Age and from the Agrarian Age to the Industrial Age. We now need to leave the Industrial Age behind and enter the next one, which I am calling the Knowledge Age. We have based our economies around the job loop, which traps a lot of our attention. We have constructed our laws governing access to information and computation as if they were industrial products. We have adopted a range of beliefs that keep us tied to jobs and consumption, and we are utterly overwhelmed by the new information environment. All of that has to change.
 
+为了实现数字知识圈的前景并避开其危险，人类社会需要经历一次大规模的转型，与之前的两次转型一样，从觅食时代到农业时代，从农业时代到工业时代。我们现在需要抛弃工业时代，进入下一个时代，我称之为知识时代。我们的经济是围绕着工作循环的，这吸引了我们大量的注意力。我们构建了管理信息和计算的法律，仿佛它们是工业产品。我们采用了一系列的信念，将我们与工作、消费联系在一起，而我们完全被新的信息环境所淹没了。所有这些都必须要改变。
+
+
 The transition will be difficult, however, because the Industrial Age is a system with many interlocking parts, and systems are highly resistant to change. As we saw earlier, simply harnessing digital technology to the existing system results in a hugely uneven distribution of power, income and wealth. Even worse, it tilts the digital knowledge loop away from its promise and toward its perils. 
 
+然而，转型将是困难的，因为工业时代是一个有许多相互关联的部分的系统，而系统是非常抗拒变化的。正如我们前面所看到的，简单地将数字技术用于现有系统，会导致权力、收入和财富的巨大不平衡。更糟糕的是，它使数字知识圈偏离了它的前景，走向了它的危险。
+
+
 The human species is facing problems that we can only overcome if we use digital technology to alleviate rather than worsen attention scarcity. We must reap the promise and limit the perils of digital technology for the knowledge loop. In order to successfully negotiate the transition into the Knowledge Age, we need to make dramatic changes in both collective regulation and self-regulation. This is what we will explore in Part Four.
+
+人类面临的问题，只有当我们利用数字技术来缓解而不是加剧注意力的匮乏时，我们才能克服。我们必须获得数字技术对知识圈有益的部分并限制其危险。为了成功地过渡到知识时代，我们需要在集体监管和自我监管方面做出巨大的改变。这就是我们将在第四部分探讨的内容。
+
