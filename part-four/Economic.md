@@ -291,15 +291,33 @@ One other objection to UBI is that it diminishes the value of work in society. I
 
 A further objection is that UBI robs people of the sense of purpose that work provides if they stop working or stop looking for work. However, the idea of work as a source of human purpose is a relatively new one, and it is largely attributable to the Protestant work ethic. Earlier, human purpose tended to be rooted in religion, which offered meaning in return for adhering to certain precepts (those might include work as one of several commandments, but not as a source of purpose in itself). The source of human purpose is thus subject to redefinition over time. As we transition to the Knowledge Age, contributing to or sustaining the knowledge loop is a more suitable focus. So is carrying out the responsibilities that we as humans have because of the power that knowledge has given to us.
 
+另一个反对意见是，如果人们停止工作或停止寻找工作，UBI 就会剥夺工作所带来的目的感。然而，将工作作为人类目的的来源是一个相对较新的想法，它主要归因于新教的工作伦理。早些时候，人类的目的往往植根于宗教，宗教为遵守某些戒律提供意义（这些戒律可能包括作为几条戒律之一的工作，但本身不是目的的来源）。因此，人类目的的来源随着时间的推移会被重新定义。随着我们过渡到知识时代，为知识圈做出贡献或维持知识圈是一个更合适的焦点。履行我们作为人类的责任也是如此，因为知识赋予我们的力量。
+
+
 One other frequent objection is that people will spend their basic income on alcohol and drugs, an assertion often accompanied by claims that the casino money received by Native Americans has caused drug problems among that population. There is no evidence to support this objection: no UBI pilots have found a significant increase in drug or alcohol abuse, and in the meantime the opioid crisis has been the largest drug epidemic in US history. Research shows that, contrary to widely held belief, casino money has contributed to declines in obesity, smoking and heavy drinking (Wolfe et al., 2012). 
 
+另一个经常出现的反对意见是，人们会把基本收入花在酒精和毒品上，这种说法往往伴随着另一个观点：美国原住民收到的赌场的钱在该人群中造成了毒品问题。没有证据支持这种反对意见：没有任何 UBI 试点发现毒品或酒精滥用的明显增加，同时，阿片类药物危机已经成为美国历史上最大的毒品流行病。研究表明，与人们普遍认为的相反，赌场的钱促进了肥胖、吸烟和大量饮酒的减少（Wolfe 等人，2012）。
+
+
 Some people object to UBI not because they think it won’t work, but because they claim it is a cynical ploy by the rich to silence the poor and keep them from rebelling. Some who voice this criticism genuinely believe it, but others use it as a tool of political division. Whatever the case, the impact of UBI is likely to be the opposite, as Thomas Paine recognized. In many parts of the world, including the United States, the poor are effectively excluded from the political process. They are too busy holding down one or more jobs to be able to run for office—or sometimes even to vote. American elections are held on a weekday, and employers are not required to give employees time off work to go to the polling station. Outside of elections many democratic processes, such as organizing protests or even strikes, relies on people who can contribute time to the effort. UBI will dramatically improve the ability of people to engage this way and thus challenge the status quo.
+
+有些人反对 UBI，并不是因为他们认为它不会成功，而是因为他们声称这是富人压制穷人并阻止他们反抗的一个狡猾的伎俩。一些提出这种批评的人真正相信它，但其他人则将其作为政治分裂的工具。不管是什么情况，UBI 的影响很可能是相反的。正如托马斯·潘恩所认识到的，在世界的许多地方，包括美国，穷人实际上被排除在政治进程之外。他们忙于从事一份或多份工作，无法参加竞选，有时甚至无法投票。美国的选举是在工作日举行的，雇主不需要给雇员放假去投票站。在选举之外的许多民主进程，如组织抗议甚至罢工，都依赖于能够为之贡献时间的人。UBI 将极大地提高人们以这种方式参与的能力，从而挑战现状。
+
 
 
 ## UBI as a Moral Imperative
 
 Before we examine informational freedom, we should remind ourselves why individuals deserve to have enough to take care of their needs, regardless of any economic contributions they may have made.
 
+在我们研究信息自由之前，我们应该提醒自己，为什么个人应该有足够的钱来照顾他们的需求，无论他们可能做出多少任何经济贡献。
+
+
 Consider the air we breathe. None of us did anything to make it: we just inherited it from the planet. Similarly, no one who is alive today did anything to invent electricity. It had already been invented, and we have inherited its benefits. You might point out that electricity costs money and people have to pay for it, but they pay for the cost of producing it rather than the cost of its invention. Here we might substitute many other amazing examples of our collectively inherited human knowledge, such as antibiotics, the wheel, sliced bread, etc.
 
+想一下我们所呼吸的空气。我们没有人做过任何事情来制造它：我们只是从地球上继承了它。同样地，今天活着的人没有做任何事情来发明电。它已经被发明了，而我们继承了它的好处。你可能会指出，电是要花钱的，人们必须为它付钱，但他们支付的是生产电的成本，而不是电的发明成本。在这里，我们可以用许多其他惊人的例子来代替我们集体继承的人类知识，如抗生素、车轮、切片面包等。
+
+
 We are incredibly fortunate to have been born into a world where capital is no longer scarce. This means that using our knowledge to take care of everyone’s needs is a moral imperative. UBI accomplishes that by giving people economic freedom, allowing them to escape the job loop, and accelerating the knowledge loop that gave us this incredible knowledge in the first place. 
+
+我们非常幸运地出生在一个资本不再稀缺的世界里。这意味着，利用我们的知识来照顾每个人的需求是一种道德上的要求。UBI 通过给予人们经济自由来实现这一目标，使他们能够摆脱工作圈，并加速首先给了我们这些不可思议的知识的知识圈的发展。
+

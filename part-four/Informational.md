@@ -2,31 +2,62 @@
 
 Can you read any book you want to at the push of a button? Can you listen to any music ever recorded the moment you feel like it? Do you have instant access to any academic publication from around the world that you wish to consult? In the past, when copying and distributing information was expensive, asking such seemingly outrageous questions would not have made any sense. In the early days of writing, when books were copied by hand, they were rare, costly and subject to errors. Very few people had access to them. And even as recently as the last years of the 20th century, it typically took physically costly processes of production and distribution to get books, musical recordings and other items into people’s hands.
 
+你能在按下按钮时阅读任何你想读的书吗？你能在你想听的时候听任何曾经录制的音乐吗？你是否可以即时获得你想查阅的世界各地的任何学术出版物？在过去，当复制和传播信息的成本很高时，问这种看似离谱的问题是没有任何意义的。在写作的早期，当书籍只能通过手抄复制时，它们是罕见的，昂贵的，而且会有错误。很少有人能接触到它们。即使在最近的 20 世纪最后几年，要把书本、音乐唱片和其他物品送到人们手中，通常需要花费大量的物理生产和分配过程。
+
+
 But in the digital age, when the marginal cost of making and distributing a copy has shrunk to zero, all limitations on digital information are artificial. They involve adding costs to the system in order to impose scarcity on something that is abundant. For example, billions of dollars have been spent on preventing people from copying and sharing digital music files (CBS News, 2001). 
+
+但在数字时代，当制作和分发一份拷贝的边际成本已经缩减到零时，对数字信息的所有限制都是人为的。它们的目的就是给系统增加成本，以便对丰富的东西施加稀缺性。例如，数十亿美元被用于防止人们复制和分享数字音乐文件（CBS 新闻，2001）。
+
 
 Why are we spending money to make information less accessible? When information existed only in analog form, the cost of copying and distributing it allowed us to build an economy and a society that was based on information scarcity. A record label, for instance, had to recruit musical talent, record in expensive studios, market the music, and make and distribute physical records. Charging for the records allowed the label to cover its costs and turn a profit. Now that individuals can make music on a laptop and distribute it for free, the fixed costs are dramatically lower and the marginal cost of each listen is zero. In this context, the business model of charging per record, per song or per listen, and the copyright protections required to sustain it, no longer make sense. Despite the ridiculous fight put up by the music industry, our listening is generally either free (meaning that it is ad-supported) or part of a subscription. In either case, the marginal cost of each listen is zero. 
 
+为什么我们要花钱让信息更难获取？当信息只以模拟形式存在时，复制和传播信息的成本使我们能够建立一个基于信息稀缺性的经济和社会。例如，一个唱片公司必须招募音乐人才，在昂贵的录音室录音，推销音乐，并制作和分发实体唱片。对唱片的收费使唱片公司能够支付其成本并实现盈利。现在，个人可以在笔记本电脑上制作音乐并免费分发，固定成本大大降低，每次收听的边际成本为零。在这种情况下，按唱片、按歌曲或按收听次数收费的商业模式，以及维持这种模式所需的版权保护，不再有意义了。尽管音乐产业进行了荒谬的斗争，但我们的收听通常要么是免费的（意味着它是广告支持的），要么是订阅的一部分。在这两种情况下，每次收听的边际成本都是零。
+
+
 Despite this progress in the music industry, we accept many other artificial restrictions on information access because this is the only system we know. To transition into the Knowledge Age, however, we should strive for an increase in informational freedom. This is not unprecedented in human history: prior to the advent of the printing press, stories and music were passed on orally or through copying by hand. There were no restrictions on who could tell a story or perform a song. 
+
+尽管在音乐行业取得了这一进展，我们还是接受了许多其他对信息获取的人为限制，因为这是我们唯一知道的系统。然而，为了过渡到知识时代，我们应该努力增加信息自由。这在人类历史上并非没有先例：在印刷术出现之前，故事和音乐是通过口头或手抄的方式传递的。对于谁能讲故事或表演歌曲，没有任何限制。
+
 
 To be clear, information is not the same as knowledge. Information, for instance, includes the huge number of log files generated every day by computers around the world, many of which may never be analyzed. We don’t know in advance what information will turn out to be the basis for knowledge, so it makes sense to retain as much information as possible and make access to it as broad as possible. This section will explore various ways in which we can expand informational freedom, the second important step that will facilitate our transition to a Knowledge Age. 
 
+说白了，信息不等同于知识。例如，信息包括世界各地的计算机每天产生的大量日志文件，其中许多可能永远不会被分析。我们事先不知道哪些信息会变成知识的基础，所以尽可能多地保留信息并使其获得尽可能广泛的访问是有意义的。本节将探讨我们可以扩大信息自由的各种方式，这是促进我们向知识时代过渡的第二个重要步骤。
 
 ## Access to the Internet
 
 The Internet has been derided by some who claim it is a small innovation compared to, say, electricity or vaccinations—but they are mistaken. The Internet allows anyone, anywhere in the world, to learn how electricity or vaccinations work. Setting aside artificial limitations imposed on the flow of information, the Internet provides the means to access and distribute all human knowledge to all of humanity. As such, it is the crucial enabler of the digital knowledge loop. Access to the Internet is a core component of informational freedom.
+
+互联网一直被一些人嘲笑，他们声称与电力或疫苗接种相比，互联网是一个小的创新，但他们错了。互联网允许任何人，在世界任何地方，了解电力或疫苗的工作原理。抛开对信息流的人为限制，互联网提供了向全人类获取和传播所有人类知识的手段。因此，它是数字知识圈的重要推动者。访问互联网是信息自由的核心组成部分。
+
  
 At present, over four and half billion people are connected to the Internet, a number that is increasing by hundreds of millions every year (Kemp, 2020). This tremendous growth has become possible because the cost of access has fallen dramatically. A capable smartphone costs less than $100 to manufacture. In places with competitive markets, 4G bandwidth is provided at prices as low as $0.10 per GB (Roy, 2019). 
 
+目前，超过 45 亿人连接到互联网，这个数字每年都在以亿计的速度增长（Kemp，2020）。这种巨大的增长之所以成为可能，是因为接入的成本已经大幅下降。一个智能手机的制造成本不到 100 美元。在有竞争性市场的地方，提供 4G 带宽的价格低至每 GB 0.10 美元（Roy, 2019）。
+
+
 Even connecting people who live in remote parts of the world is getting much cheaper, as the cost for wireless networking is decreasing and we are increasing our satellite capacity. For instance, there is a project underway to connect rural communities in Mexico for less than $10,000 per community (Rostad, 2018). At the same time, in highly developed economies such as the US, ongoing technological innovation such as MIMO wireless technology will further lower prices for bandwidth in densely populated urban areas (“MIMO,” 2020). 
+
+即使是连接生活在世界偏远地区的人，也变得更加便宜，因为无线网络的成本正在下降，我们正在增加我们的卫星容量。例如，有一个项目正在进行，以每个社区不到 10,000 美元的价格连接墨西哥的农村社区（Rostad，2018）。同时，在美国等高度发达的经济体，正在进行的技术创新，如 MIMO 无线技术，将进一步降低人口稠密的城市地区的带宽价格（“MIMO”，2020）。
+
 
 All of this means that even at relatively low levels, UBI would cover the cost of Internet access, provided that we keep innovating and maintain highly competitive and properly regulated markets for access to it. This is an example of how the three different freedoms reinforce each other: economic freedom allows people to access the Internet, which is the foundation for informational freedom, and, as we will see later, using it to contribute to the knowledge loop requires psychological freedom. 
 
+
+所有这些都意味着，即使在相对较低的水平上，UBI 也会覆盖互联网接入的成本，只要我们不断创新，并保持高度竞争和适当的监管互联网接入的市场。这是三个不同的自由如何相互促进的例子：经济自由使人们能够访问互联网，这是信息自由的基础，而且，正如我们稍后看到的，使用它来促进知识循环需要心理自由。
+
+
 As we work to make affordable Internet access universal, we must also address limitations to the flow of information on the network. In particular, we should fight against restrictions on the Internet imposed by governments and Internet service providers (ISPs). Both are artificial limitations, driven by a range of economic and policy considerations opposed to the imperative of informational freedom. 
+
+在我们努力普及可负担得起的互联网接入时，我们也必须解决网络信息流动的限制。特别是，我们应该与政府和互联网服务提供商（ISP）对互联网的限制作斗争。这两种限制都是人为的，是由一系列与信息自由的必要性相对立的经济和政策考虑驱动的。
 
 
 ## One Global Internet
 
 By design, the Internet has no built-in concept of geography. Most fundamentally, it constitutes a way to connect networks with one another (hence its name), regardless of where the machines involved are located. Any geographic restrictions have been added in, often at great cost. Australia and the UK have recently mandated so-called ‘firewalls’ around their countries, not unlike China’s own “Great Firewall” (“Great Firewall,” 2020), and countries like Turkey have had one in place for some time. These ‘firewalls’ place the Internet under government control, restricting informational freedom. For instance, Wikipedia was not accessible in Turkey for many years. Furthermore, both China and Russia have banned the use virtual private network services, tools that allow individuals to circumvent these artificial restrictions (Wenger, 2017a). As citizens, we should be outraged that governments are cutting us off from accessing information freely around the world, both on principle and on the basis of this being a bad use of resources. Imagine governments in an earlier age spending taxpayer money so citizens could dial fewer phone numbers.
+
+根据设计，互联网没有内置的地理概念。最根本的是，它构成了一种将网络相互连接的方式（因此而得名），而不管相关的机器位于何处。任何地理上的限制都是被加进去的，往往要付出很大的代价。澳大利亚和英国最近强制要求在其国家周围建立所谓的 “防火墙”，与中国自己的 “长城”（“长城”，2020 年）并不一样，土耳其等国家已经建立了一段时间。这些 “防火墙” 将互联网置于政府控制之下，限制了信息自由。例如，维基百科在土耳其有许多年无法访问。此外，中国和俄罗斯都禁止使用虚拟私人网络服务，这是允许个人规避这些人为限制的工具（Wenger, 2017a）。作为公民，我们应该对政府切断我们在世界各地自由获取信息的途径感到愤怒，这既是基于原则，也是基于这是对资源的一种不良利用。想象一下，在更早的时代，政府花纳税人的钱，让公民可以少拨一些电话号码。
+
 
 
 ## No Artificial Fast and Slow Lanes
