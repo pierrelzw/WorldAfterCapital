@@ -63,17 +63,17 @@ By design, the Internet has no built-in concept of geography. Most fundamentally
 
 The same equipment used by governments to impose geographic boundaries on the Internet is used by ISPs to extract more money from customers, distorting access in the process through practices including paid prioritization and zero-rating. To understand why they are a problem, let’s take a brief technical detour.
 
-政府用来在互联网上强加地理边界的同样设备被互联网服务供应商用来从客户那里榨取更多的钱，在这个过程中，通过包括付费优先和零等级的做法，扭曲了访问。为了理解为什么它们是一个问题，让我们在技术上做一个简短的迂回。
+政府用来在互联网上强加地理边界的同样设备被互联网服务供应商用来从客户那里榨取更多的钱，它们通过包括付费优先和零等级的做法，扭曲了互联网访问。为了理解为什么它们是一个问题，让我们回溯一下互联网技术。
 
  
 When you buy access to the Internet, you pay for a connection of a certain capacity. If it provides 10 megabits per second and you use that connection fully for sixty seconds, you would have downloaded (or uploaded, for that matter) 600 megabits, the equivalent of 15–25 songs on Spotify or SoundCloud (assuming 3–5 megabytes per song). The fantastic thing about digital information is that all bits are the same. It doesn’t matter whether you accessed Wikipedia or looked at pictures of kittens: you’ve paid for the bandwidth, and you should be free to use it to access whatever parts of human knowledge you want. 
 
-当你购买互联网接入时，你为一定容量的连接付费。如果它提供每秒 10 兆比特，你完全使用该连接 60 秒，你将下载（或上传，为此）600 兆比特，相当于 Spotify 或 SoundCloud 上的 15-25 首歌曲（假设每首歌曲 3-5 兆比特）。数字信息的奇妙之处在于，所有比特都是一样的。你是访问维基百科还是看小猫的图片并不重要：你已经为带宽付费，你应该可以自由地使用它来访问你想要的人类知识的任何部分。
+当你购买互联网接入时，你为一定容量的连接付费。如果它提供每秒 10 兆比特，你完全使用该连接 60 秒，你将下载（或上传，为此）600 兆比特，相当于 Spotify 或 SoundCloud 上的 15-25 首歌曲（假设每首歌曲 3-5 兆比特）。数字信息的奇妙之处在于，所有比特都是一样的。你是访问维基百科还是看小猫的图片并不重要：你已经为带宽付费，你应该可以自由地使用它来访问你想要的任何人类的知识。
 
 
 That principle, however, doesn’t maximize profit for the ISP. In order to do that, they seek to discriminate between different types of information, based on consumer demand and the supplier’s ability to pay. First they install equipment that lets them identify bits based on their origin. Then they go to a company like YouTube or Netflix and ask them to pay to have their traffic ’prioritized’ relative to traffic from other sources. Another form of manipulation that is common among wireless providers is so-called zero-rating, where some services pay to be excluded from monthly bandwidth caps. If permitted, ISPs will go a step further: in early 2017, the US Senate voted to allow them to sell customer data, including browsing history, without customer consent (Wenger, 2017b). 
 
-然而，这一原则并不能使互联网服务提供商的利润最大化。为了做到这一点，他们试图根据消费者的需求和供应商的支付能力，对不同类型的信息进行区分。首先，他们安装设备，让他们根据其来源来识别比特。然后，他们去找 YouTube 或 Netflix 这样的公司，要求他们付费，让他们的流量相对于其他来源的流量 “优先” 使用。另一种常见于无线供应商的操纵形式是所谓的零费率，即一些服务付费以排除在每月带宽上限之外。如果被允许，互联网服务提供商将更进一步：2017 年初，美国参议院投票允许他们在未经客户同意的情况下出售客户数据，包括浏览历史（Wenger, 2017b）。
+然而，这一原则并不能使互联网服务提供商的利润最大化。为了做到这一点，他们试图根据消费者的需求和供应商的支付能力，对不同类型的信息进行区分。首先，他们安装设备，让他们根据其来源来识别比特。然后，他们去找 YouTube 或 Netflix 这样的公司，要求他们付费，让他们的流量相对于其他来源的流量 “优先” 通行。另一种常见于无线供应商的操纵形式是所谓的零费率，即付一些服务付费以避免每月带宽上限。如果被允许，互联网服务提供商将更进一步：2017 年初，美国参议院投票允许他们在未经客户同意的情况下出售客户数据，包括浏览历史（Wenger, 2017b）。
 
 
 The regulatory solution to this problem is blandly referred to as ‘net neutrality’, but what is at stake here is informational freedom itself. Our access to human knowledge should not be skewed by our ISPs’ financial incentives. We might consider switching to another ISP that provides neutral access, but in most geographic areas, especially in the United States, there is no competitive market for broadband Internet access. ISPs either have outright monopolies (often granted by regulators) or operate in small oligopolies. For instance, in the part of New York City where I live, there is just one broadband ISP. 
@@ -167,12 +167,14 @@ CFAA 的范围可以大幅缩小，但不会限制其起诉欺诈和滥用的潜
 
 But, you might object, don’t companies need to protect the cryptographic keys that they use to encrypt communications? Aren’t ’botnets’ behind those infamous distributed denial-of-service (DDoS) attacks, where vast networks of computers flood a service with so many requests that no one can access it? It’s true that there are a lot of compromised machines in the world that are used for nefarious purposes, including set-top boxes and home routers. But that only demonstrates how ineffective the existing laws are at stopping illegal bots. As a result, companies have developed the technological infrastructure to deal with them. 
 
-但是，你可能会反对，难道公司不需要保护他们用来加密通信的密码钥匙吗？那些臭名昭著的分布式拒绝服务（DDoS）攻击的背后不就是 “僵尸网络” 吗？诚然，世界上有很多被破坏的机器被用于邪恶的目的，包括机顶盒和家用路由器。但这只能说明现有法律在阻止非法机器人方面是多么的无效。因此，公司已经开发了技术基础设施来处理它们。
+
+
+但是，你可能会反对，难道公司不需要保护他们用来加密通信的密码钥匙吗？那些臭名昭著的分布式拒绝服务（DDoS）攻击的背后不就是 “僵尸网络” 吗？它们通过给服务器提交大量的请求，以致于其他人不能访问他。世界上有很多被破坏的机器被用于邪恶的目的，包括机顶盒和家用路由器。但这只能说明现有法律在阻止非法机器人方面是多么的无效。因此，公司已经开发了技术基础设施来处理它们。
 
 
 How would we prevent people from using bots that turn out to be malicious code? For one, open-source code would allow people to inspect it to make sure it does what it claims. However, open source is not the only answer. Once people can legally be represented by bots, many markets currently dominated by large companies will face competition from smaller startups that will build, operate and maintain these bots on behalf of their end users. These companies will compete in part on establishing and maintaining a trust relationship with their customers, much like an insurance broker represents a customer in relationship with multiple insurance carriers.
 
-我们将如何防止人们使用变成恶意代码的机器人？首先，开放源代码将允许人们检查它，以确保它做它所声称的事情。然而，开放源代码并不是唯一的答案。一旦人们可以合法地由机器人代表，许多目前由大公司主导的市场将面临来自小型创业公司的竞争，这些公司将代表他们的最终用户建立、运营和维护这些机器人。这些公司的竞争部分在于建立和维护与客户的信任关系，就像保险经纪人代表客户与多家保险公司的关系一样。
+我们将如何防止人们使用变成恶意代码的机器人？首先，开放源代码将允许人们检查它，以确保它做它所声称的事情。然而，开放源代码并不是唯一的解决方案。一旦人们可以合法地由机器人代表，许多目前由大公司主导的市场将面临来自小型创业公司的竞争，这些公司将代表他们的终端用户建立、运营和维护这些机器人。这些公司的竞争部分在于建立和维护与客户的信任关系，就像保险经纪人代表客户与多家保险公司的关系一样。
 
 
 Legalizing representation by bots would put pressure on the revenues of the currently dominant companies. We might worry that they would respond by slowing their investment in infrastructure, but there are contravening forces as more money will be invested in competitors. For example Uber’s ‘take rate’ (the percentage of the money paid for rides that they keep) is 25 percent. If competition forced that rate down to 5 percent, Uber’s value might fall from $90 billion to $10 billion, but that is still a huge figure, and plenty of capital would be available for investing in competitive companies that can achieve that kind of outcome. 
