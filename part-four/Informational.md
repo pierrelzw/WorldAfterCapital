@@ -179,7 +179,7 @@ How would we prevent people from using bots that turn out to be malicious code? 
 
 Legalizing representation by bots would put pressure on the revenues of the currently dominant companies. We might worry that they would respond by slowing their investment in infrastructure, but there are contravening forces as more money will be invested in competitors. For example Uber’s ‘take rate’ (the percentage of the money paid for rides that they keep) is 25 percent. If competition forced that rate down to 5 percent, Uber’s value might fall from $90 billion to $10 billion, but that is still a huge figure, and plenty of capital would be available for investing in competitive companies that can achieve that kind of outcome. 
 
-将机器人的代表权合法化会给目前占主导地位的公司的收入带来压力。我们可能会担心他们会通过放缓对基础设施的投资来应对，但也有相反的力量，因为更多的钱会被投资到竞争对手身上。例如，Uber 的 “取费率”（他们保留的乘车费用的百分比）是 25%。如果竞争迫使该比率下降到 5%，那么 Uber 的价值可能会从 900 亿美元下降到 100 亿美元，但这仍然是一个巨大的数字，大量的资本将可用于投资能够实现这种结果的竞争公司。
+将机器人的代表权合法化会给目前占主导地位的公司的收入带来压力。我们可能会担心他们会通过放缓对基础设施的投资来应对，但也有相反的力量，因为更多的钱会被投资到竞争对手身上。例如，Uber 的 “抽成比例”（他们保留的乘车费用的百分比）是 25%。如果竞争迫使该比率下降到 5%，那么 Uber 的价值可能会从 900 亿美元下降到 100 亿美元，但这仍然是一个巨大的数字，大量的资本将可用于投资能够实现这种结果的竞争公司。
 
 
 That is not to say that there should not be limitations on bots. A bot representing me should have access to any functionality that I can access, but it should not be able to do things I can’t do, such as pretend to be another user or gain access to other people’s private posts. Companies can use technology to enforce such access limits for bots without relying on regulation that prevents bot representation in general. 
@@ -272,17 +272,17 @@ Critics might object that the system would impose a financial burden on creators
 
 UBI also provides an answer to another argument that is frequently wielded in support of excessive copyright: employment by publishers. This argument is relatively weak, as the major music labels combined employ only a little over twenty thousand people ("Sony Music," n.d.; “Universal Music Group,” n.d; “Warner Music Group,” n.d). On top of that, the existence of this employment to some degree reflects the societal cost of copyright. The owners, managers and employees of record labels are, for the most part, not the creators of the music. 
 
-UBI 还为另一个经常被用来支持过度版权的论点提供了答案：出版商的就业。这个论点相对较弱，因为主要的音乐公司加起来只雇用了两万多人（“索尼音乐”，n.d.；“环球音乐集团”，n.d.；“华纳音乐集团”，n.d）。除此之外，这种就业的存在在某种程度上反映了版权的社会成本。唱片公司的老板、经理和雇员，在大多数情况下，并不是音乐的创造者。
+UBI 还回应了另一个经常被用来支持过度的版权的论点：出版商的就业。这个论点相对较弱，因为主要的音乐公司加起来只雇用了两万多人（“索尼音乐”，n.d.；“环球音乐集团”，n.d.；“华纳音乐集团”，n.d）。除此之外，这种就业的存在在某种程度上反映了版权的社会成本。唱片公司的老板、经理和雇员，在大多数情况下，并不是音乐的创造者。
 
 
 Let me point out one more reason why a system of paid registration makes sense. No intellectual works are created in a vacuum. All authors have read books by other people, all musicians have listened to tons of music, and all filmmakers have watched countless movies. Much of what makes art so enjoyable is the existence of a vast body of art that it draws upon and can reference, whether explicitly or implicitly. We are all part of the knowledge loop that has existed for millennia. 
 
-让我再指出一个理由，说明付费注册制度是有意义的。没有任何智力作品是在真空中产生的。所有作者都读过别人的书，所有音乐家都听过大量的音乐，所有电影制作人都看过无数的电影。艺术之所以如此令人愉快，很大程度上是由于存在大量的艺术作品，它可以明确或隐含地借鉴和参考。我们都是已经存在了几千年的知识循环的一部分。
+让我再指出一个理由，说明付费注册制度是有意义的。没有任何智力作品是在真空中产生的。所有作者都读过别人的书，所有音乐家都听过大量的音乐，所有电影制作人都看过无数的电影。艺术之所以如此令人愉快，很大程度上是由于存在大量的可以直接或间接地借鉴和参考的艺术作品。我们都是已经存在了几千年的知识循环的一部分。
 
 
 While copyright limits our ability to share knowledge, patents limit our ability to use knowledge to create something new. Just as having a copyright confers a monopoly on the reproduction of content, a patent confers a monopoly on its application. The rationale for patents is similar to the argument for copyright: the monopoly that is granted results in profits that are supposed to provide an incentive for people to invest in research and development. 
 
-版权限制了我们分享知识的能力，而专利则限制了我们利用知识创造新事物的能力。就像拥有版权就能垄断内容的复制一样，专利也能垄断内容的应用。专利的理由与版权的论点相似：授予的垄断导致了利润，应该为人们投资于研究和开发提供激励。
+版权限制了我们分享知识的能力，而专利则限制了我们利用知识创造新事物的能力。就像拥有版权就能垄断内容的复制一样，专利也能垄断内容的应用。就像支持版权一样，人们认为专利合理的论点是：专利保证的垄断可以带来利润，激励人们投资于研究和开发。
 
 
 Here, as with copyright, this incentive argument should be viewed with suspicion. People invented things long before patents existed, and many have continued to invent without seeking them (Kinsella, 2013). Mathematics is a great example of the power of what is known as ‘intrinsic motivation’: the drive to do something for its own sake, and not because it will be financially rewarded. People who might have otherwise spent their time in a more lucrative way often dedicate years of their lives to work on a single mathematical problem (frequently without success). It is because of the intrinsic human drive to solve problems that the field has made extraordinary advances, entirely in the absence of patents, which thankfully were never extended to include mathematical formulas and proofs. As we will see momentarily, this problem solving drive can and has been successfully amplified through other means.
@@ -302,17 +302,17 @@ Many people are motivated by wanting to solve a problem, whether it’s one they
 
 A lot of legislation has significantly inflated the cost of innovation. In particular, FDA rules around drug trials have made drug discovery prohibitively expensive, with the cost of bringing a drug to market exceeding $1 billion. While it is obviously important to protect patients, there are novel statistical techniques that would allow for smaller and faster trials (Berry et al., 2010). A small step was taken recently with the compassionate use of not-yet-approved drugs for fatally ill patients. Excessive medical damage claims have presented another barrier to innovation. As a result of these costs, many drugs are either not developed at all or are withdrawn from the market, despite their efficacy. For example, the vaccine against Lyme disease, Lymerix, is no longer available for humans following damage claims (Willyard, 2019). 
 
-很多立法大大抬高了创新的成本。特别是，美国食品和药物管理局围绕药物试验的规定使药物发现的成本过高，将一种药物推向市场的成本超过 10 亿美元。虽然保护病人显然很重要，但有一些新的统计技术可以使试验规模更小、速度更快（Berry 等人，2010）。最近采取了一小步，对患有致命疾病的病人同情地使用尚未批准的药物。过度的医疗损害赔偿是创新的另一个障碍。由于这些费用，许多药物要么根本没有开发，要么从市场上撤下来，尽管它们有疗效。例如，预防莱姆病的疫苗 Lymerix 在损害索赔后不再用于人类（Willyard，2019）。
+很多立法大大抬高了创新的成本。特别是，美国食品和药物管理局关于药物试验的规定使药物发现的成本过高，将一种药物推向市场的成本超过 10 亿美元。虽然保护病人显然很重要，但有一些新的统计技术可以使试验规模更小、速度更快（Berry 等人，2010）。最近我们跨出了一小步，出于同情对患有致命疾病的病人使用尚未批准的药物。过度的医疗损害赔偿是创新的另一个障碍。由于这些费用，许多药物要么根本没有开发，要么从市场上撤下来，尽管它们有疗效。例如，预防莱姆病的疫苗 Lymerix 在损害索赔后便不再可用了（Willyard，2019）。
 
 
 Patents are not the only way to incentivize innovation. Another historically successful strategy has been the offering of prizes. In 1714, Britain famously offered rewards to encourage a solution to the problem of determining a ship’s longitude at sea. Several people were awarded prizes for their designs of chronometers, lunar distance tables and other methods for determining longitude, including improvements to existing methods. Mathematics provides an interesting example of the effectiveness of prizes, which beyond money also provide recognition. In addition to the coveted Fields Medal for exceptional work by mathematicians under the age of 40, there are also the seven so-called Millennium Prize Problems, each with a $1 million reward (only one of which has been solved to date—and Grigori Perelman, the Russian mathematician who solved it, famously turned down the prize money opting only for the recognition). 
 
-专利并不是激励创新的唯一方式。历史上另一个成功的策略是提供奖品。1714 年，英国为鼓励解决在海上确定船只的经度问题而提供了著名的奖励。一些人因为设计了天文钟、月球距离表和其他确定经度的方法（包括对现有方法的改进）而获得了奖励。数学界提供了一个有趣的例子，说明奖项的有效性，除了金钱之外，它还提供了认可。除了为 40 岁以下的数学家的特殊工作颁发令人垂涎的菲尔兹奖外，还有七个所谓的千年奖问题，每个问题都有 100 万美元的奖励（迄今为止，只有一个问题被解决了，解决这个问题的俄罗斯数学家格里戈里·佩雷尔曼拒绝了奖金，只选择了认可）。
+专利并不是激励创新的唯一方式。历史上另一个成功的策略是提供奖励。1714 年，英国为鼓励解决在海上确定船只的经度问题而提供了著名的奖励。一些人因为设计了天文钟、月球距离表和其他确定经度的方法（包括对现有方法的改进）而获得了奖励。数学界提供了一个有趣的例子，说明奖励的有效性，除了金钱之外，它还提供了认可。除了为 40 岁以下的数学家的特殊工作颁发令人垂涎的菲尔兹奖外，还有七个所谓的千禧年大奖难题，每个问题都有 100 万美元的奖励（迄今为止，只有一个问题被解决了，解决这个问题的俄罗斯数学家格里戈里·佩雷尔曼拒绝了奖金，只选择了认可）。
 
 
 At a time when we wish to accelerate the knowledge loop, we must shift the balance towards knowledge that can be used freely. The success of recent prize programs, such as the X Prizes, the DARPA Grand Challenge and NIST competitions, is promising, and the potential exists to crowdfund future prizes. Medical research should be a particular target for prizes, to help bring down the cost of healthcare. 
 
-在我们希望加速知识循环的时候，我们必须将平衡点转向可以自由使用的知识。最近的奖项计划，如 X 奖、DARPA 大挑战和 NIST 竞赛的成功是有希望的，并且存在为未来的奖项进行众筹的可能性。医学研究应该是一个特别的奖励目标，以帮助降低医疗成本。
+在我们希望加速知识循环的时候，我们必须将平衡点转向可以自由使用的知识。最近的奖项计划，如 X 奖、DARPA 大挑战和 NIST 竞赛的成功是有希望的，并且存在为未来的奖项进行众筹的可能性。医学研究更应该用奖励来激励，从而帮助降低医疗成本。
 
 
 Though prizes can help accelerate the knowledge loop, that still leaves a lot of existing patents in place. I believe much can be done to make the system more functional, in particular by reducing the impact of so-called non-practicing entities (NPEs, commonly referred to as “patent trolls”). These companies have no operating business of their own, and exist solely for the purpose of litigating patents. They tend to sue not just a company but also that company’s customers, forcing a lot of companies into a quick settlement. The NPE then uses the settlement money to finance further lawsuits. Fortunately, a recent Supreme Court ruling placed limits on where patent lawsuits can be filed, which might curtail the activity of NPEs (Liptak, 2017). 
