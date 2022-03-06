@@ -5,16 +5,16 @@
 
 Imagine you live in a society that has achieved economic and informational freedom. Would you make good use of those freedoms, or would your beliefs and fears hold you back from engaging in the knowledge loop? Or worse yet, would your attention be taken up by systems designed to capture it for someone else’s benefit? Would you feel free to pursue your own interests, or would your Industrial Age beliefs keep you trapped in the job loop? Would you have a strong sense of purpose, or would you feel adrift without a clear career path and a boss telling you what to do? Would you seek out new knowledge, or would you seek to confirm what you already believe? Would you feel free to create, or would you hold yourself back out of fear? And would you recognize when your attention is being manipulated? 
 
-想象一下，你生活在一个已经实现了经济和信息自由的社会。你会好好利用这些自由吗？还是你的信仰和恐惧会阻碍你参与知识的循环？或者更糟糕的是，你的注意力会不会被旨在为别人的利益而捕获的系统所占据？你会觉得可以自由地追求自己的兴趣，还是你在工业时代的信念会让你被困在工作圈里？你会有强烈的目标感，还是会在没有明确的职业道路和老板告诉你该做什么的情况下感到漂泊不定？你会寻求新的知识，还是会寻求确认你已经相信的东西？你会感到自由地创造，还是会因为恐惧而抑制自己？你会意识到你的注意力被操纵了吗？
+想象一下，你生活在一个已经实现了经济和信息自由的社会。你会好好利用这些自由吗？还是你的信仰和恐惧会阻碍你参与知识循环？或者更糟糕的是，你的注意力会不会被一些让某些人获利的系统占据？你会觉得可以自由地追求自己的兴趣，还是你在工业时代的信念会让你被困在工作循环里？你会有强烈的目标感，还是会在没有明确的职业道路和老板告诉你该做什么的情况下感到漂泊不定？你会寻求新的知识，还是会寻求确认你已经相信的东西？你会感到自由地创造，还是会因为恐惧而抑制自己？你会意识到你的注意力被操纵了吗？
 
 While the previous sections on economic and informational freedom examined changes that require collective action, this section addresses individual action. We must free ourselves from our deeply engrained Industrial Age beliefs, and we can start on that path by developing some form of mindfulness practice. This, in my view, is essential to freely directing our attention in the Knowledge Age. 
 
-前面关于经济和信息自由的章节考察了需要集体行动的变化，而本节则涉及个人行动。我们必须把自己从根深蒂固的工业时代信仰中解放出来，我们可以通过发展某种形式的正念练习来开始这条道路。在我看来，这对于在知识时代自由引导我们的注意力至关重要。
+之前关于经济和信息自由的章节讨论了需要集体行动的变化，而本节则涉及个体行动。我们必须把自己从根深蒂固的工业时代信仰中解放出来，我们可以通过发展某种形式的正念练习来开始这条道路。在我看来，这对于在知识时代自由引导我们的注意力至关重要。
 
 
-I should start by acknowledging the profound psychological dimension of the transition out of the Industrial Age. Social and economic disruption were making life stressful even before the Covid-19 pandemic. The unfolding climate crisis and the ongoing escalation of political and social tensions around the world are further causes for anxiety. To make matters worse, we have yet to learn to live healthily with new technology, and we obsessively check our smartphones during meetings, while driving, and before we go to sleep. This is taking an immense psychological toll, as increases in sleep disorders, suicide rates, drug overdoses and antisocial behaviors (e.g., bullying) show.
+I should start by acknowledging the transition  of the profound psychological dimension out of the Industrial Age. Social and economic disruption were making life stressful even before the Covid-19 pandemic. The unfolding climate crisis and the ongoing escalation of political and social tensions around the world are further causes for anxiety. To make matters worse, we have yet to learn to live healthily with new technology, and we obsessively check our smartphones during meetings, while driving, and before we go to sleep. This is taking an immense psychological toll, as increases in sleep disorders, suicide rates, drug overdoses and antisocial behaviors (e.g., bullying) show.
 
-我应该首先承认从工业时代转型的深刻的心理层面。甚至在 Covid-19 大流行之前，社会和经济的混乱就已经让生活充满了压力。正在发生的气候危机和世界各地持续升级的政治和社会紧张局势是进一步引起焦虑的原因。更糟糕的是，我们还没有学会与新技术一起健康地生活，我们在开会时、开车时和睡觉前痴迷地查看我们的智能手机。这正在造成巨大的心理损失，睡眠障碍、自杀率、药物过量和反社会行为（如欺凌）的增加都表明了这一点。
+我应该首先承认从工业时代以来的深层的心理层面的转型。甚至在 Covid-19 大流行之前，社会和经济的混乱就已经让生活充满了压力。正在发生的气候危机和世界各地持续升级的政治和社会紧张局势是进一步引起焦虑的原因。更糟糕的是，我们还没有学会与新技术一起健康地生活，我们在开会时、开车时和睡觉前痴迷地查看我们的智能手机。这正在造成巨大的心理损失，睡眠障碍、自杀率、药物过量和反社会行为（如欺凌）的增加都表明了这一点。
 
 We need to go beyond that general insight about the population at large and look at what goes on in our own heads, but that requires time and effort because our brains are easily hijacked by emotional reactions that interfere with introspection and self-awareness. Can we overcome the anxieties that might prevent us from gaining, creating and sharing knowledge? Can we put down our phones, when they are designed to draw us in? It might seem like a monumental task, but humankind is uniquely adaptable. After all, we have navigated two prior transitions that required dramatic psychological change, first from the Forager Age to the Agrarian Age, and then to the Industrial Age. 
 
@@ -112,6 +112,7 @@ The bulk of online experiences we currently interact with are designed to exploi
 
 New systems can help here. We might, for instance, imagine an online reader that presents opposing viewpoints to a given story. For each topic, you could explore both similar and opposing views. Such a reader could be presented as a browser plug-in, so that when you’ve ventured beyond the confines of a social media platform and are looking around on the Web, you could be drawn into actively exploring beyond the bounds of your usual sources (Wenger, 2011). 
 
+
 新的系统在这里可以提供帮助。例如，我们可以想象一个在线阅读器，它对一个给定的故事提出相反的观点。对于每个主题，你可以探索相似和反对的观点。这样的阅读器可以以浏览器插件的形式出现，这样，当你超越了社交媒体平台的限制，在网络上四处寻找时，你可以被吸引到你通常的来源范围之外进行积极探索（Wenger，2011）。
 
 
@@ -130,7 +131,13 @@ After learning, the next step in the knowledge loop is creating. Here again, we 
  
 The job loop further solidifies these beliefs about creativity, and even institutionalizes them. Society categorizes people into amateurs and professionals. We venerate the professional guitar player, artist or sculptor but denigrate the amateur, dismissing their work as “amateurish.” When we start to measure creativity by how much money an artist or musician makes rather than the passion they feel for a pursuit, there is no wonder that many people fear they will never measure up. 
 
+
+工作圈进一步巩固了这些关于创造力的信念，甚至将其制度化。社会把人分为业余和专业。我们推崇专业的吉他手、艺术家或雕塑家，但却诋毁业余者，把他们的作品斥为 “业余”。当我们开始用艺术家或音乐家赚多少钱来衡量创造力，而不是用他们对某项追求的热情来衡量，难怪许多人担心他们永远无法达到这个标准。
+
 Distractions also inhibit our impulses to create. There’s always another YouTube video to watch, another email to read, another post to glance at. Our brains are poorly suited to environments that are overloaded with information specifically curated to capture our attention. We evolved in a world where potentially relevant information—for instance, the sound of an approaching animal—could be a matter of life or death, and our brains are thus easily distracted. This is an example of a maladaptation to the current environment akin to our evolutionary craving for sugar in a world with added sugar everywhere. 
+
+
+分散注意力也抑制了我们创造的冲动。总是有另一个 YouTube 视频要看，另一个电子邮件要读，另一个帖子要看。我们的大脑很不适合那些专门为吸引我们的注意力而策划的超负荷信息环境。我们在一个潜在的相关信息 —— 例如，一个接近的动物的声音 —— 可能是一个生死攸关的问题的世界中进化，因此我们的大脑很容易分心。这是一个不适应当前环境的例子，类似于我们在进化过程中对糖的渴望，而这个世界到处都有加糖。
 
 In order to be able to create, we need to disconnect ourselves from many of those strategically selected and concentrated stimuli. Again, a mindfulness practice will be helpful here, allowing us to tune out interruptions, and there are many hacks we can use to prevent them in the first place, such as putting our phone into Do Not Disturb (DND) mode (I keep my phone on DND at all times with only family members being able to get through—that way I use my phone when I want to and not when Facebook or Twitter want me to).
 
@@ -144,28 +151,59 @@ In order to be able to create, we need to disconnect ourselves from many of thos
 ## Freedom to Share
 
 Even after we have created something, many of us fear that when we share it, it will be criticized. Someone will call our painting ugly, our code incompetent, or our proposal naive. Given the state of much online commentary and the prevalence of ‘trolling,’ those fears are well-founded—but they need not inhibit our participation in the knowledge loop. Part of the answer is to work on the inner strength to continue sharing despite criticism.
+
+即使在我们创造了一些东西之后，我们中的许多人都担心，当我们分享它时，它会被批评。有人会说我们的画很丑，我们的代码不称职，或者我们的建议很天真。考虑到许多在线评论的状况和 “嘲弄” 的盛行，这些恐惧是有根据的，但它们不需要抑制我们对知识循环的参与。答案的一部分是努力获得内在的力量，在批评声中继续分享。
+
  
 Another part of the answer is that we should cultivate empathy. Whenever we comment on the work of others online, we should keep in mind that they dared to create and share it. And we should also remember that by contributing to the knowledge loop, they have engaged in the very thing that makes us human. Those who manage online communities should provide tools for flagging and banning people who are abusive or make threats aimed at shutting down sharing. 
 
-If you live in a country that is subject to dictatorship, censorship or mob rule, sharing opinions, art or research can result in imprisonment, torture or even death. And yet despite that, we routinely find people who freely share in these places. We should take inspiration and courage from those people, and we should support people’s ability to build systems to enable sharing in these places that are censorship-resistant and that allow for pseudonymous and anonymous expression (even though these systems ultimately can provide only limited protection, as discussed in the earlier section on privacy). 
+答案的另一部分是，我们应该培养同理心。每当我们在网上评论别人的作品时，我们应该牢记他们敢于创造和分享这些作品。我们还应该记住，通过对知识圈的贡献，他们参与了使我们成为人类的事情。那些管理网络社区的人应该提供工具来标记和禁止那些滥用或威胁要关闭分享的人。
+
+
+If you live in a country that is subject to dictatorship, censorship or mob rule, sharing opinions, art or research can result in imprisonment, torture or even death. And yet despite that, we routinely find people who freely share in these places. We should take inspiration and courage from those people, and we should support people’s ability to build systems to enable sharing in these places that are censorship-resistant and that allow for pseudonymous and anonymous expression (even though these systems ultimately can provide only limited protection, as discussed in the earlier section on privacy).
+
+如果你生活在一个受独裁统治、审查制度或暴民统治的国家，分享意见、艺术或研究可能导致监禁、酷刑甚至死亡。然而尽管如此，我们还是经常发现在这些地方有自由分享的人。我们应该从这些人身上得到启发和勇气，我们应该支持人们建立系统的能力，以便在这些地方实现抗审查和允许假名和匿名表达的分享（尽管这些系统最终只能提供有限的保护，正如前面关于隐私的部分所讨论的）。
+
 
 In the Knowledge Age, there is such a thing as sharing too much—not sharing too much personal information, but mindlessly sharing harmful information. Threats, rumors and lies can take on lives of their own, and we can find ourselves contributing to an information cascade, in which an initial bit of information picks up speed and becomes an avalanche that destroys everything in its path. So, as with freedom in other contexts, there’s a double-edged aspect to having the psychological freedom to share. We need to free ourselves from fear to share our creations and our ideas, while also needing to control our emotional responses so that we do not poison the knowledge loop. Ask yourself whether what you’re sharing will enhance or hurt the pursuit of knowledge. If the answer is not obvious, it might be better not to share.
 
+在知识时代，有一种情况是分享得太多 —— 不是分享太多的个人信息，而是无意识地分享有害的信息。威胁、谣言和谎言可以有自己的生命，我们可以发现自己对信息级联的贡献，在这种情况下，最初的一点信息会加速，变成雪崩，摧毁其路径上的一切。因此，与其他情况下的自由一样，拥有分享的心理自由也有一个双刃剑的方面。我们需要把自己从恐惧中解放出来，以分享我们的创作和想法，同时也需要控制我们的情绪反应，以便我们不会毒害知识循环。问问自己，你所分享的东西是会提高还是会损害对知识的追求。如果答案不明显，也许不分享更好。
 
 ## Psychological Freedom and Humanism
 
 Self-regulation lies at the heart of psychological freedom, and allows us to separate our wants from our needs. It lets us consider our initial reactions to what others are saying, writing or doing without immediately reacting in anger. It lets us have empathy for others and to be open to learning something new. And it lets us overcome our fears of creating and sharing.
+
+自律是心理自由的核心，它使我们能够区分想要和需要。对他人所说、所写或所做的事情，它让思考我们自己的第一反应，而不立即做出愤怒的反应。它让我们对他人有同情心，并乐于学习新的东西。它还让我们克服对创造和分享的恐惧。
  
 Still, as humans we have a need for meaning that has us searching for purpose and recognition in ways that can all too easily result in us being psychologically unfree. Existential angst can express itself in many different forms, ranging from an inability to do anything to a manic desire to do everything. The persistence of religion is partly explained by its ability to address the need for meaning. Most religions claim that our purpose is to follow a set of divinely ordained rules, and that if we follow them, the respective god or gods will recognize and potentially even reward our existence. 
 
+
+然而，作为人类，我们有一种对意义的需求，这使我们在寻找目的和认可的过程中，很容易导致我们心理上的不自由。存在主义的焦虑可以以许多不同的形式表现出来，从什么都做不了到什么都想做的狂躁欲望。宗教的持续存在，部分原因是它能够解决对意义的需求。大多数宗教声称，我们的目的是遵循一套神圣的规则，如果我们遵循这些规则，各自的神将承认甚至有可能奖励我们的存在。
+
+
+
 Many organized religions intentionally disrupt the knowledge loop. They restrict the process of critical inquiry by which knowledge improves over time, through mechanisms such as censorship and “divine knowledge,” which is often encoded in sacred texts. This serves to maintain the power of the gatekeepers to the texts and their interpretation. While adhering to a religion may meet your existential psychological need for meaning, it may also make it difficult for you to participate fully and freely in the knowledge loop. 
+
+
+许多有组织的宗教有意扰乱知识循环。他们通过审查和 “神圣的知识” 等机制，限制了知识随着时间的推移而改进的批判性探究过程，而这些知识往往被编码在神圣的文本中。这有助于维护文本及其解释的看门人的权力。虽然坚持宗教可能会满足你对意义的存在心理需求，但它也可能使你难以完全自由地参与到知识圈中。
 
 The same is true for many informal beliefs. Belief in a preordained individual destiny can be used to fulfill the need for meaning, but it also acts as an obstacle to psychological freedom via thoughts such as “this was meant to be, there’s nothing I can do about it.” Or people can belong to communities that meet the need for meaning through recognition, but impose a strict conformity that restricts participation in the knowledge loop. It can often be difficult to recognize how much of one’s behavior is controlled by custom or peer pressure. 
 
+许多非正式的信仰也是如此。对预设的个人命运的信仰可以用来满足对意义的需求，但它也通过 “这是注定的，我无能为力” 这样的想法成为心理自由的障碍。或者人们可以属于那些通过承认来满足意义需求的社区，但却强加了严格的一致性，限制了对知识循环的参与。要认识到一个人的行为有多少是由习俗或同伴压力控制的，往往是很困难的。
+
+
 A new humanism, built around recognizing the importance of knowledge, can provide an alternative that enhances psychological freedom instead of inhibiting it. With participation in the knowledge loop as a key source of purpose, learning new things, being creative and sharing with others is encouraged. This doesn’t mean that everyone has to be the proverbial rocket scientist. There are a great many ways to participate in the knowledge loop, including creating art, as well as caring for others and the environment. 
+
+
+围绕着承认知识的重要性而建立的新人文主义，可以提供一种增强心理自由而不是抑制心理自由的替代方案。以参与知识循环作为目标的关键来源，学习新事物、发挥创造力和与他人分享是被鼓励的。这并不意味着每个人都必须成为传说中的火箭科学家。有很多方法可以参与知识循环，包括创造艺术，以及关心他人和环境。
 
 In order to help people be psychologically free, we need to substantially change most countries’ education systems. Today’s systems were developed to support the Industrial Age, and their goal is to shape people to participate in the job loop. We need a system that celebrates knowledge for its own sake, allows students to discover their individual interests and deepen those into a purpose, and teaches people about how to be psychologically free. In other words, we need to put humanism at the center of learning. 
 
+为了帮助人们获得心理上的自由，我们需要大幅改变大多数国家的教育系统。今天的系统是为支持工业时代而开发的，其目标是塑造人们参与工作循环。我们需要一个为知识本身而赞美的系统，允许学生发现他们的个人兴趣，并将其深化为一个目标，并教导人们如何在心理上获得自由。换句话说，我们需要将人文主义置于学习的中心。
+
+
 Humanism and the knowledge loop thus have important implications for how we can reorganize society and take responsibility for the world around us. This is the subject of Part Five.
+
+因此，人文主义和知识循环对我们如何重组社会并对我们周围的世界负责有着重要的意义。这就是第五部分的主题。
 
 
