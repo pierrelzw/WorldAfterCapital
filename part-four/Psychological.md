@@ -2,7 +2,6 @@
 
 # 心理自由
 
-
 Imagine you live in a society that has achieved economic and informational freedom. Would you make good use of those freedoms, or would your beliefs and fears hold you back from engaging in the knowledge loop? Or worse yet, would your attention be taken up by systems designed to capture it for someone else’s benefit? Would you feel free to pursue your own interests, or would your Industrial Age beliefs keep you trapped in the job loop? Would you have a strong sense of purpose, or would you feel adrift without a clear career path and a boss telling you what to do? Would you seek out new knowledge, or would you seek to confirm what you already believe? Would you feel free to create, or would you hold yourself back out of fear? And would you recognize when your attention is being manipulated? 
 
 想象一下，你生活在一个已经实现了经济和信息自由的社会。你会好好利用这些自由吗？还是你的信仰和恐惧会阻碍你参与知识循环？或者更糟糕的是，你的注意力会不会被一些让某些人获利的系统占据？你会觉得可以自由地追求自己的兴趣，还是你在工业时代的信念会让你被困在工作循环里？你会有强烈的目标感，还是会在没有明确的职业道路和老板告诉你该做什么的情况下感到漂泊不定？你会寻求新的知识，还是会寻求确认你已经相信的东西？你会感到自由地创造，还是会因为恐惧而抑制自己？你会意识到你的注意力被操纵了吗？
@@ -10,7 +9,6 @@ Imagine you live in a society that has achieved economic and informational freed
 While the previous sections on economic and informational freedom examined changes that require collective action, this section addresses individual action. We must free ourselves from our deeply engrained Industrial Age beliefs, and we can start on that path by developing some form of mindfulness practice. This, in my view, is essential to freely directing our attention in the Knowledge Age. 
 
 之前关于经济和信息自由的章节讨论了需要集体行动的变化，而本节则涉及个体行动。我们必须把自己从根深蒂固的工业时代信仰中解放出来，我们可以通过发展某种形式的正念练习来开始这条道路。在我看来，这对于在知识时代自由引导我们的注意力至关重要。
-
 
 I should start by acknowledging the transition  of the profound psychological dimension out of the Industrial Age. Social and economic disruption were making life stressful even before the Covid-19 pandemic. The unfolding climate crisis and the ongoing escalation of political and social tensions around the world are further causes for anxiety. To make matters worse, we have yet to learn to live healthily with new technology, and we obsessively check our smartphones during meetings, while driving, and before we go to sleep. This is taking an immense psychological toll, as increases in sleep disorders, suicide rates, drug overdoses and antisocial behaviors (e.g., bullying) show.
 
@@ -26,7 +24,7 @@ We now understand why humans can adapt so well. As neuroscientists have discover
 
 The idiom “take a deep breath” captures this idea well: pause and reflect before acting. The larger concept of deliberately freeing the mind is found in both Eastern and Western traditions. The Stoic philosophers developed practices of thought to temper the emotions, such as imagining the loss of a possession repeatedly before it occurs. In Buddhism, meditation techniques help practitioners achieve similar psychological freedom. We now have neuroscience research that lets us begin to understand how these techniques work, showing that their persistence over time is not a matter of religious belief or superstition, but grounded in the physical reality of our brains (Yoon et al., 2019).
 
-成语 “深呼吸” 很好地捕捉到了这个想法：在行动之前暂停并反思。东方和西方的传统中都有刻意解放思想的大概念。斯多葛派的哲学家们发展了思考的做法来控制情绪，例如在失去财产之前反复想象。在佛教中，冥想技术帮助修行者实现类似的心理自由。我们现在有了神经科学的研究，让我们开始了解这些技巧是如何工作的，表明它们长期存在不是宗教信仰或迷信的问题，而是基于我们大脑的物理现实（Yoon 等人，2019）。
+熟语 “深呼吸” 很好地捕捉到了这个想法：在行动之前暂停并反思。东方和西方的传统中都有刻意解放思想的大概念。斯多葛派的哲学家们发展了思考的做法来控制情绪，例如在失去财产之前反复想象。在佛教中，冥想技术帮助修行者实现类似的心理自由。我们现在有了神经科学的研究，让我们开始了解这些技巧是如何工作的，表明它们长期存在不是宗教信仰或迷信的问题，而是基于我们大脑的物理现实（Yoon 等人，2019）。
 
 We will now examine what we need to free ourselves *from* so that we can direct our attention to contributing to the knowledge loop and other Knowledge Age activities.
 
@@ -38,7 +36,7 @@ We will now examine what we need to free ourselves *from* so that we can direct 
 
 The extraordinary success of capitalism has made us confused about work and consumption. Instead of seeing them as a means to an end, we now see them as sources of purpose in themselves. Working harder and consuming more allows the economy to grow, so that... we can work harder and consume more. Though this sounds crazy, it has become the default position. We went so far as to ingrain this view in religion, moving to a Protestant work ethic that encourages working harder and earning more (Skidelsky & Skidelsky, 2013). Similar changes have taken place throughout Asia, where other religions have undergone this transition, most prominently in the case of the “New Confucianism” as championed by Lee Kuan Yew, the founding Prime Minister of Singapore (Pezzutto, 2019).
  
-资本主义的非凡成功使我们对工作和消费感到困惑。我们现在不再将它们视为达到目的的手段，而是将它们视为目的本身的来源。更努力的工作和更多的消费使经济增长，这样…… 我们可以更努力的工作和更多的消费。虽然这听起来很疯狂，但它已经成为默认的立场。我们甚至将这种观点根植于宗教中，转向鼓励更努力工作和赚取更多收入的新教工作伦理（Skidelsky & Skidelsky, 2013）。类似的变化也发生在整个亚洲，其他宗教也经历了这种转变，最突出的是新加坡开国总理李光耀倡导的 “新儒家”（Pezzutto，2019）。
+资本主义的非凡成功使我们对工作和消费感到困惑。我们现在不再将它们视为达到目的的手段，而是将它们视为目的本身的来源。更努力的工作和更多的消费使经济增长，这样…… 我们可以更努力的工作和更多的消费。虽然这听起来很疯狂，但它已经成为大家默认的立场。我们甚至将这种观点根植于宗教中，转向鼓励更努力工作和赚取更多收入的新教工作伦理（Skidelsky & Skidelsky, 2013）。类似的变化也发生在整个亚洲，其他宗教也经历了这种转变，最突出的是新加坡开国总理李光耀倡导的 “新儒家”（Pezzutto，2019）。
  
 Even worse, we frequently find ourselves trapped in what’s known as ‘positional consumption’, or “Keeping up with the Joneses.” This is where what matters to us are not the inherent benefits of the things we buy, but their relative prestige. If our neighbor buys a new car, we find ourselves wanting an even newer and more expensive model. Such behavior has emerged not just with respect to goods but also to services—think of the $1,000 haircut or the $595-per-person dinner at a Michelin-starred restaurant (Orlo Salon, n.d.; Cross, 2020). Of course, much of this confusion has been fueled by trillions of dollars of advertising spend aimed at convincing us to buy more, flooding us with imagery of how happy we’ll be if only we do. Between economic policy, advertising and religion, it is no wonder that many people are convinced that materialism is part of human nature. 
 
@@ -60,7 +58,7 @@ Suppose skiing is your passion and you want to keep seeking the perfect powder. 
 
 In this instance, psychological freedom means freeing yourself of assumptions that you might have about how to go skiing. It helps, of course, to remind yourself that many of these assumptions are formed by companies that have a commercial interest in portraying skiing that way. If you can learn to reframe it as an outdoor adventure and a chance to be in nature, it needn’t be expensive. A similar logic holds for any number of other activities. 
 
-在这个例子中，心理自由意味着将自己从关于如何去滑雪的假设中解放出来。当然，提醒自己这些假设中有许多是由那些对滑雪有商业利益的公司形成的。如果你能学会把它重塑为一次户外探险和一个在大自然中的机会，它就不需要很昂贵。类似的逻辑也适用于任何数量的其他活动。
+在这个例子中，心理自由意味着将自己从关于如何去滑雪的假设中解放出来。当然，提醒自己这些假设中有许多是由那些在滑雪这件事上有商业利益的公司形成的。如果你能学会把它重塑为一次户外探险和一次亲近大自然的机会，它就不需要很昂贵。类似的逻辑也适用于任何数量的其他活动。
 
 
 To free ourselves from wanting, we should remind ourselves of the difference between needs and wants, learn how our brain works and point our seeking away from consumption towards creative and experiential activities. For many of us, that means letting go of existing attachments to wants that we have developed over a long time. Finally, we should always cast a critical eye on the advertising we encounter, understanding that it perpetuates illusions about needs and wants and keeps us trapped in the job loop.
@@ -82,7 +80,7 @@ The present-day educational system was built to support the job loop of the indu
 
 A critical way that we undermine curiosity is by evaluating areas of knowledge according to whether we think they will help us get a “good job.” If your child expressed an interest in learning Swahili or wanting to play the mandolin, would you support that? Or would you say something like, “But how will you earn a living with that?” The latest iteration of this thinking is an enthusiasm for learning how to code in order to get high-paying job in tech. Here again, instead of encouraging curiosity about coding, either for its own sake or as a tool in science or art, we force it into the Industrial Age logic of the job loop.
 
-我们破坏好奇心的一个重要方式是根据我们认为知识领域是否会帮助我们得到一份 “好工作” 来评估它们。如果你的孩子表示对学习斯瓦希里语或想弹曼陀林感兴趣，你会支持吗？或者你会说：“但你怎么能靠这个谋生呢？” 这种思维的最新迭代是对学习代码的热情，以便在技术领域获得高薪工作。在这里，我们没有鼓励人们对编码的好奇心，无论是为了它本身还是作为科学或艺术的工具，而是把它强行纳入工业时代的工作循环逻辑。
+我们破坏好奇心的一个重要方式是根据我们认为知识领域是否会帮助我们得到一份 “好工作” 来评估它们。如果你的孩子表示对学习斯瓦希里语或想弹曼陀林感兴趣，你会支持吗？或者你会说：“但你怎么能靠这个谋生呢？” 这种思维的最新版本是对学习代码的热情，以便在技术领域获得高薪工作。在这里，我们没有鼓励人们对编码的好奇心，无论是为了它本身还是作为科学或艺术的工具，而是把它强行纳入工业时代的工作循环逻辑。
 
 
 We need to free ourselves from this instrumental view of knowledge and embrace learning for its own sake. As we’ve already seen, UBI can go a long way in allaying fears that we won’t be able to support ourselves if we let our curiosity guide our learning. But will we have enough engineers and scientists in such a world? If anything, we’ll likely have more than we do under the current system. After all, forcing kids to study something is a surefire way to squelch their natural curiosity. 
@@ -119,7 +117,6 @@ New systems can help here. We might, for instance, imagine an online reader that
 Fundamentally though, we all have to actively work on engaging what Kahneman calls “System 2”: the part of our brain that requires effort, but that lets us think independently and rationally. Developing and keeping up some kind of mindfulness practice is a key enabler for overcoming biases and freeing ourselves to learn.
 
 但从根本上说，我们都必须积极努力地参与卡尼曼所说的 “系统 2”：我们大脑中需要努力的部分，但它让我们独立和理性地思考。培养和保持某种正念练习是克服偏见和解放自己学习的一个关键因素。
-
 
 
 ## Freedom to Create
@@ -177,9 +174,7 @@ Self-regulation lies at the heart of psychological freedom, and allows us to sep
  
 Still, as humans we have a need for meaning that has us searching for purpose and recognition in ways that can all too easily result in us being psychologically unfree. Existential angst can express itself in many different forms, ranging from an inability to do anything to a manic desire to do everything. The persistence of religion is partly explained by its ability to address the need for meaning. Most religions claim that our purpose is to follow a set of divinely ordained rules, and that if we follow them, the respective god or gods will recognize and potentially even reward our existence. 
 
-
 然而，作为人类，我们有一种对意义的需求，这使我们在寻找目的和认可的过程中，很容易导致我们心理上的不自由。存在主义的焦虑可以以许多不同的形式表现出来，从什么都做不了到什么都想做的狂躁欲望。宗教的持续存在，部分原因是它能够解决对意义的需求。大多数宗教声称，我们的目的是遵循一套神圣的规则，如果我们遵循这些规则，各自的神将承认甚至有可能奖励我们的存在。
-
 
 
 Many organized religions intentionally disrupt the knowledge loop. They restrict the process of critical inquiry by which knowledge improves over time, through mechanisms such as censorship and “divine knowledge,” which is often encoded in sacred texts. This serves to maintain the power of the gatekeepers to the texts and their interpretation. While adhering to a religion may meet your existential psychological need for meaning, it may also make it difficult for you to participate fully and freely in the knowledge loop. 
@@ -193,7 +188,6 @@ The same is true for many informal beliefs. Belief in a preordained individual d
 
 
 A new humanism, built around recognizing the importance of knowledge, can provide an alternative that enhances psychological freedom instead of inhibiting it. With participation in the knowledge loop as a key source of purpose, learning new things, being creative and sharing with others is encouraged. This doesn’t mean that everyone has to be the proverbial rocket scientist. There are a great many ways to participate in the knowledge loop, including creating art, as well as caring for others and the environment. 
-
 
 围绕着承认知识的重要性而建立的新人文主义，可以提供一种增强心理自由而不是抑制心理自由的替代方案。以参与知识循环作为目标的关键来源，学习新事物、发挥创造力和与他人分享是被鼓励的。这并不意味着每个人都必须成为传说中的火箭科学家。有很多方法可以参与知识循环，包括创造艺术，以及关心他人和环境。
 
