@@ -95,28 +95,28 @@ The knowledge loop, accelerated by digital technology, brings to the fore other 
 
 Another barrier to learning is the human tendency to jump to conclusions on the basis of limited data. After a study suggested that smaller schools tended to produce better student performance than larger schools, educators began to create a lot of smaller schools, only for a subsequent study to find that a lot of smaller schools were also doing poorly. It turns out that the more students a school has, the more likely it is to approximate the overall distribution of students. A small school is therefore more likely to have students who perform predominantly well or poorly. 
 
-学习的另一个障碍是人类倾向于在有限的数据基础上跳出结论。在一项研究表明，规模较小的学校往往比规模较大的学校产生更好的学生成绩后，教育工作者开始创建大量的小型学校，只是在随后的研究中发现，许多小型学校也表现不佳。事实证明，一所学校的学生越多，就越有可能接近学生的整体分布。因此，一所小学校更有可能出现以表现好或表现差为主的学生。
+学习的另一个障碍是人类倾向于基于有限的数据给出结论。在一项研究表明，规模较小的学校往往比规模较大的学校产生更好的学生成绩后，教育工作者开始创建大量的小型学校，只是在随后的研究中发现，许多小型学校也表现不佳。事实证明，一所学校的学生越多，就越有可能接近学生的整体分布。因此，一所小学校更有可能出现以表现好或表现差为主的学生。
 
 
 Daniel Kahneman discusses such biases in his book *Thinking, Fast and Slow*. We rely on heuristics that result in confirmation bias and storytelling because many of the systems in the human brain are optimized for speed and effortlessness. These heuristics aren’t necessarily all bad as they can contribute to important ruin avoidance mechanisms (something which Kahneman ignores), but they served us better in a world with an analog knowledge loop, where more time existed for correcting mistakes. In today’s high-velocity digital knowledge loop, we must slow ourselves down or risk passing along incorrect stories. A recent study showed that false stories spread online many times more quickly than true ones (Vosoughi et al., 2018). 
 
-丹尼尔·卡尼曼在他的《思考，快与慢》一书中讨论了这种偏见。我们依赖启发式方法，导致确认性偏见和讲故事，因为人类大脑中的许多系统是为速度和不费力而优化的。这些启发式方法不一定都是坏事，因为它们可以促进重要的避免毁坏的机制（卡尼曼忽略了这一点），但它们在一个有模拟知识循环的世界里对我们更好，那里有更多时间来纠正错误。在今天的高速数字知识循环中，我们必须放慢自己的脚步，否则就有可能传递错误的故事。最近的一项研究表明，虚假故事在网上的传播速度比真实故事快很多倍（Vosoughi 等人，2018）。
+丹尼尔·卡尼曼在他的《思考，快与慢》一书中讨论了这种偏见。我们依赖会导致证实偏见和故事的启发式方法，因为人类大脑中的许多系统都倾向于变得又快又不费力。这些启发式方法不一定都是坏事，因为它们可以促进重要的避免毁坏的机制（卡尼曼忽略了这一点），但它们在一个有模拟知识循环的世界里对我们更好，那里有更多时间来纠正错误。在今天这种高速的数字知识循环中，我们必须放慢自己的脚步，否则就有可能传递错误的故事。最近的一项研究表明，虚假故事在网上的传播速度比真实故事快很多倍（Vosoughi 等人，2018）。
 
 
 The bulk of online experiences we currently interact with are designed to exploit our cognitive and emotional biases, not to help us overcome them. Companies such as Facebook and Twitter become more valuable as they capture more of our attention by appealing to what Kahneman calls “System 1”: the parts of our brain that run automatically and that are responsible for our cognitive biases (Kahneman, 2013). You are more likely to look at cute animal pictures or status updates from your friends than to read an in-depth analysis of a proposal for a carbon tax. The recent explosion of “fake news” exploits this flaw in our systems, making large-scale manipulation possible. 
 
-我们目前与之互动的大部分在线体验都是为了利用我们的认知和情感偏见，而不是为了帮助我们克服这些偏见。诸如 Facebook 和 Twitter 这样的公司变得更有价值，因为它们通过吸引卡尼曼所说的 “系统 1” 来吸引我们的注意力：我们大脑中自动运行的部分，这些部分负责我们的认知偏见（卡尼曼，2013）。你更有可能看可爱的动物图片或你朋友的状态更新，而不是阅读对碳税提案的深入分析。最近爆发的 “假新闻” 利用了我们系统中的这一缺陷，使大规模操纵成为可能。
+我们目前与之互动的大部分在线体验都是为了利用我们的认知和情感偏见，而不是为了帮助我们克服它们。诸如 Facebook 和 Twitter 这样的公司变得更有价值，因为它们通过捕获卡尼曼所说的 “系统 1” 来吸引我们的注意力：我们大脑中自动运行的部分，这些部分导致了我们的认知偏见（卡尼曼，2013）。你更有可能看可爱的动物图片或你朋友的状态更新，而不是阅读对碳税提案的深入分析。最近爆发的 “假新闻” 利用了我们系统中的这一缺陷，使大规模操纵成为可能。
 
 
 New systems can help here. We might, for instance, imagine an online reader that presents opposing viewpoints to a given story. For each topic, you could explore both similar and opposing views. Such a reader could be presented as a browser plug-in, so that when you’ve ventured beyond the confines of a social media platform and are looking around on the Web, you could be drawn into actively exploring beyond the bounds of your usual sources (Wenger, 2011). 
 
 
-新的系统在这里可以提供帮助。例如，我们可以想象一个在线阅读器，它对一个给定的故事提出相反的观点。对于每个主题，你可以探索相似和反对的观点。这样的阅读器可以以浏览器插件的形式出现，这样，当你超越了社交媒体平台的限制，在网络上四处寻找时，你可以被吸引到你通常的来源范围之外进行积极探索（Wenger，2011）。
+新的系统在这里可以提供帮助。例如，我们可以想象有这样一个在线阅读器，它对一个给定的故事能给出相反的观点。对于每个主题，你可以看到相似和反对的观点。这样的阅读器可以以浏览器插件的形式出现，这样，当你超越了社交媒体平台的限制，在网络上四处寻找时，你有机会被吸引到你通常的信息源范围之外进行积极探索（Wenger，2011）。
 
 
 Fundamentally though, we all have to actively work on engaging what Kahneman calls “System 2”: the part of our brain that requires effort, but that lets us think independently and rationally. Developing and keeping up some kind of mindfulness practice is a key enabler for overcoming biases and freeing ourselves to learn.
 
-但从根本上说，我们都必须积极努力地参与卡尼曼所说的 “系统 2”：我们大脑中需要努力的部分，但它让我们独立和理性地思考。培养和保持某种正念练习是克服偏见和解放自己学习的一个关键因素。
+但从根本上说，我们都必须积极努力地理解卡尼曼所说的 “系统 2”：我们大脑中需要努力的部分，但它让我们独立思考、理性思考。培养和保持某种正念练习是克服偏见和解放自己学习的一个关键因素。
 
 
 ## Freedom to Create
@@ -134,13 +134,10 @@ The job loop further solidifies these beliefs about creativity, and even institu
 Distractions also inhibit our impulses to create. There’s always another YouTube video to watch, another email to read, another post to glance at. Our brains are poorly suited to environments that are overloaded with information specifically curated to capture our attention. We evolved in a world where potentially relevant information—for instance, the sound of an approaching animal—could be a matter of life or death, and our brains are thus easily distracted. This is an example of a maladaptation to the current environment akin to our evolutionary craving for sugar in a world with added sugar everywhere. 
 
 
-分散注意力也抑制了我们创造的冲动。总是有另一个 YouTube 视频要看，另一个电子邮件要读，另一个帖子要看。我们的大脑很不适合那些专门为吸引我们的注意力而策划的超负荷信息环境。我们在一个潜在的相关信息 —— 例如，一个接近的动物的声音 —— 可能是一个生死攸关的问题的世界中进化，因此我们的大脑很容易分心。这是一个不适应当前环境的例子，类似于我们在进化过程中对糖的渴望，而这个世界到处都有加糖。
+分散注意力也抑制了我们创造的冲动。总是有另一个 YouTube 视频要看，另一个电子邮件要读，另一个帖子要看。我们的大脑很不适合那些专门为吸引我们的注意力而策划的超负荷信息环境。我们在一个潜在的相关信息 —— 例如，一个接近的动物的声音 —— 可能是一个生死攸关的问题的世界中进化，因此我们的大脑很容易分心。这是一个不适应当前环境的例子，类似于我们在进化过程中对糖的渴望，而这个世界到处都有额外的糖分。
 
 In order to be able to create, we need to disconnect ourselves from many of those strategically selected and concentrated stimuli. Again, a mindfulness practice will be helpful here, allowing us to tune out interruptions, and there are many hacks we can use to prevent them in the first place, such as putting our phone into Do Not Disturb (DND) mode (I keep my phone on DND at all times with only family members being able to get through—that way I use my phone when I want to and not when Facebook or Twitter want me to).
 
-工作圈进一步巩固了这些关于创造力的信念，甚至将其制度化。社会把人分为业余和专业。我们推崇专业的吉他手、艺术家或雕塑家，但却诋毁业余者，把他们的作品斥为 “业余”。当我们开始用艺术家或音乐家赚多少钱来衡量创造力，而不是用他们对某项追求的热情来衡量，难怪许多人担心他们永远无法达到这个标准。
-
-分散注意力也抑制了我们创造的冲动。总是有另一个 YouTube 视频要看，另一个电子邮件要读，另一个帖子要看。我们的大脑很不适合那些专门为吸引我们的注意力而策划的超负荷信息环境。我们在一个潜在的相关信息 —— 例如，一个接近的动物的声音 —— 可能是一个生死攸关的问题的世界中进化，因此我们的大脑很容易分心。这是一个不适应当前环境的例子，类似于我们在进化过程中对糖的渴望，而这个世界到处都有加糖。
 
 为了能够创造，我们需要将自己与许多经过战略选择和集中的刺激物断开。同样，正念练习在这里会有帮助，使我们能够调出干扰，而且有许多小技巧我们可以用来首先防止它们，比如把我们的手机调到勿扰（DND）模式（我的手机一直保持在 DND 模式，只有家人能够打通，这样我想用手机的时候就用，而不是 Facebook 或 Twitter 要我用的时候）。
 
@@ -164,7 +161,7 @@ If you live in a country that is subject to dictatorship, censorship or mob rule
 
 In the Knowledge Age, there is such a thing as sharing too much—not sharing too much personal information, but mindlessly sharing harmful information. Threats, rumors and lies can take on lives of their own, and we can find ourselves contributing to an information cascade, in which an initial bit of information picks up speed and becomes an avalanche that destroys everything in its path. So, as with freedom in other contexts, there’s a double-edged aspect to having the psychological freedom to share. We need to free ourselves from fear to share our creations and our ideas, while also needing to control our emotional responses so that we do not poison the knowledge loop. Ask yourself whether what you’re sharing will enhance or hurt the pursuit of knowledge. If the answer is not obvious, it might be better not to share.
 
-在知识时代，有一种情况是分享得太多 —— 不是分享太多的个人信息，而是无意识地分享有害的信息。威胁、谣言和谎言可以有自己的生命，我们可以发现自己对信息级联的贡献，在这种情况下，最初的一点信息会加速，变成雪崩，摧毁其路径上的一切。因此，与其他情况下的自由一样，拥有分享的心理自由也有一个双刃剑的方面。我们需要把自己从恐惧中解放出来，以分享我们的创作和想法，同时也需要控制我们的情绪反应，以便我们不会毒害知识循环。问问自己，你所分享的东西是会提高还是会损害对知识的追求。如果答案不明显，也许不分享更好。
+在知识时代，有一种情况是分享得太多 —— 不是分享太多的个人信息，而是无意识地分享有害的信息。威胁、谣言和谎言可以有自己的生命，我们可以发现自己对信息爆炸的贡献，在这种情况下，最初的一点信息会加速，变成雪崩，摧毁其路径上的一切。因此，与其他情况下的自由一样，拥有分享的心理自由也有一个双刃剑的方面。我们需要把自己从恐惧中解放出来，以分享我们的创作和想法，同时也需要控制我们的情绪反应，以便我们不会伤害知识循环。问问自己，你所分享的东西是会提高还是会损害对知识的追求。如果答案不明显，也许不分享更好。
 
 ## Psychological Freedom and Humanism
 
