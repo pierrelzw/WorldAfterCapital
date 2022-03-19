@@ -186,7 +186,7 @@ The same is true for many informal beliefs. Belief in a preordained individual d
 
 A new humanism, built around recognizing the importance of knowledge, can provide an alternative that enhances psychological freedom instead of inhibiting it. With participation in the knowledge loop as a key source of purpose, learning new things, being creative and sharing with others is encouraged. This doesn’t mean that everyone has to be the proverbial rocket scientist. There are a great many ways to participate in the knowledge loop, including creating art, as well as caring for others and the environment. 
 
-围绕着承认知识的重要性而建立的新人文主义，可以提供一种增强心理自由而不是抑制心理自由的替代方案。以参与知识循环作为目标的关键来源，学习新事物、发挥创造力和与他人分享是被鼓励的。这并不意味着每个人都必须成为传说中的火箭科学家。有很多方法可以参与知识循环，包括创造艺术，以及关心他人和环境。
+围绕着承认知识的重要性而建立的新人文主义，可以提供一种增强心理自由而不是抑制心理自由的替代方案。以参与知识循环作为目标的关键来源，学习新事物、发挥创造力和与他人分享是被鼓励的。这并不意味着每个人都必须成为传说中的火箭科学家。有很多方法可以参与知识循环，包括创造艺术，以及照顾他人和环境。
 
 In order to help people be psychologically free, we need to substantially change most countries’ education systems. Today’s systems were developed to support the Industrial Age, and their goal is to shape people to participate in the job loop. We need a system that celebrates knowledge for its own sake, allows students to discover their individual interests and deepen those into a purpose, and teaches people about how to be psychologically free. In other words, we need to put humanism at the center of learning. 
 
