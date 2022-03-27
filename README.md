@@ -2,16 +2,16 @@
 
 Humanity is the only species on Earth to have developed knowledge. I will make the term ‘knowledge’ increasingly precise as we go along, but for now I will simply say that we are the only species that is able to read and write, and that this ability in turn has allowed us to create increasingly powerful technology. Technological advance has the effect of broadening the ‘space of the possible’: for instance, with the invention of the airplane, human flight became a reality. 
 
-人类是地球上唯一发展了知识的物种。随着时间的推移，我将使 “知识” 一词越来越精确，但现在我只想说，我们是唯一能够阅读和书写的物种，而这种能力反过来又使我们能够创造出越来越强大的技术。技术进步具有扩大 “可能空间” 的作用：例如，随着飞机的发明，人类飞行成为现实。
+人类是地球上唯一发展了知识的物种。随着时间的推移，我将使 “知识” 一词越来越精确，但现在我只想说，我们是唯一能够阅读和书写的物种，而这种能力反过来又使我们能够创造出越来越强大的技术。技术进步具有扩大 “可能性的空间” 的作用：例如，随着飞机的发明，人类飞行成为现实。
 
 When the ‘space of the possible’ is broadened, it brings with it both good and bad capabilities. This duality of technology has been with us since we learned to start a fire, the very first human technology. With this discovery, it became possible to warm ourselves and cook, but also to burn down forests and enemy villages. Today, the Internet broadens free access to learning, but it can also spread hate and lies on a global scale.
 
-当 “可能的空间” 被拓宽时，它带来了好的和坏的能力。自从我们学会生火，即人类的第一项技术以来，技术的这种双重性一直伴随着我们。有了这一发现，我们就可以取暖和做饭，但也可以烧毁森林和敌人的村庄。今天，互联网扩大了自由学习的机会，但它也可以在全球范围内传播仇恨和谎言。
+当 “可能性的空间” 被拓宽时，它带来了好的和坏的能力。自从我们学会生火，即人类的第一项技术以来，技术的这种双重性一直伴随着我们。有了这一发现，我们就可以取暖和做饭，但也可以烧毁森林和敌人的村庄。今天，互联网扩大了自由学习的机会，但它也可以在全球范围内传播仇恨和谎言。
 
 
 And yet there is something special about our time: we are experiencing a technological non-linearity, in which the ‘space of the possible’ expands dramatically, thus rendering predictions based on extrapolation useless. The current non-linearity arises from the extraordinary power of digital technology, which far exceeds anything that was possible with industrial machinery, due to two unique characteristics. Digital technology delivers universality of computation (it can potentially solve any solvable problem) at zero marginal cost (extra copies can be produced for free).
 
-然而，我们的时代有一些特别之处：我们正在经历一场技术上的非线性，其中 “可能的空间” 急剧扩大，从而使基于推断的预测变得无用。这种非线性源自数字技术的非凡力量，由于两个独特的特点，它远远超过了工业机械时代的任何可能。第一，数字技术提供了计算的普遍性（它可以潜在地解决任何可解决的问题），而且边际成本为零（可以免费生产额外的副本）。
+然而，我们的时代有一些特别之处：我们正在经历一场技术上的非线性，其中 “可能性的空间” 急剧扩大，从而使基于推断的预测变得无用。这种非线性源自数字技术的非凡力量，由于两个独特的特点，它远远超过了工业机械时代的任何可能。第一，数字技术提供了计算的普遍性（它可以潜在地解决任何可解决的问题），而且边际成本为零（可以免费生产额外的复制品）。
 
 
 To understand what is happening, we therefore need to zoom out in time. Humanity has previously encountered two similar non-linearities. The first occurred roughly ten thousand years ago with the invention of agriculture, which ended the Forager Age and brought us into the Agrarian Age. The second started with the Enlightenment about four hundred years ago, which helped usher in the Industrial Age. 
@@ -26,7 +26,7 @@ Consider foragers one hundred thousand years ago, trying to predict what society
 
 *The World After Capital* has two goals. The first is to establish that we are currently experiencing a third period of globally transformative, non-linear change. The key argument is that each time, the ‘space of the possible’ expands dramatically, the defining constraint for humanity shifts—meaning the allocation problem that most fundamentally needs to be solved in order to meet humanity’s needs changes. Specifically, the invention of agriculture shifted scarcity from food to land, and industrialization shifted scarcity from land to capital (which throughout *The World After Capital* refers to physical capital, such as machines and buildings, unless otherwise noted). Digital technology is now shifting scarcity from capital to attention. 
 
-《资本之后的世界》有两个目标。第一个目标是确定我们目前正在经历第三个全球转型、非线性变化的时期。关键的论点是，每一次，“可能的空间” 急剧扩大，人类的决定性制约因素就会发生变化 —— 也就是说，为了满足人类的需求，最根本的需要解决的分配问题就会发生变化。具体来说，农业的发明将稀缺性从食物转移到了土地，而工业化将稀缺性从土地转移到了资本（除非额外说明，在《资本之后的世界》中，资本指的是物质资本，如机器和建筑物）。现在，数字技术正在将稀缺性从资本转移到注意力。
+《资本之后的世界》有两个目标。第一个目标是确定我们目前正在经历第三个全球转型、非线性变化的时期。关键的论点是，每一次，“可能性的空间” 急剧扩大，人类的决定性制约因素就会发生变化 —— 也就是说，为了满足人类的需求，最根本的需要解决的分配问题就会发生变化。具体来说，农业的发明将稀缺性从食物转移到了土地，而工业化将稀缺性从土地转移到了资本（除非额外说明，在《资本之后的世界》中，资本指的是物质资本，如机器和建筑物）。现在，数字技术正在将稀缺性从资本转移到注意力。
 
 
 Capital is no longer scarce in some parts of the world and it is becoming rapidly less scarce everywhere. We should consider this to be the great success of capitalism. But markets, which were the crucial allocation mechanism for capital, will not solve the scarcity of attention. We are bad at allocating attention, both individually and collectively. For example, how much attention do you pay to your friends and family, or to the existential question of the meaning of your life? And how much attention are we paying as humanity to the great challenges and opportunities of our time, such as the climate crisis and space travel? Markets are not able to help us better allocate attention because prices do not, and cannot, exist for many of the issues that we should be paying attention to. Consider paying attention to finding your purpose in life: there is no supply and demand that will form a ‘purpose price’ for an individual; it’s ultimately up to you to allocate enough attention to this existential question. 
@@ -36,10 +36,10 @@ Capital is no longer scarce in some parts of the world and it is becoming rapidl
 
 My second goal in writing *The World After Capital* is to propose an approach that will help us overcome the limitations and remedy the shortcomings of market-based capitalism, in order to facilitate a smooth transition from the Industrial Age (in which the key scarcity is capital) to the Knowledge Age (in which the key scarcity is attention). Getting this right will be critical for humanity, as the two previous transitions were marked by massive turmoil and upheaval. We are already seeing signs of increasing conflict within societies and among belief systems across the world, fueling a rise of populist and nationalist leaders, including Donald Trump in the US.
 
-我写《资本之后的世界》的第二个目标是提出一种方法，帮助我们克服以市场为基础的资本主义的局限性并弥补其缺陷，以促进从工业时代（其中关键的稀缺性是资本）向知识时代（其中关键的稀缺性是注意力）顺利过渡。把握好这一点对人类来说至关重要，因为前两次转型的特点是大规模的动荡和颠覆。我们已经看到世界各地的社会内部和信仰体系之间的冲突越来越多的迹象，助长了民粹主义和民族主义领导人的崛起，包括美国的唐纳德-特朗普。
+我写《资本后的世界》的第二个目标是提出一种方法，帮助我们克服以市场为基础的资本主义的局限性并弥补其缺陷，以促进从工业时代（其中关键的稀缺性是资本）向知识时代（其中关键的稀缺性是注意力）顺利过渡。把握好这一点对人类来说至关重要，因为前两次转型的特点是大规模的动荡和颠覆。我们已经看到世界各地的社会内部和信仰体系之间的冲突越来越多的迹象，助长了民粹主义和民族主义领导人的崛起，包括美国的唐纳德-特朗普。
 
 
-How should we approach this third transition? What actions should society take now, when the non-linearity we are facing prevents us from being able to make accurate predictions about the future? We need to enact policies that allow for gradual social and economic change. The alternative is that we artificially suppress these changes, only for them to explode eventually. In particular, I will argue that we should smooth the transition to the Knowledge Age by expanding three powerful individual freedoms: 
+How should we appr oach this third transition? What actions should society take now, when the non-linearity we are facing prevents us from being able to make accurate predictions about the future? We need to enact policies that allow for gradual social and economic change. The alternative is that we artificially suppress these changes, only for them to explode eventually. In particular, I will argue that we should smooth the transition to the Knowledge Age by expanding three powerful individual freedoms: 
 
 我们应该如何对待这第三次转型？当我们所面临的非线性使我们无法对未来做出准确预测时，社会现在应该采取什么行动？我们需要制定政策，允许社会和经济的逐步变化。另一种选择是，我们人为地压制这些变化，只是为了让它们最终爆发出来。特别地，我将论证，我们应该通过扩大三种强大的个人自由来平稳过渡到知识时代。
 
@@ -60,12 +60,12 @@ Increasing these three freedoms will make attention less scarce. Economic freedo
 
 One crucial goal in reducing the scarcity of attention is to improve the functioning of the ‘knowledge loop’, which is the source of all knowledge and which consists of learning, creating and sharing. Producing more knowledge is essential to human progress. The history of humanity is littered with failed civilizations that didn’t produce enough knowledge to overcome the challenges facing them. 
 
-减少注意力稀缺的一个关键目标是改善 “知识圈” 的运作，它是所有知识的来源，由学习、创造和分享组成。生产更多的知识对人类进步至关重要。人类历史上有很多失败的文明，它们没有产生足够的知识来克服它们所面临的挑战。
+减少注意力稀缺的一个关键目标是改善 “知识循环” 的运作，它是所有知识的来源，由学习、创造和分享组成。生产更多的知识对人类进步至关重要。人类历史上有很多失败的文明，它们没有产生足够的知识来克服它们所面临的挑战。
 
 
 To achieve collective progress through increased individual freedoms, we must establish a set of values that include critical inquiry, democracy and responsibility. These values ensure that the benefits of the knowledge loop accrue broadly to humanity and extend to other species. They are central to a renewed humanism, which in turn has an objective basis in the existence and power of human knowledge. Reasserting humanism is especially critical at a time when we are coming close to creating ‘transhumans’ through genetic engineering and augmentation, as well as ‘neohumans’ through artificial intelligence. 
 
-为了通过增加个人自由实现集体进步，我们必须建立一套包括批判性探索、民主和责任的价值观。这些价值观确保知识圈的利益广泛惠及人类，并延伸到其他物种。它们是更新的人文主义的核心，而人文主义又在人类知识的存在和力量中具有客观基础。在我们即将通过基因工程和增强技术创造 “超人类”，以及通过人工智能创造 “新人类” 的时候，重申人文主义尤为关键。
+为了通过增加个人自由实现集体进步，我们必须建立一套包括独立思考、民主和责任的价值观。这些价值观确保知识循环的利益广泛惠及人类，并延伸到其他物种。它们是更新的人文主义的核心，而人文主义又在人类知识的存在和力量中具有客观基础。在我们即将通过基因工程和增强技术创造 “超人类”，以及通过人工智能创造 “新人类” 的时候，重申人文主义尤为关键。
 
 
 *The World After Capital* argues that only this combination of increased freedoms and strong humanist values will allow us to safely navigate the transition from the Industrial Age to the Knowledge Age. Though I am profoundly optimistic about the ultimate potential for human progress, I am pessimistic about how we will get there. We seem intent on clinging to the Industrial Age at all costs, which increases the likelihood of violent change. My hope is that in writing this book I can in some small way help to move us forward peacefully.
