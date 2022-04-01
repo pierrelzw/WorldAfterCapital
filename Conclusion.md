@@ -3,8 +3,8 @@
 
 
 We need to act with great urgency during this transition to the Knowledge Age. We are woefully behind in dealing with the climate crisis, and there is a real possibility that as its consequences unfold, society will degenerate into violence. In the longer term, we face a potential threat from the possible rise of superintelligences, and there is also a chance that we are not alone in this universe. These are risks that we can only deal with if we stop clinging to the Industrial Age and instead embrace the Knowledge Age. Conversely, if we are able to make the transition, huge opportunities lie ahead of us.
-在这个向知识时代过渡的过程中，我们需要非常紧急地采取行动。我们在处理气候危机方面落后得很厉害，而且随着其后果的展开，社会确实有可能会堕落成暴力。从长远来看，我们面临着超级智能可能崛起的潜在威胁，而且还有可能在这个宇宙中我们并不孤单。这些风险，只有当我们不再依附于工业时代，而是拥抱知识时代时，我们才能应对。相反，如果我们能够实现过渡，巨大的机会就在我们面前。
 
+在这个向知识时代过渡的过程中，我们需要非常紧急地采取行动。我们在处理气候危机方面落后得很厉害，而且随着其后果的展开，社会确实有可能会堕落成暴力。从长远来看，我们面临着超级智能可能崛起的潜在威胁，而且还有可能在这个宇宙中我们并不孤单。这些风险，只有当我们不再依附于工业时代，而是拥抱知识时代时，我们才能应对。相反，如果我们能够实现过渡，巨大的机会就在我们面前。
 
 
 ## A Dangerous Spiral 
@@ -12,7 +12,8 @@ We need to act with great urgency during this transition to the Knowledge Age. W
 
 
 The world is rapidly being pulled apart by people who want to take us back to the past, as well as people who are advancing technology while being trapped in Industrial Age thinking. As I described in the introduction, technology increases the space of the possible, but it does not automatically make everyone better off. Bound to an Industrial Age logic, automation is currently enriching a few, while putting pressure on large sections of society. Nor does digital publishing automatically accelerate the knowledge loop—we find ourselves in a world plagued by fake news and filter bubbles.
-世界正在迅速被那些想让我们回到过去的人拉开，以及那些在推进技术的同时却被困在工业时代思维的人。正如我在导言中所描述的，技术增加了可能的空间，但它并不自动使每个人都变得更好。受限于工业时代的逻辑，自动化目前正在使少数人致富，而对社会的大部分人造成压力。数字出版也不会自动加速知识循环--我们发现自己处在一个被假新闻和过滤泡沫困扰的世界。
+
+世界正在迅速被那些想让我们回到过去的人拉开，以及那些在推进技术的同时却被困在工业时代思维的人。正如我在导言中所描述的，技术增加了可能的空间，但它并不自动使每个人都变得更好。受限于工业时代的逻辑，自动化目前正在使少数人致富，而对社会的大部分人造成压力。数字出版也不会自动加速知识循环 —— 我们发现自己处在一个被假新闻和过滤泡沫困扰的世界。
 
  
 Those who are trying to take us back into the past are exploiting these trends. They promise those negatively affected by technology that everything will be better, while investing heavily in mass manipulation. They seek to curtail the open Internet, while simultaneously building up secret surveillance. This is true on both sides of the American political spectrum. Neither the Republicans nor the Democrats have a truly forward-looking platform, and both favor governmental controls over online platforms and speech, instead of empowering end-users as described in the section on informational freedom.
