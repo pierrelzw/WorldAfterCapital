@@ -4,7 +4,6 @@ The climate crisis is the single biggest collective problem facing humanity. If 
 
 气候危机是人类面临的唯一最大的集体问题。如果我们不能将注意力和资源用于对抗它，气候危机将使从工业时代的过渡比进入工业时代的过渡更糟糕，因为后者涉及两次世界大战。这听起来可能很夸张，但气候危机代表了人类的生存风险。
 
-
 Every day, unimaginable amounts of energy hit the Earth in the form of sunlight. Much of this energy is radiated back into space, but greenhouse gases reduce the Earth’s ability to shed heat and instead keep it trapped inside the atmosphere. To get a sense of how much heat we are talking about, we can express it in terms of Hiroshima-sized nuclear bombs. Compared to pre-industrial times, how much more heat would you guess the Earth is retaining? The equivalent of one nuclear bomb per year? Per month? Per week? Per day? The reality is that the extra heat being trapped amounts to four nuclear bombs per second, of every minute, of every hour, of every day, three hundred and sixty-five days a year.
 
 每天，难以想象的大量能量以阳光的形式照射到地球上。这些能量大部分被辐射回太空，但是温室气体降低了地球散发热量的能力，而是将其困在大气层中。为了了解我们正在谈论的热量是多少，我们可以用广岛大小的核弹来表示。与工业化前的时代相比，你猜地球保留了多少热量？相当于每年一颗核弹？每个月？每星期？每一天？现实情况是，被截留的额外热量相当于每秒四颗核弹，推广到每分钟、每小时、每一天，一年三百六十五天（是很可怕的）。

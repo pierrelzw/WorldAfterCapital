@@ -11,7 +11,7 @@ When the ‘space of the possible’ is broadened, it brings with it both good a
 
 And yet there is something special about our time: we are experiencing a technological non-linearity, in which the ‘space of the possible’ expands dramatically, thus rendering predictions based on extrapolation useless. The current non-linearity arises from the extraordinary power of digital technology, which far exceeds anything that was possible with industrial machinery, due to two unique characteristics. Digital technology delivers universality of computation (it can potentially solve any solvable problem) at zero marginal cost (extra copies can be produced for free).
 
-然而，我们的时代有一些特别之处：我们正在经历一场技术上的非线性，其中 “可能性的空间” 急剧扩大，从而使基于推断的预测变得无用。这种非线性源自数字技术的非凡力量，由于两个独特的特点，它远远超过了工业机械时代的任何可能。第一，数字技术提供了计算的普遍性（它可以潜在地解决任何可解决的问题），而且边际成本为零（可以免费生产额外的复制品）。
+然而，我们的时代有一些特别之处：我们在见证技术的非线性发展，这使得 “可能性的空间” 急剧扩大，从而使基于归纳法的预测变得无用。这种非线性源自数字技术的非同寻常的力量，由于两个独特的特点，它远远超过了工业机械时代的任何可能。第一，数字技术提供了计算的普遍性（它可以潜在地解决任何可解决的问题），而且边际成本为零（可以免费生产额外的复制品）。
 
 
 To understand what is happening, we therefore need to zoom out in time. Humanity has previously encountered two similar non-linearities. The first occurred roughly ten thousand years ago with the invention of agriculture, which ended the Forager Age and brought us into the Agrarian Age. The second started with the Enlightenment about four hundred years ago, which helped usher in the Industrial Age. 
@@ -21,7 +21,7 @@ To understand what is happening, we therefore need to zoom out in time. Humanity
 
 Consider foragers one hundred thousand years ago, trying to predict what society would look like after the invention of agriculture. Even something that seems as trivially obvious to us as living in buildings would be hard to imagine from the viewpoint of migratory tribes. Similarly, much of what we have today—from modern medicine to computer technology—would resemble magic to those living as recently as the mid-twentieth century. Not simply the existence of smartphones, but also the widespread availability and affordability of such powerful technology, would have been hard to foresee. 
 
-想象一下，让十万年前的觅食者，试图预测农业发明后社会会是什么样子。即使是像住在楼房里这样对我们来说微不足道（理所当然）的事情，从迁徙部落的角度来看也是难以想象的。同样，我们今天所拥有的大部分东西 —— 从现代医学到计算机技术 —— 对于那些最近生活在二十世纪中期的人来说，就像魔术一样。不仅仅是智能手机的存在，还有这种强大技术的广泛可用性和可负担性，都是难以预见的。
+想象一下，让十万年前的觅食者，试图预测农业发明后社会会是什么样子。即使是像住在楼房里这样对我们来说微不足道（理所当然）的事情，从迁徙部落的角度来看也是难以想象的。同样，我们今天所拥有的大部分东西 —— 从现代医学到计算机技术 —— 对于那些最近生活在二十世纪中期的人来说，就像魔术一样。不仅仅是智能手机的存在，还有这种强大技术的广泛可用性和在经济上的可负担性，都是难以预见的。
 
 
 *The World After Capital* has two goals. The first is to establish that we are currently experiencing a third period of globally transformative, non-linear change. The key argument is that each time, the ‘space of the possible’ expands dramatically, the defining constraint for humanity shifts—meaning the allocation problem that most fundamentally needs to be solved in order to meet humanity’s needs changes. Specifically, the invention of agriculture shifted scarcity from food to land, and industrialization shifted scarcity from land to capital (which throughout *The World After Capital* refers to physical capital, such as machines and buildings, unless otherwise noted). Digital technology is now shifting scarcity from capital to attention. 
@@ -44,7 +44,7 @@ How should we appr oach this third transition? What actions should society take 
 我们应该如何对待这第三次转型？当我们所面临的非线性使我们无法对未来做出准确预测时，社会现在应该采取什么行动？我们需要制定政策，允许社会和经济的逐步变化。另一种选择是，我们人为地压制这些变化，只是为了让它们最终爆发出来。特别地，我将论证，我们应该通过扩大三种强大的个人自由来平稳过渡到知识时代。
 
 - Economic freedom: instituting a universal basic income.
-- 经济自由：建立一个普遍的基本收入。
+- 经济自由：建立一个 “全民基本收入” 机制。
 
 - Informational freedom: broadening access to information and computation.
 - 信息自由：扩大获取信息和计算的机会。
@@ -60,15 +60,15 @@ Increasing these three freedoms will make attention less scarce. Economic freedo
 
 One crucial goal in reducing the scarcity of attention is to improve the functioning of the ‘knowledge loop’, which is the source of all knowledge and which consists of learning, creating and sharing. Producing more knowledge is essential to human progress. The history of humanity is littered with failed civilizations that didn’t produce enough knowledge to overcome the challenges facing them. 
 
-减少注意力稀缺的一个关键目标是改善 “知识循环” 的运作，它是所有知识的来源，由学习、创造和分享组成。生产更多的知识对人类进步至关重要。人类历史上有很多失败的文明，它们没有产生足够的知识来克服它们所面临的挑战。
+减少注意力稀缺的一个关键目标是改善所有知识的来源 —— “知识循环”，由学习、创造和分享组成。生产更多的知识对人类进步至关重要。人类历史上有很多失败的文明，因为它们没有产生足够的知识来克服它们所面临的挑战。
 
 
 To achieve collective progress through increased individual freedoms, we must establish a set of values that include critical inquiry, democracy and responsibility. These values ensure that the benefits of the knowledge loop accrue broadly to humanity and extend to other species. They are central to a renewed humanism, which in turn has an objective basis in the existence and power of human knowledge. Reasserting humanism is especially critical at a time when we are coming close to creating ‘transhumans’ through genetic engineering and augmentation, as well as ‘neohumans’ through artificial intelligence. 
 
-为了通过增加个人自由实现集体进步，我们必须建立一套包括独立思考、民主和责任的价值观。这些价值观确保知识循环的利益广泛惠及人类，并延伸到其他物种。它们是更新的人文主义的核心，而人文主义又在人类知识的存在和力量中具有客观基础。在我们即将通过基因工程和增强技术创造 “超人类”，以及通过人工智能创造 “新人类” 的时候，重申人文主义尤为关键。
+为了通过增加个人自由实现集体进步，我们必须建立一套包括独立思考、民主和责任的价值观。这些价值观确保 “知识循环” 的利益惠及全人类，并延伸到其他物种。它们是更新的人文主义的核心，而人文主义又在人类知识的存在和力量中具有客观基础。在我们即将通过基因工程和增强技术创造 “超人类”，以及通过人工智能创造 “新人类” 的时候，重申人文主义尤为关键。
 
 
 *The World After Capital* argues that only this combination of increased freedoms and strong humanist values will allow us to safely navigate the transition from the Industrial Age to the Knowledge Age. Though I am profoundly optimistic about the ultimate potential for human progress, I am pessimistic about how we will get there. We seem intent on clinging to the Industrial Age at all costs, which increases the likelihood of violent change. My hope is that in writing this book I can in some small way help to move us forward peacefully.
 
-*《资本之后的世界》*认为，只有这种增加自由和强有力的人文主义价值观的结合，才能使我们安全地度过从工业时代到知识时代的过渡期。尽管我对人类进步的最终潜力深感乐观，但我对我们将如何达到这一目标感到悲观。我们似乎有意不惜一切代价坚持工业时代，这增加了暴力变革的可能性。我希望通过写这本书，我可以以某种小小的方式帮助我们和平地向前迈进。
+*《资本之后的世界》*认为，只有这种增加自由和强有力的人文主义价值观的结合，才能使我们安全地度过从工业时代到知识时代的过渡期。尽管我对人类进步的最终潜力深感乐观，但我对我们将如何达到这一目标感到悲观。我们似乎有意不惜一切代价坚持工业时代，这增加了暴力变革的可能性。我希望通过写这本书，为我们平静地向前发展尽微薄之力。
 

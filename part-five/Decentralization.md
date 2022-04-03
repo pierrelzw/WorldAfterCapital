@@ -25,7 +25,10 @@ As it turns out, when blockchains work properly they are uncensorable. Unless a 
 
 While any one new blockchain system has a high likelihood of failing, the large number of current experiments will produce systems that have the potential to be transformative on a global scale. One of the most exciting possibilities is that we may end up with UBI built outside of existing government budgets as part of a cryptocurrency. A variety of projects are currently attempting this, including Circles and the $UBI token.
 
-虽然任何一个新的区块链系统都有很大的可能性失败，但目前大量的实验将产生有可能在全球范围内改变的系统。最令人兴奋的可能性之一是，如果作为加密货币的一部分，我们最终可能会在现有政府预算之外建立 UBI。目前有各种项目正在尝试这样做，包括 Circles 和$UBI 代币。
+虽然任何一个新的区块链系统都有很大的可能性失败，但目前大量的实验将产生有可能在全球范围内改变的系统。最令人兴奋的可能性之一是，如果作为加密货币的一部分，我们最终可能会在现有政府预算之外建立 UBI。目前有各种项目正在尝试这样做，包括 Circles 和 $UBI 代币。
 
 
 To be clear, decentralization and blockchains do not represent a panacea. Some problems require centralization to be solved (for instance, water and sewage are centrally controlled for a reason). And decentralization can bring its own problems, such as the potential aggravation of the ‘Cyber-Balkans’ problem that we encountered earlier. But at a time of excessive centralization, it is crucial that we foster decentralization to act as a counterweight.
+
+说白了，去中心化和区块链并不代表万能药。有些问题需要集中化来解决（例如，水和污水被集中控制是有原因的）。而去中心化也会带来自己的问题，比如我们之前遇到的‘网络巴尔干’问题可能会加剧。但是，在过度集中化的时候，我们必须促进权力下放，以作为一种平衡。
+
