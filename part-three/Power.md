@@ -1,5 +1,8 @@
 # The Power of Knowledge
 
+# 知识的力量
+
+
 Have you watched television recently? Stored food in a refrigerator? Accessed the Internet? Played games on your smartphone? Driven a car? These are all things that billions of people around the world do every day. And while they are produced by different companies using a wide range of technologies, none of them would be possible without the existence of knowledge.
 
 你最近看了电视吗？在冰箱里储存过食物吗？上过互联网吗？在你的智能手机上玩游戏了吗？驾驶汽车了吗？这些都是全世界数十亿人每天都在做的事情。虽然它们是由不同的公司使用大量技术生产的，但如果没有知识的存在，这些都是不可能的。
@@ -35,7 +38,7 @@ This is just one example of a knowledge breakthrough that allowed humanity to ov
 
 Consider for a moment what knowledge might allow us to do in the more or less distant future. We might rid ourselves of our dependence on fossil fuels, cure any disease, and travel to other planets in our solar system (organizations like SpaceX and NASA are already working toward this goal) (NASA, 2018). Eventually, we might even travel to the stars. You might think interstellar travel is impossible, but it isn’t. Extremely difficult? Yes. Requiring technology that doesn’t exist yet? Yes. But impossible? No. It is definitely not imminent, but we can count on it to becoming possible with the further accretion of knowledge. 
 
-请考虑一下，在或多或少遥远的未来，知识可能会让我们做什么。我们可能会摆脱对化石燃料的依赖，治愈任何疾病，并前往太阳系的其他星球（像SpaceX和NASA这样的组织已经在为这个目标而努力）（NASA，2018）。最终，我们甚至可能前往宇宙。你可能认为星际旅行是不可能的，但它并不是。极其困难？是的。需要尚不存在的技术？是的。但不可能？它绝对不是迫在眉睫的，但我们可以期待随着知识的进一步积累，它将成为可能。
+请考虑一下，在或多或少遥远的未来，知识可能会让我们做什么。我们可能会摆脱对化石燃料的依赖，治愈任何疾病，并前往太阳系的其他星球（像 SpaceX 和 NASA 这样的组织已经在为这个目标而努力）（NASA，2018）。最终，我们甚至可能前往宇宙。你可能认为星际旅行是不可能的，但它并不是。极其困难？是的。需要尚不存在的技术？是的。但不可能？它绝对不是迫在眉睫的，但我们可以期待随着知识的进一步积累，它将成为可能。
 
 
 We are the only species on Earth that has created knowledge—not just science, but also art. Art allows us to express our hopes and fears, and culture has helped to motivate the large-scale coordination and mobilization of human effort. We might think of the technical component of knowledge as underpinning the ‘how’ of our lives, and the artistic component the ‘why’. If you’ve ever doubted the power of art, just think of the many times throughout history when dictators and authoritarian regimes have banned or destroyed works of art.
@@ -45,6 +48,9 @@ We are the only species on Earth that has created knowledge—not just science, 
 
 
 ## The Knowledge Loop 
+
+## 知识循环 
+
 
 Knowledge has already made possible something extraordinary: by means of the innovations of the Industrial Age we can, in principle, meet everyone’s needs. But we must generate additional knowledge to solve the problems we have introduced along the way, such as the climate crisis. New knowledge does not spring forth fully formed out of a vacuum. Instead it emerges through what I call the ‘knowledge loop’, in which someone learns something and creates something new, which is then shared and in turn serves as the basis for more learning.
 
@@ -63,8 +69,10 @@ It is easy to underestimate the potential of digital technology to further accel
 我们很容易低估数字技术在进一步加速和拓宽知识循环方面的潜力。对许多人来说，这些创新似乎到目前为止还没有达到预期效果。技术投资者彼得·泰尔曾有一句著名的抱怨：“我们想要的是飞行汽车，而我们得到的却是 140 个字符”。事实上，从那时起，我们在飞行汽车方面已经取得了巨大的进展，这在很大程度上是因为数字技术已经帮助加速了知识循环。
 
 
-
 ## The Promise and Peril of the Digital Knowledge Loop 
+
+## 数字知识循环的前景和危险 
+
 
 The zero marginal cost and universality of digital technologies are already accelerating learning, creating and sharing, giving rise to a digital knowledge loop. And as can be seen in the example of YouTube, it holds both amazing promise and great peril.
 
@@ -88,17 +96,17 @@ These characteristics are found in other systems that similarly show the promise
 
 Wikipedia illustrates another important aspect of the digital knowledge loop: it allows individuals to participate in extremely small ways. If you wish, you can contribute to Wikipedia by fixing a single typo. If ten thousand people fixed one typo every day, that would be 3.65 million typos a year. If we assume that it takes two minutes to discover and fix a typo, it would take nearly fifty people working full-time for a year (2,500 hours) to fix that many typos. 
 
-维基百科说明了数字知识圈的另一个重要方面：它允许个人以极小投入的方式参与。如果你愿意，你可以通过修正一个错别字来为维基百科做出贡献。如果每天有一万个人修正一个错别字，那么一年就有 365 万个错别字。假设发现和修正一个错别字需要两分钟，那么需要近 50 人全职工作一年（2500 小时）才能修正这么多错别字。
+维基百科说明了数字知识循环的另一个重要方面：它允许个人以极小投入的方式参与。如果你愿意，你可以通过修正一个错别字来为维基百科做出贡献。如果每天有一万个人修正一个错别字，那么一年就有 365 万个错别字。假设发现和修正一个错别字需要两分钟，那么需要近 50 人全职工作一年（2500 小时）才能修正这么多错别字。
 
 
 The example of a Wikipedia spelling correction shows the power of small contributions that add up within the digital knowledge loop. Their peril can be seen on social networks such as Twitter and Facebook, where the small contributions are likes and retweets or reposts to one’s friends or followers. While these tiny actions can amplify high-quality content, they can also spread mistakes, rumors and propaganda: indeed, research carried out at MIT in 2018 found that fake news stories spread faster and more widely than true ones (Vosoughi et al., 2018) (see “Freedom to Learn”, below). These information cascades can have significant consequences, ranging from jokes going viral to the outcomes of elections being affected. They have even contributed to major outbreaks of violence, as in the well-known case of the brutal persecution of the Rohingya in Myanmar (BBC News, 2018). 
 
 
-维基百科的更正拼写的例子显示了在数字知识圈中小贡献累加的力量。而这种累加的危险性可以在 Twitter 和 Facebook 等社交网络上看到。在那里，小贡献是点击 “喜欢” 和转发，或转贴给自己的朋友或追随者。虽然这些微小的行动可以放大高质量的内容，但它们也可以传播错误、谣言和宣传：事实上，2018 年麻省理工学院的一项研究发现，假新闻故事比真新闻传播得更快、更广（Vosoughi 等人，2018）（见下文 “学习的自由”）。这些信息级联可以产生严重的后果，从笑话的病毒式传播到受影响的选举结果。它们甚至导致会重大暴力事件的爆发，比如众所周知的缅甸罗兴亚人遭受残酷迫害的案例（BBC 新闻，2018）。
+维基百科的更正拼写的例子显示了在数字知识循环中小贡献累加的力量。而这种累加的危险性可以在 Twitter 和 Facebook 等社交网络上看到。在那里，小贡献是点击 “喜欢” 和转发，或转贴给自己的朋友或追随者。虽然这些微小的行动可以放大高质量的内容，但它们也可以传播错误、谣言和宣传：事实上，2018 年麻省理工学院的一项研究发现，假新闻故事比真新闻传播得更快、更广（Vosoughi 等人，2018）（见下文 “学习的自由”）。这些信息级联可以产生严重的后果，从笑话的病毒式传播到受影响的选举结果。它们甚至导致会重大暴力事件的爆发，比如众所周知的缅甸罗兴亚人遭受残酷迫害的案例（BBC 新闻，2018）。
 
 Some platforms make it possible for people to contribute passively to the digital knowledge loop. Waze is a GPS navigation app. It tracks users that seem to be in a car, and the speed at which they are moving. It then passes that information back to its servers, and algorithms figure out where traffic is moving smoothly and where drivers will encounter traffic jams. Waze then proposes alternative routes, taking the traffic into account. If you follow a different route proposed by Waze, you automatically contribute your speed on that detour, a further example of passive contribution. 
 
-一些平台使人们有可能被动地对数字知识圈作出贡献。Waze 是一个 GPS 导航应用程序。它追踪那些似乎在车里的用户，以及他们的移动速度。然后，它将这些信息传回服务器，并通过算法计算出哪里交通顺畅，哪里的司机会遇到交通堵塞。然后，Waze 在考虑到交通情况的基础上，提出替代路线。如果你遵循 Waze 提出的不同路线，你会自动贡献出你在这条弯路上的速度，这是一个进一步说明被动贡献的例子。
+一些平台使人们有可能被动地对数字知识循环作出贡献。Waze 是一个 GPS 导航应用程序。它追踪那些似乎在车里的用户，以及他们的移动速度。然后，它将这些信息传回服务器，并通过算法计算出哪里交通顺畅，哪里的司机会遇到交通堵塞。然后，Waze 在考虑到交通情况的基础上，提出替代路线。如果你遵循 Waze 提出的不同路线，你会自动贡献出你在这条弯路上的速度，这是一个进一步说明被动贡献的例子。
 
 
 To see the peril of passive contribution, consider Google’s autocomplete for search queries, which are derived from what people frequently search for. As a result, they often reflect existing biases, further amplifying them: often, instead of typing out their whole query, users select one of the autocompleted options presented to them. Another example of dangerous passive contribution are suggested ’follows’ on networks such as Twitter. These often present accounts of people similar to the ones someone is already connected with, thus deepening connections among people who think alike while cutting them off from other groups, a phenomenon giving rise to a kind of “Cyber-Balkans” (Van Alstyne & Brynjolfsson, 2005). 
@@ -115,7 +123,7 @@ The promise of the digital knowledge loop is broad access to a rapidly improving
 
 To achieve the promise of the digital knowledge loop and sidestep its perils will require human societies to go through a massive transition, on a par with the two previous ones, from the Forager Age to the Agrarian Age and from the Agrarian Age to the Industrial Age. We now need to leave the Industrial Age behind and enter the next one, which I am calling the Knowledge Age. We have based our economies around the job loop, which traps a lot of our attention. We have constructed our laws governing access to information and computation as if they were industrial products. We have adopted a range of beliefs that keep us tied to jobs and consumption, and we are utterly overwhelmed by the new information environment. All of that has to change.
 
-为了实现数字知识圈的前景并避开其危险，人类社会需要经历一次大规模的转型，与之前的两次转型一样，从觅食时代到农业时代，从农业时代到工业时代。我们现在需要抛弃工业时代，进入下一个时代，我称之为知识时代。我们的经济是围绕着工作循环的，这吸引了我们大量的注意力。我们构建了管理信息和计算的法律，仿佛它们是工业产品。我们采用了一系列的信念，将我们与工作、消费联系在一起，而我们完全被新的信息环境所淹没了。所有这些都必须要改变。
+为了实现数字知识循环的前景并避开其危险，人类社会需要经历一次大规模的转型，与之前的两次转型一样，从觅食时代到农业时代，从农业时代到工业时代。我们现在需要抛弃工业时代，进入下一个时代，我称之为知识时代。我们的经济是围绕着工作循环的，这吸引了我们大量的注意力。我们构建了管理信息和计算的法律，仿佛它们是工业产品。我们采用了一系列的信念，将我们与工作、消费联系在一起，而我们完全被新的信息环境所淹没了。所有这些都必须要改变。
 
 
 The transition will be difficult, however, because the Industrial Age is a system with many interlocking parts, and systems are highly resistant to change. As we saw earlier, simply harnessing digital technology to the existing system results in a hugely uneven distribution of power, income and wealth. Even worse, it tilts the digital knowledge loop away from its promise and toward its perils. 
@@ -125,5 +133,5 @@ The transition will be difficult, however, because the Industrial Age is a syste
 
 The human species is facing problems that we can only overcome if we use digital technology to alleviate rather than worsen attention scarcity. We must reap the promise and limit the perils of digital technology for the knowledge loop. In order to successfully negotiate the transition into the Knowledge Age, we need to make dramatic changes in both collective regulation and self-regulation. This is what we will explore in Part Four.
 
-人类面临的问题，只有当我们利用数字技术来缓解而不是加剧注意力的匮乏时，我们才能克服。我们必须获得数字技术对知识圈有益的部分并限制其危险。为了成功地过渡到知识时代，我们需要在集体监管和自我监管方面做出巨大的改变。这就是我们将在第四部分探讨的内容。
+人类面临的问题，只有当我们利用数字技术来缓解而不是加剧注意力的匮乏时，我们才能克服。我们必须获得数字技术对知识循环有益的部分并限制其危险。为了成功地过渡到知识时代，我们需要在集体监管和自我监管方面做出巨大的改变。这就是我们将在第四部分探讨的内容。
 

@@ -13,19 +13,20 @@ Many people in the US are not free in this sense. A recent survey asked responde
 If you are not economically free, you are not able to participate freely in the knowledge loop, which is why economic freedom is a cornerstone of the Knowledge Age. We must make people economically free so that they have the time to learn new knowledge, from practical skills to the latest theoretical physics. We need them to create new knowledge using what they have learned. And finally, we need them to share this knowledge with others. 
 
 
-如果你在经济上不自由，你就不能自由地参与知识圈，这就是为什么经济自由是知识时代的一个基石。我们必须让人们在经济上自由，这样他们才有时间学习新知识，从实用技能到最新的理论物理学。我们需要他们利用他们所学的知识创造新的知识。并且，我们需要他们与他人分享这些知识。
+如果你在经济上不自由，你就不能自由地参与知识循环，这就是为什么经济自由是知识时代的一个基石。我们必须让人们在经济上自由，这样他们才有时间学习新知识，从实用技能到最新的理论物理学。我们需要他们利用他们所学的知识创造新的知识。并且，我们需要他们与他人分享这些知识。
 
 Participation in the knowledge loop has never been more important: we have massive problems to overcome, including the COVID-19 pandemic and, above all, the climate crisis. To do so, we must be able to embrace automation rather than feel threatened by it.
 
 参与知识循环从未如此重要：我们有大量的问题需要克服，包括 COVID-19 大流行病，更严重的问题是气候危机。要做到这一点，我们必须能够拥抱自动化，而不是觉得受其威胁。
 
 
-
 ## Universal Basic Income
+## 全民基本收入
+
 
 Economic freedom is a reality for the wealthy, for tenured professors and retirees with pensions and savings, but how can we make it a reality for everyone? The answer is to provide everyone with a guaranteed income to cover solutions to their needs, including housing, clothing and food. This income wouldn’t depend on whether someone is married or single, employed or unemployed, rich or poor—it would be unconditional (also referred to as ‘universal’).
 
-经济自由对于富人、终身教授和拥有退休金和储蓄的退休人员来说已经成为现实了，但我们如何才能让每个人都拥有它呢？答案是为每个人提供有保障的收入，以支付解决他们的需求，包括住房、衣服和食物。这种收入不会取决于某人是已婚还是单身，是就业还是失业，是富有还是贫穷 —— 它将是无条件的（也被称为 “普遍”）。
+经济自由对于富人、终身教授和拥有退休金和储蓄的退休人员来说已经成为现实了，但我们如何才能让每个人都拥有它呢？答案是为每个人提供有保障的收入，以支付解决他们的需求，包括住房、衣服和食物。这种收入不会取决于某人是已婚还是单身，是就业还是失业，是富有还是贫穷 —— 它将是无条件的（也被称为 “全民的”）。
 
  
 At first glance, this idea of a ‘universal basic income’ (UBI) may seem outrageous. Getting paid simply for being alive—isn’t that akin to socialism? Where would this money come from? And won’t people simply descend into laziness and drug addiction? We will examine each of these objections to UBI in turn, but let’s first consider the arguments for UBI as a way of achieving economic freedom. 
@@ -67,9 +68,9 @@ Food, clothing and shelter are obvious solutions to human needs that a UBI shoul
 
 食物、衣服和住所是解决人类需求的明显办法，UBI 应该使人们能够负担得起，但 UBI 最终也可以覆盖教育和医疗保健的费用。考虑到教育和医疗费用在过去几十年中的快速增长，这可能看起来很激进，但可以预计，在不久的将来，技术将使这两方面的费用更容易负担。
 
-
-
 ## Technological Deflation
+
+## 技术性通货紧缩
 
 If you’re struggling to take care of your needs, the world will seem like an expensive place. Yet the data show that a lot of things have been getting cheaper for some time. In the US, as the chart below shows, the price of consumer durables has been falling since the mid-1990s.
 
@@ -146,8 +147,10 @@ You might think that a large proportion of healthcare cost results from pharmace
 你可能认为医疗费用的很大一部分来自药品而不是医生的诊治，但事实上在美国，药品只占医疗总支出的十分之一（美国精算师协会，2018；经合组织，2019）。尽管如此，技术可能也会推动这部分成本的下降。一位制药企业家告诉我，个性化药物的潜力，可以极大地提高各种疾病的治疗效果，这些疾病占了大量的费用，包括许多癌症、运动神经元疾病和阿尔茨海默氏症。从长远来看，CRISPR 基因编辑等技术将赋予我们前所未有的能力来修复目前导致大量和持续支出的基因缺陷，如囊性纤维化（Mosse，2015）。
 
 
+## But Isn't Deflation a Bad Thing?
 
-## But Isn&apos;t Deflation a Bad Thing?
+## 但通货紧缩不是一件坏事吗？
+
 
 You might be confused by my presentation of deflation as a positive thing. Economists, after all, tend to portray it as an evil that should be avoided at all costs. They are primarily concerned about growth as measured by GDP, which they argue makes us all better off. They assert that if people anticipate that prices will drop, they will be less likely to spend money, which will decrease output and lead owners of capital to make fewer investments, resulting in less innovation and lower employment. That, in turn, makes people spend even less, causing the economy to contract further. Economists point to Japan as a country that has been experiencing deflation and contracting output. To avoid this scenario, they argue for policies designed to achieve some amount of inflation, including the Federal Reserve’s so-called ‘quantitative easing’, which is intended to expand the supply of money and thus increase the nominal prices of things.
 
@@ -165,6 +168,9 @@ Technological deflation is what puts society in a position where UBI becomes bot
 
 
 ## UBI is Affordable
+
+## UBI 是可以负担得起的
+
 
 With all this background information, you might wonder how much a universal basic income should be. My working proposal for the United States is $1,000 per month for everyone over the age of 18, $400 per month for everyone over the age of 12 and $200 per month for every child. These numbers might seem low, but bear in mind that the goal of UBI isn’t to make people well off—it’s just to allow them to take care of their needs without being forced into the job loop. Our collective thinking about the amounts required is muddled because we have mistakenly come to embrace the fulfillment of our unlimited wants, instead of focusing on the freedom to find purpose that comes from being able to take care of our needs. In addition to showing that capital is no longer our binding constraint, this is the second crucial reason for the earlier section on re-establishing a clear distinction between wants and needs. We should also remember that technological deflation will make fulfilling our needs progressively cheaper, while UBI won’t be introduced overnight. My numbers are intended to work over time, as some other government programs are phased out and a UBI is phased in.
 
@@ -236,6 +242,9 @@ I expect the path to UBI to involve some combination of changes to government bu
 
 
 ## Impact of UBI on the Labor Market
+
+## UBI 对劳动力市场的影响
+
 
 One of the many attractive features of UBI is that it doesn’t remove people’s ability to sell their labor. Suppose someone offers you $5 per hour to look after their dog. Under UBI you are completely free to accept or reject that proposal, without distortion from a minimum wage. The reason we need a minimum wage in the current system is to guard against exploitation, but this problem exists primarily because people do not have the option to walk away from exploitive employment. If UBI was in place, they would.
 

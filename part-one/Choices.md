@@ -2,7 +2,7 @@
 
 Believing in the potential of progress does not mean being a Pollyanna, and it is important to remember that progress is not the inevitable result of technology. Contrary to the claims made by the technology writer Kevin Kelly in his book *What Technology Wants*, technology doesn’t want a better world for humanity; it simply makes such a world possible. 
 
-相信进步的潜力并不意味着成为一个Pollyanna（盲目乐观主义者），重要的是要记住，进步不是技术的必然结果。与科技作家凯文·凯利在其《技术想要什么》一书中的说法相反，技术并不希望人类有一个更好的世界；它只是让这样的世界成为可能。
+相信进步的潜力并不意味着成为一个 Pollyanna（盲目乐观主义者），重要的是要记住，进步不是技术的必然结果。与科技作家凯文·凯利在其《技术想要什么》一书中的说法相反，技术并不希望人类有一个更好的世界；它只是让这样的世界成为可能。
 
 > Wikipedia: "Pollyanna" has become a byword for someone who – like the title character – has an unfailingly optimistic outlook; a subconscious bias towards the positive is often described as the Pollyanna principle. 
 
@@ -31,7 +31,7 @@ It always has been our responsibility to make choices about which of the worlds 
 
 The people building or funding digital technology tend to be optimists and to believe in progress (though there are also opportunists thrown into the mix). Many of those optimists also believe in the need for regulation, while another group has a decidedly libertarian streak and would prefer governments not to be involved. For them, regulation and progress conflict. The debates between these two groups are often acrimonious, which is unfortunate, because the history of technology clearly demonstrates both the benefits of good regulation and the dangers of bad regulation. Our energy is thus better spent on figuring out the right kind of regulation, as well as engaging in the processes required to enforce and revise it.
 
-建设或资助数字技术的人往往是乐观主义者，而且他们相信进步（尽管也有机会主义者加入其中）。这些乐观主义者中的许多人也相信需要监管，但是，另一个群体则有明显的自由主义倾向，他们希望政府不要介入。对他们来说，监管和进步是冲突的。这两类人之间的争论往往是激烈的，这很不幸，因为技术的历史清楚地表明了好监管的好处和坏监管的危险。因此，我们最好把精力花在找出正确的监管上，以及参与执行和修订规则所需的过程中。
+建设或资助数字技术的人往往是乐观主义者，而且他们相信进步（尽管也有机会主义者加入其中）。这些乐观主义者中的许多人也相信需要监管，但是，另一个群体则有明显的自由主义倾向，他们希望政府不要介入。对他们来说，监管和进步是冲突的。这两类人之间的争论往往是激烈的，这很不幸，因为技术的历史清楚地表明了好监管的好处和坏监管的危险。因此，我们最好把精力花在找出正确的监管上，以及参与执行和修订监管规则的过程中。
 
 
 The history of regulating automotive technology is instructive here. Much of the world currently gets around by driving cars. The car was an important technological innovation because it vastly enhanced individual mobility, but its widespread adoption and large scale impacts would have been impossible without legislation, including massive public investments. We needed to build roads and to agree on how they should be used, neither of which could have been accomplished based solely on individual choices. Roads are an example of a ‘natural monopoly.’ Multiple disjointed road networks or different sets of rules would be hugely problematic: imagine what would happen if some people drove on the left side of the road and others drove on the right. Natural monopolies are situations where markets fail and regulation is required, and social norms are another form of regulation. The car would have been less widely adopted as a mode of individual transport without changes in social norms that made it acceptable for women to drive, for instance. 

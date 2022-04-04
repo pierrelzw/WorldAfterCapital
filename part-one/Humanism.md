@@ -7,7 +7,7 @@ What are the values that I am basing all this on, and where do they come from? I
 
 Knowledge, as I have already defined it, is the externalized information that allows humans to share insights with each other. It includes both scientific and artistic knowledge. Again, we are the only species on Earth that generates this kind of knowledge, with the ability to share it over space and time. I am able to read a book today that someone else wrote a long time ago and in a completely different part of the world.
 
-知识，正如我已经定义的那样，是使人类能够相互分享见解的外化的信息。它包括科学和艺术知识。并且，我们是地球上唯一产生、并有能力跨越空间和时间分享这种知识的物种。比如我今天能够读到一本别人在很久以前写的书，而且是在世界一个完全不同的地方。
+知识，正如我已经定义的那样，是使人类能够相互分享见解的外化的信息。它包括科学和艺术知识。并且，我们是地球上唯一产生、并有能力跨越空间和时间分享这种知识的物种。比如我今天能够读到一本别人在很久以前写的书，而且这个人生活在世界的任何地方。
 
 
 This matters a great deal, because knowledge enables fundamentally different modes of problem solving and progress. Humans can select and combine knowledge created by other humans, allowing small changes to accrete into large bodies of work over time, which in turn provide the basis for scientific and artistic breakthroughs. Without knowledge, other species have only two methods of sharing things they have learned: communication and evolution. Communication is local and ephemeral, and evolution is extremely slow. As a result, animals and plants routinely encounter problems that they cannot solve, resulting in disease, death and even extinction. Many of these problems today are caused by humans (more on that shortly).
@@ -37,7 +37,7 @@ We should thus seek regulation and self-regulation that supports critical inquir
 
 Freedom of speech is not a value in and of itself; rather, it is a crucial enabler of critical inquiry. But we can see how some limits on free speech might flow from the same value. If you can use speech to call for violence against individuals or minority groups, you can also use it to suppress critical inquiry. 
 
-言论自由本身并不是一种价值；相反，它是独立思考探究的重要推动力。但我们可以看到对言论自由的一些限制是如何从同一价值中产生的【？】。如果你可以利用言论来煽动对个人或少数群体的暴力，你也可以利用它来压制对独立思考的探索。
+言论自由本身并不是一种价值；相反，它是独立思考探究的重要推动力。但我们可以看到对言论自由的一些限制是如何从 “言论自由” 这一价值中产生的。如果你可以利用言论来煽动对个人或少数群体的暴力，你也可以利用它来压制对独立思考的探索。
 
 
 Digital technology, including a global information network and the general-purpose computing that is bringing machine intelligence, are dramatically accelerating the rate at which humanity can accumulate and share knowledge. However, these same technologies also allow targeted manipulation and propaganda on a global scale, as well as constant distraction, both of which undermine the evaluation and creation of knowledge. Digital technology thus massively increases the importance of critical inquiry, which is central to knowledge-based humanism. 

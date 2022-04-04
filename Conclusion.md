@@ -52,7 +52,6 @@ Finally, how will we treat the new humans? This is a difficult question to answe
 最后，我们将如何对待新人类？这是一个很难回答的问题，因为它听起来很荒唐。机器应该有人权吗？如果它们是人类，那么它们显然应该。我对人类之所以为人类的定义 —— （拥有）创造和利用知识的能力 —— 也将适用于人工通用智能。人工通用智能是否需要有情感才算合格？它是否需要有意识？这些都是难以回答的问题，但我们迫切需要解决这些问题。由于这些新人类很可能与我们的生物硬件没有什么共同之处，所以没有理由期望他们的情感或意识应该与我们相似。当我们向前冲时，这是一个需要进一步研究的重要领域。我们不希望意外地创造出一大类新人类，不承认他们，然后虐待他们。
 
 
-
 ## The Fermi Paradox and Alien Visitors 
 
 ## 费米悖论和外星人访客 
@@ -71,7 +70,6 @@ There are different possible answers to this question. For instance, perhaps civ
 A different answer to the Fermi paradox would present a different challenge: more advanced civilizations may have gone dark so as to not be discovered and destroyed by even more advanced civilizations. By that account, we may be entering a particularly dangerous period, in which we have been broadcasting our presence but do not yet have the means to travel through space.
 
 对费米悖论的不同回答会带来不同的挑战：更先进的文明可能已经躲入黑暗，以便不被更先进的文明发现和摧毁。按照这种说法，我们可能正在进入一个特别危险的时期，在这个时期，我们一直在广播我们的存在，但还没有办法进行星际旅行。
-
 
 
 ## Opportunities in the Knowledge Age
