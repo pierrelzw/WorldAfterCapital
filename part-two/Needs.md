@@ -70,7 +70,7 @@ The third set of individual needs arises from how we deal with a complex and eve
 
 **Healing**. Whenever we damage our body, it needs to heal. The human body comes equipped with extensive systems for self-healing, but beyond a certain range it needs external assistance. We have developed many solutions, which are often grouped under the term ‘healthcare’. 
 
-**治疗**。每当我们的身体受损时，它就需要修复。人体天生就有一个很强的自我修复系统，但超过一定范围，就需要外部辅助。我们已经实现了许多解决方案，这些解决方案通常被归类为 “保健” 。
+**治疗**。每当我们的身体受损时，它就需要修复。人体天生就有一个很强的自我修复系统，但超过一定范围，就需要外部辅助。我们已经实现了许多解决方案，这些解决方案通常被归类为 “保健”（‘healthcare’） 。
 
 
 **Learning**. When we are born, we are quite incompetent – we have to learn basic skills, such as walking and how to use even the simplest tools. When we encounter a new situation, we have to learn how to deal with it. We group many of the strategies for meeting the need for learning under the heading ‘education’, but other solutions include experimenting to gain experience, self-study and parenting. 
@@ -80,7 +80,7 @@ The third set of individual needs arises from how we deal with a complex and eve
 
 **Meaning**. As humans, we have a profound psychological need for meaning in our lives. One solution is to have a purpose. Religious belief and belonging to a community have long been a source of purpose for humans. Another key strategy comes from our interactions with other humans, including having other people acknowledge our contributions to a project, or even merely recognize our existence.
 
-**意义**。作为人类，我们对生活的意义有着深刻的心理需求。一个解决办法是找到人生的目的。长期以来，宗教信仰和对社区的归属一直是人类目的的来源。另一个关键的策略来自于我们与其他人类的互动，包括让其他人承认我们对某个项目的贡献，甚至只是承认我们的存在。
+**意义**。作为人类，我们对生活的意义有着深刻的心理需求。一个解决办法是找到人生的目的。长期以来，宗教信仰和对社区的归属一直是人类目的的来源。另一个关键的策略来自于我们与其他人类的互动，包括让其他人承认我们对某件事的贡献，甚至只是承认我们的存在。
 
 
 This last set of needs may strike you as being at a much higher level than the earlier ones. The idea of sorting individual needs into a hierarchy, as the psychologist Abraham Maslow famously did, is intuitively appealing, but it is misleading – all of these needs are vital. For example, Maslow put needs like calories at the bottom and needs like meaning at the top, implying that calories are more foundational than meaning. But we know from the work of Viktor Frankl and others that meaning is essential to human effort and that accessing calories requires effort. As a thought exercise, picture yourself alone in a spaceship and try to remove any of the above. You’ll soon realize that they are all equally important. 
@@ -126,7 +126,6 @@ Our collective needs arise from living together in societies and sharing space a
 These collective needs may strike you as abstract, but this is the result of identifying needs rather than solutions, which are much more concrete and readily recognizable. For instance, governments and laws are examples of solutions to collective needs such as allocation and coordination, as are markets and firms and, more recently, networks and platforms. In other words, many of the institutions of society exist because they help us solve a collective need.
 
 这些集体需求可能会让你觉得很抽象，这恰恰是因为我们在定义需求而不是定义解决方案，后者要具体得多，而且容易被识别。例如，政府和法律是解决分配和协调等集体需求的例子，市场和公司也是如此，最近还有网络和平台。换句话说，许多社会机构之所以存在，是因为它们帮助我们解决了一些集体需求。
-
 
 
 ## Enablers 
