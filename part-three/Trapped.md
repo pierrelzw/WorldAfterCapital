@@ -2,7 +2,7 @@
  
 While digital technology is being used to capture rapidly increasing amounts of our attention, we should also consider what the bulk of attention is dedicated to today. Not surprisingly, since we are just beginning to transition out of it, the vast bulk of human attention is focused on Industrial Age activities, in particular labor and consumption. For example, in the US many people spend 40 or more hours a week on the job, which amounts to 35 per cent of waking hours (assuming eight hours of sleep per night). People in the US now spend around 10 and a half hours a day consuming media (including traditional television and radio in addition to Facebook, YouTube, Netflix and similar services, podcasts, games, and more), which (setting aside simultaneous usage) amounts to over 60 per cent of waking time ("The Nielsen Total Audience Report," 2020). To understand why so much of our attention is spoken for, I present the concept of the “job loop.”
 
-虽然数字技术被用来捕捉我们迅速增加的注意力，但我们也应该考虑今天大部分的注意力都用在什么地方。不足为奇的是，由于我们刚刚开始向工业时代过渡，人类的大部分注意力都集中在工业时代的活动上，尤其是劳动和消费。例如，在美国，许多人每周花 40 小时或更多的时间在工作上，这相当于清醒时间的 35%（假设每晚有 8 小时的睡眠）。美国人现在每天花大约 10 个半小时消费媒体（除了 Facebook、YouTube、Netflix 和类似服务、播客、游戏等，还包括传统的电视和广播），这（抛开同时使用的情况）相当于清醒时间的 60% 以上（“尼尔森总受众报告”，2020）。为了理解为什么我们有这么多的注意力被锁定了，我提出了 “工作循环” 的概念。
+虽然数字技术被用来捕捉我们迅速增加的注意力，但我们也应该考虑今天大部分的注意力都用在什么地方。不足为奇的是，由于我们刚刚开始向工业时代过渡，人类的大部分注意力都集中在工业时代的活动上，尤其是劳动和消费。例如，在美国，许多人每周花 40 小时或更多的时间在工作上，这相当于清醒时间的 35%（假设每晚有 8 小时的睡眠）。美国人现在每天花大约 10 个半小时消费媒体（除了 Facebook、YouTube、Netflix 和类似服务、播客、游戏等，还包括传统的电视和广播），这（抛开同时使用的情况）相当于清醒时间的 60% 以上（“尼尔森总受众报告”，2020）。为了理解为什么我们说的这么多的注意力，我提出了 “工作循环” 的概念。
 
 
 
@@ -58,12 +58,12 @@ The job loop worked incredibly well in combination with competitive markets for 
  
 Some might point out that many people these days are self-employed, but that is irrelevant if they are selling their time. For instance, a graphic designer who works as an independent contractor is still paid for the labor they put into a project. It is only if they design something that is paid for over and over without them spending further time on it, such as a graphics template, that they have the opportunity to leave the job loop.
 
-有些人可能会指出，现在很多人都是自营职业者，但如果他们是在出售自己的时间，本质就是一样的。例如，作为独立承包商的平面设计师仍然会因为他们在项目中投入的劳动而获得报酬。只有当他们设计的东西被反复支付，而他们没有在上面花费更多的时间时，例如他们是设计出一个图形模板，他们才有机会离开 “工作循环”。
+有些人可能会指出，现在很多人都是自由职业者（自我雇佣），但如果他们是在出售自己的时间，本质就是一样的。例如，作为独立承包商的平面设计师仍然会因为他们在项目中投入的劳动而获得报酬。只有当他们设计的东西被反复支付，而他们没有在上面花费更多的时间时，例如他们是设计出一个图形模板，他们才有机会离开 “工作循环”。
 
 
 There are multiple problems with this virtuous cycle today. First, as we calculated at the outset of this section, it traps the vast majority of human attention. Second, when things contract, the effect of mutual reinforcement applies in the other direction. Take a small town, for example, in which local stores provide some of the employment. If a big superstore comes into town, total retail employment and wages will both fall. Fewer store employees have income, and those who do have less. If they start to spend less on haircuts and car repairs, the hair stylist and car mechanic earn less and can spend less themselves, and so on. Third, much of the consumption today is driven by vast sums of money spent on advertising, as well as by exposure to social media, inducing people into positional spending on wants (e.g., a bigger car than their neighbor). These higher expenditure levels, in turn, lock people into jobs which they hate but cannot afford to leave, which explains a great deal of the frustration among relatively highly-paid professionals, such as lawyers and bankers.
 
-今天，这种良性循环存在着多种问题。首先，正如我们在本节开始时计算的那样，它困住了人类绝大部分的注意力。第二，当事物收缩时，相互强化的效果在相反的方向上同样适用。以一个小镇为例，当地的商店提供了一些就业机会。如果一家大型超级市场进入小镇，零售业的总就业人数和工资都会下降。更少的商店员工有收入，而那些有收入的人则更少。如果他们开始减少在理发和修车上的消费，那么发型师和修车工的收入就会减少，他们自己也可以减少消费，如此循环。第三，今天的大部分消费是由花在广告上的巨额资金以及对社会媒体的接触所驱动的，诱使人们对需求进行定位消费（例如，比邻居更大的汽车）。这些较高的支出水平反过来又将人们牢牢锁在他们讨厌但又无力离开的工作中，这就解释了相对高薪的专业人士，如律师和银行家的巨大挫败感。
+今天，这种良性循环存在着多种问题。首先，正如我们在本节开始时计算的那样，它困住了人类绝大部分的注意力。第二，当事物收缩时，相互强化的效果在相反的方向上同样适用。以一个小镇为例，当地的商店提供了一些就业机会。如果一家大型超级市场进入小镇，零售业的总就业人数和工资都会下降。更少的商店员工有收入，而那些有收入的人则更少。如果他们开始减少在理发和修车上的消费，那么发型师和修车工的收入就会减少，他们自己也可以减少消费，如此循环。第三，今天的大部分消费是由花在广告上的巨额资金以及对社会媒体的接触所驱动的，诱使人们对需求进行“定位消费”（例如，比邻居更大的汽车）。这些较高的支出水平反过来又将人们牢牢锁在他们讨厌但又无力离开的工作中，这就解释了相对高薪的专业人士，如律师和银行家的巨大挫败感。
 
 
 Put differently, what was once a virtuous loop has become a vicious loop that holds much of human attention trapped. Much of The World After Capital is about breaking  free of this vicious version of the job loop. That is an urgent problem as the job loop has been becoming more vicious for some time now due to a change in the relationship between labor and capital.
@@ -103,21 +103,23 @@ Similar changes have occurred in other developed economies. This decoupling may 
 So, while we want to free up the attention trapped in the job loop, we need to figure out how to do so gradually, rather than through a rapid collapse. But is such a collapse even possible?
 
 
+
+
 ## Lump of Labor or Magic Employment Fallacy?
 
 With the job loop still dominant, people have to sell their labor to earn a living. Until recently, most economists believed that when human labor is replaced by technology in one economic activity, it finds work in another part. These economists refer to a fear of technological unemployment or underemployment as the “lump of labor fallacy.“
 
-在就业圈仍占主导地位的情况下，人们不得不出卖自己的劳动力来谋生。直到最近，大多数经济学家认为，当人类劳动在一项经济活动中被技术取代时，就会在另一部分找到工作。这些经济学家把对技术性失业或就业不足的恐惧称为 "劳动合成谬误"。
+在就业循环仍占主导地位的情况下，人们不得不出卖自己的劳动力来谋生。直到最近，大多数经济学家认为，当人类劳动在一项经济活动中被技术取代时，就会在另一部分找到工作。这些经济学家把对技术性失业或就业不足的恐惧称为 “劳动合成谬误”。
 
  
 The argument is that automating some part of the economy frees up labor to work on something else—entrepreneurs might use this newly available labor to deliver innovative new products and services, for example. There is no fixed “lump” of labor; rather there are potentially an infinite number of things to work on. After all, this is what has happened historically. Why should this time be different?
 
-这种说法是，经济的某些部分实现了自动化，就可以释放出劳动力去从事其他工作--例如，企业家可以利用这些新的可用劳动力来提供创新的新产品和服务。没有固定的 "一揽子 "劳动力；相反，有可能有无限多的事情可以做。毕竟，这就是历史上发生过的事情。为什么这次会不同呢？
+这种说法是，经济的某些部分实现了自动化，就可以释放出劳动力去从事其他工作 —— 例如，企业家可以利用这些新的可用劳动力来提供创新的新产品和服务。没有固定的 “一揽子” 劳动力；相反，有可能有无限多的事情可以做。毕竟，这就是历史上发生过的事情。为什么这次会不同呢？
 
  
 To understand how things could be different, we might consider the role horses have played in the American economy. As recently as 1915, 25 million horses worked in agriculture and transportation; by 1960, that number had declined to 3 million, and then we stopped keeping track entirely as horses became irrelevant (Kilby, 2007). This decline happened because we figured out how to build tractors, cars and tanks. There were just no uses left for which horses were superior to a mechanical substitute. The economist Wassily Leontief (1952) pointed out that the same thing could happen to humans in his article “Machines and Man”. 
 
-为了理解事情会有什么不同，我们可以考虑马匹在美国经济中所扮演的角色。最近在1915年，有2500万匹马在农业和运输业工作；到1960年，这个数字下降到300万，然后我们完全停止了记录，因为马匹变得无关紧要（Kilby，2007）。这种下降的发生是因为我们知道了如何制造拖拉机、汽车和坦克。马匹已经没有比机械替代品更好的用途了。经济学家Wassily Leontief（1952年）在他的文章《机器与人》中指出，同样的事情也会发生在人类身上。
+为了理解事情会有什么不同，我们可以考虑马匹在美国经济中所扮演的角色。最近在 1915 年，有 2500 万匹马在农业和运输业工作；到 1960 年，这个数字下降到 300 万，然后我们完全停止了记录，因为马匹变得无关紧要（Kilby，2007）。这种下降的发生是因为我们知道了如何制造拖拉机、汽车和坦克。马匹已经没有比机械替代品更好的用途了。经济学家 Wassily Leontief（1952 年）在他的文章《机器与人》中指出，同样的事情也会发生在人类身上。
 
 
 Humans obviously have a broader range of skills than horses, which is why we have so far always found new employment. So what has changed? Basically, we’ve figured out how to have computers do lots of things that until recently we thought only humans could do, such as driving a car. Digital technology gives us universal computation at zero marginal cost. Suddenly, the idea that we humans might have fewer uses doesn’t seem quite so inconceivable. 
@@ -127,7 +129,7 @@ Humans obviously have a broader range of skills than horses, which is why we hav
 
 Those who claim that this is committing the lump of labor fallacy argue that we haven’t considered a new set of human activities that will employ people, but that line of thinking might also be flawed. Just because we have found new employment in the past doesn’t mean we will in the future. I call this belief the “magic employment fallacy.”
 
-那些声称这是在犯劳动块状谬论的人认为，我们还没有考虑到一套新的人类活动会雇用人，但这种思路也可能有缺陷。我们在过去找到了新的就业机会，并不意味着我们在未来也会找到。我把这种信念称为 "神奇的就业谬论"。
+那些声称这是在犯 “劳动密集型谬论” 的人认为，我们还没有考虑到一套新的人类活动会雇用人，但这种思路也可能有缺陷。我们在过去找到了新的就业机会，并不意味着我们在未来也会找到。我把这种信念称为 "神奇的就业谬论"。
 
 
 We can be incredibly creative when it comes to thinking of new things to spend our time on, but the operative question for people selling their labor is whether they can get paid enough to afford solutions to their needs, such as food, shelter and clothing. The only thing that matters for this question is whether a machine or another human is capable of doing whatever we think of more cheaply. 
@@ -137,13 +139,11 @@ We can be incredibly creative when it comes to thinking of new things to spend o
 
 This turns out to be the central problem with the magic employment fallacy. Nothing in economic theory says what the ‘market-clearing price’ for labor—the wage level at which there is neither unemployment nor a labor shortage—ought to be. It might be well below what people need to cover their needs, which could present a near-term existential threat to many people. 
 
-这就是神奇就业谬论的核心问题。经济理论中没有任何内容说明劳动力的 "市场清算价格"--既不存在失业也不存在劳动力短缺的工资水平--应该是什么。它可能远远低于人们满足其需求的水平，这可能对许多人构成近期的生存威胁。
+这就是神奇就业谬论的核心问题。经济理论中没有任何内容说明劳动力的 “市场清算价格” —— 既不存在失业也不存在劳动力短缺的工资水平 —— 应该是什么。它可能远远低于人们满足其需求的水平，这可能对许多人构成近期的生存威胁。
 
 We thus appear to face a dilemma. On the one hand, we want to free up human attention for uses that the job loop doesn’t provide for. On the other hand, we want to avoid a rapid collapse of the job loop. In order to understand how we can accomplish both, we need to consider the relationship between the cost of labor and innovation.
 
 因此，我们似乎面临着一个两难境地。一方面，我们想把人类的注意力释放出来，用于工作循环所不能提供的用途。另一方面，我们希望避免工作循环的迅速崩溃。为了理解我们如何能够实现这两点，我们需要考虑劳动成本和创新之间的关系。
-
-
 
 ## Expensive Labor and Innovation
 
