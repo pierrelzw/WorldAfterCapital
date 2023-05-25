@@ -17,7 +17,7 @@ This book is fundamentally optimistic, which is partly a reflection of my person
 
 I want to be clear about this apparent bias from the start. Optimism, however, is much more than a personal bias—it is essential for human knowledge. Acts of knowledge creation, such as inventing a new technology or writing a new song, are profoundly optimistic. They assume that problems can be solved, and that art will impact the audience (which is true even for a pessimistic song). Optimism is the attitude that progress is possible.
 
-我想从一开始就清楚地说明我有这种明显的倾向。但是，乐观不仅仅是一种个人倾向 —— 它对人类知识来说也是必不可少的。创造知识的行为，如发明一项新技术或写一首新歌，本质上就是乐观主义。他们假设问题可以被解决，艺术会影响听众（即使是悲观的歌曲也是如此）。乐观主义是一种 “我们可能进步” 态度。
+我想从一开始就清楚地说明我有这种明显的倾向。但是，乐观不仅仅是一种个人倾向 —— 它对人类知识来说也是必不可少的。创造知识的行为，如发明一项新技术或写一首新歌，本质上就是乐观主义。他们假设问题可以被解决，艺术会影响听众（即使是表达 “悲观” 的歌曲也是如此）。乐观主义是一种 “我们可能进步” 的态度。
 
 
 Progress has become a loaded term. After all, despite our technological achievements, aren’t humans also responsible for the many diseases of civilization, for the extinction of countless species, and potentially for our own demise through climate change? Without a doubt we have caused tremendous suffering throughout human history, and we are currently faced with huge problems including a global pandemic and the ongoing climate crisis. But what is the alternative to trying to tackle these?
@@ -32,10 +32,10 @@ The beauty of problems is that knowledge can help us overcome them. Consider the
 
 There is an extreme position that suggests that we would have been better off if we had never developed knowledge in the first place (Ablow, 2015). While this may sound absurd, much of religious eschatology (theology about the ‘end times’) and apocalyptic thinking is associated with this position, asserting that a grand reckoning for the sins of progress is inevitable. And while they are rare, there have even been voices welcoming the COVID-19 pandemic and the climate crisis as harbingers, if not of apocalypse, then at least of a “Great Reset.” Although there is no guarantee that all future problems will be solvable through knowledge, one thing is certain: assuming that problems cannot be solved guarantees that they will not be. Pessimism is self-defeating, and apocalyptic beliefs are self-fulfilling.
 
-有一种极端的立场认为，如果我们一开始就不发展知识，我们会过得更好（Ablow，2015）。虽然这听起来很荒谬，但许多宗教末世论（关于 “末世” 的神学）和世界末日思想都与这一立场有关 —— 他们断言对进步产生的罪孽进行大清算是不可避免的。甚至，少数人欢迎新冠病毒（COVID-19）这样的大流行病和气候危机的预兆：这可能不是启示录，至少也是 ‘大重置’ 的预兆。虽然知识不能保证解决所有未来的问题，但有一点是肯定的：假设问题不能被解决，最终问题就不能被解决。悲观主义终将实现自证预言，而对世界末日有信仰的人也可以自圆其说【比如他们会说，那一天迟早会到来，这句话也没法反驳】。
+有一种极端的立场认为，如果我们一开始就不发展知识，我们会过得更好（Ablow，2015）。虽然这听起来很荒谬，但许多宗教末世论（关于 “末世” 的神学）和世界末日思想都与这一立场有关 —— 他们断言对进步产生的罪孽进行大清算是不可避免的。甚至，少数人欢迎新冠病毒（COVID-19）这样的大流行病和气候危机的预兆：这可能不是启示录，至少也是 ‘大重置’ 的预兆。虽然知识不能保证解决所有未来的问题，但有一点是肯定的：假设问题不能被解决，就能保证问题不会被解决。悲观主义终将实现自证预言，而对世界末日有信仰的人也可以自圆其说【比如他们会说，那一天迟早会到来，这句话也没法反驳】。
 
 
 All of this is also true for digital technology, which has already brought with it a new set of problems. We will encounter many of them in this book, including the huge incentives for companies such as Facebook to capture as much attention as possible, and the conflicts that arise from exposure to content that runs counter to one’s cultural or religious beliefs. And yet digital technology also enables amazing progress, such as the potential for the diagnosis of diseases at zero marginal cost. *The World After Capital* is optimistic that we can solve not only the problems of digital technology, but also that we can apply digital technology in a way that results in broad progress, including the knowledge creation needed to address the climate crisis. 
 
-上述观点对于已经带来了一系列新问题的数字技术来说，也是对的。我们将在本书中看到许多这样的问题，包括对Facebook等公司的巨大激励 —— 为了让它尽可能多地捕获人类的注意力，以及因接触到与个人文化或宗教信仰相悖的内容而产生的冲突。但是，数字技术也促成了惊人的进步，例如以零边际成本诊断疾病的潜力。*《资本之后的世界》*乐观地认为，我们不仅可以解决数字技术的问题，而且还可以以一种推动更广泛社会进步的方式应用数字技术，包括创造解决气候危机所需的知识。
+上述观点对于已经带来了一系列新问题的数字技术来说，也是对的。我们将在本书中看到许多这样的问题，包括像 Facebook 这样的公司有巨大的动机来尽可能地捕获人类的注意力，以及因接触到与个人文化或宗教信仰相悖的内容而产生的冲突。但是，数字技术也促成了惊人的进步，例如以零边际成本诊断疾病的潜力。*《资本之后的世界》*乐观地认为，我们不仅可以解决数字技术的问题，而且还可以以一种推动更广泛社会进步的方式应用数字技术，包括创造解决气候危机所需的知识。
 
