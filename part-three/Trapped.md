@@ -68,7 +68,7 @@ There are multiple problems with this virtuous cycle today. First, as we calcula
 
 Put differently, what was once a virtuous loop has become a vicious loop that holds much of human attention trapped. Much of The World After Capital is about breaking  free of this vicious version of the job loop. That is an urgent problem as the job loop has been becoming more vicious for some time now due to a change in the relationship between labor and capital.
 
-换句话说，曾经的良性循环已经成为一个恶性循环，并将人类的大部分注意力困住。《资本之后的世界》的大部分内容是关于挣脱这种恶性的工作循环。这是一个紧迫的问题，因为一段时间以来，由于劳动和资本之间关系的变化，工作循环已经变得更加恶性。
+换句话说，曾经的良性循环已经成为一个恶性循环，并将人类的大部分注意力困住。《后资本世界》的大部分内容是关于挣脱这种恶性的工作循环。这是一个紧迫的问题，因为一段时间以来，由于劳动和资本之间关系的变化，工作循环已经变得更加恶性。
 
 
 

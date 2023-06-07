@@ -6,7 +6,7 @@ As a venture capitalist, I’m often asked: “What’s the next big thing?” P
 
 
 *The World After Capital* is unabashedly about some truly big subjects. In order to tackle why the Industrial Age is ending and what is coming next, I will examine such things as the nature of technology and what it means to be human. It might seem a wildly ambitious thesis, but I argue that we are facing a transition as profound as the one which took humanity from the Agrarian Age to the Industrial Age, so nothing less will do.
-*《资本之后的世界*》毫不掩饰地讲述了一些真正的大主题。为了解决工业时代即将结束的原因和接下来的问题，我将研究诸如技术的性质和人类的意义等问题。这似乎是一个雄心勃勃的论题，但我认为我们正面临着一个深刻的转变，就像人类从农业时代到工业时代的转变一样，所以没有什么比这更重要了。
+*《后资本世界*》毫不掩饰地讲述了一些真正的大主题。为了解决工业时代即将结束的原因和接下来的问题，我将研究诸如技术的性质和人类的意义等问题。这似乎是一个雄心勃勃的论题，但我认为我们正面临着一个深刻的转变，就像人类从农业时代到工业时代的转变一样，所以没有什么比这更重要了。
 
 
 The current transition has been made possible by the advent of digital technology, so it is essential that we understand the nature of this technology and how it differs from what preceded it. It is also essential that we examine the philosophical foundations of what we want to accomplish—after all, we have the opportunity to decide what will follow the Industrial Age. In *The World After Capital* I argue that we are now entering the Knowledge Age, and that in order to get there we must focus on the allocation of attention rather than capital. 

@@ -37,5 +37,5 @@ There is an extreme position that suggests that we would have been better off if
 
 All of this is also true for digital technology, which has already brought with it a new set of problems. We will encounter many of them in this book, including the huge incentives for companies such as Facebook to capture as much attention as possible, and the conflicts that arise from exposure to content that runs counter to one’s cultural or religious beliefs. And yet digital technology also enables amazing progress, such as the potential for the diagnosis of diseases at zero marginal cost. *The World After Capital* is optimistic that we can solve not only the problems of digital technology, but also that we can apply digital technology in a way that results in broad progress, including the knowledge creation needed to address the climate crisis. 
 
-上述观点对于已经带来了一系列新问题的数字技术来说，也是对的。我们将在本书中看到许多这样的问题，包括像 Facebook 这样的公司有巨大的动机来尽可能地捕获人类的注意力，以及因接触到与个人文化或宗教信仰相悖的内容而产生的冲突。但是，数字技术也促成了惊人的进步，例如以零边际成本诊断疾病的潜力。*《资本之后的世界》*乐观地认为，我们不仅可以解决数字技术的问题，而且还可以以一种推动更广泛社会进步的方式应用数字技术，包括创造解决气候危机所需的知识。
+上述观点对于已经带来了一系列新问题的数字技术来说，也是对的。我们将在本书中看到许多这样的问题，包括像 Facebook 这样的公司有巨大的动机来尽可能地捕获人类的注意力，以及因接触到与个人文化或宗教信仰相悖的内容而产生的冲突。但是，数字技术也促成了惊人的进步，例如以零边际成本诊断疾病的潜力。*《后资本世界》*乐观地认为，我们不仅可以解决数字技术的问题，而且还可以以一种推动更广泛社会进步的方式应用数字技术，包括创造解决气候危机所需的知识。
 

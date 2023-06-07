@@ -2,7 +2,7 @@
 
 My first major aim in writing this book was to establish that we are currently experiencing a period of non-linear change, and my second aim is to outline a plan for our transition to the Knowledge Age. Our challenge is to overcome the limits of capitalism and move away from a society centered on the job loop toward one that embraces the knowledge loop. This section of *The World After Capital* will propose changes in regulation and self-regulation that would increase human freedom and unlock the promise of the digital knowledge loop. There are three components to this:
 
-我写这本书的第一个主要目的是确定我们目前正在经历一个非线性变化的时期，我的第二个目的是为我们过渡到知识时代勾勒一个计划。我们的挑战是克服资本主义的局限性，从一个以工作圈为中心的社会转向一个拥抱知识圈的社会。《资本之后的世界》的这一部分将对监管和自我监管的变化给出建议，这将增加人类的自由，并让数字知识圈的成功有迹可循。这其中有三个组成部分：
+我写这本书的第一个主要目的是确定我们目前正在经历一个非线性变化的时期，我的第二个目的是为我们过渡到知识时代勾勒一个计划。我们的挑战是克服资本主义的局限性，从一个以工作圈为中心的社会转向一个拥抱知识圈的社会。《后资本世界》的这一部分将对监管和自我监管的变化给出建议，这将增加人类的自由，并让数字知识圈的成功有迹可循。这其中有三个组成部分：
 
  
 1. Economic freedom. We must ensure that everyone’s needs are met without them being forced into the job loop. Once we have economic freedom, we can embrace automation and enable everyone to participate in and benefit from the digital knowledge loop. 
