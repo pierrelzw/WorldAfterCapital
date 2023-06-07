@@ -102,6 +102,6 @@ A fourth opportunity is to go from capital being merely sufficient to capital be
 
 We live in a period where there is an extraordinary range of possible outcomes for humanity. They include the annihilation of humankind in a climate catastrophe, at one extreme, and the indefinite exploration of the universe, at the other. Where we end up depends on the large and small choices each of us makes every day, from how we treat another person in conversation to how we tackle the climate crisis. It is a massive challenge, and I wake up every day both scared and excited about this moment of transition. I sincerely hope that *The World After Capital* makes a small contribution to getting us to the Knowledge Age.
 
-我们生活在一个对人类来说有一系列非凡的可能结果的时期。它们包括人类在一场气候灾难中被消灭，这是一个极端，而另一个极端则是对宇宙的无限探索。我们的结局取决于我们每个人每天所做的大大小小的选择，从我们在谈话中如何对待另一个人，到我们如何解决气候危机。这是一个巨大的挑战，我每天醒来时对这个过渡时刻既害怕又兴奋。我真诚地希望《资本之后的世界》能够为我们进入知识时代做出一点贡献。
+我们生活在一个对人类来说有一系列非凡的可能结果的时期。它们包括人类在一场气候灾难中被消灭，这是一个极端，而另一个极端则是对宇宙的无限探索。我们的结局取决于我们每个人每天所做的大大小小的选择，从我们在谈话中如何对待另一个人，到我们如何解决气候危机。这是一个巨大的挑战，我每天醒来时对这个过渡时刻既害怕又兴奋。我真诚地希望《后资本世界》能够为我们进入知识时代做出一点贡献。
 
 

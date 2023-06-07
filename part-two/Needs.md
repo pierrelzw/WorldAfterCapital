@@ -7,7 +7,7 @@ The definition of scarcity introduced in Part One is based on the idea of needs,
 
 In an early draft of *The World After Capital*, I grouped needs into categories such as ‘biological’, ‘physical’ and ‘social’, but the boundaries between them seemed rather arbitrary. So instead I distinguish here between individual and collective needs, where the former apply to a single person and the latter are the needs of humanity. Another challenge in putting together such a list is that it is easy to confuse a need with a strategy for meeting it. For instance, eating meat is a strategy for addressing our need for calories, but humans can, of course, acquire calories from many sources.
 
-在《资本之后的世界》的早期草稿中，我将需求分为 “生物”、“物理” 和 “社会” 等类别，但它们之间的界限似乎很不确定。因此，我在这里把需求分为 “个体的” 和 “集体的”，前者适用于一个人，后者是全人类的需要。把这样一个清单放在一起的另一个问题是，我们很容易把需求和满足需求的策略混淆起来。例如，吃肉是解决我们对卡路里需求的一种策略，但人类当然可以从许多来源获得卡路里【所以吃肉不是需求，是策略。】。
+在《后资本世界》的早期草稿中，我将需求分为 “生物”、“物理” 和 “社会” 等类别，但它们之间的界限似乎很不确定。因此，我在这里把需求分为 “个体的” 和 “集体的”，前者适用于一个人，后者是全人类的需要。把这样一个清单放在一起的另一个问题是，我们很容易把需求和满足需求的策略混淆起来。例如，吃肉是解决我们对卡路里需求的一种策略，但人类当然可以从许多来源获得卡路里【所以吃肉不是需求，是策略。】。
 
 
  

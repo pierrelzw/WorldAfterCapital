@@ -93,5 +93,5 @@ In addition to preserving and creating financial benefits for the owners of capi
 
 A key limitation of capitalism thus is that without meaningful change, it will keep us trapped in the Industrial Age by keeping governments and the political process focused on capital. As long as that is the case, we will continue to over-allocate attention to work and consumption, and under-allocate it to areas such as the individual need for meaning and the collective need for the growth of knowledge. Parts Four and Five of *The World After Capital* will examine how we can get out of the Industrial Age, but first we will take a closer look at the power of knowledge and the promise of the digital knowledge loop.
 
-因此，资本主义的一个核心的局限是，如果没有有意义的改变，它将使我们困在工业时代，使政府和政治进程专注于资本。只要这种情况存在，我们就会继续过度关注工作和消费，而对个人对意义的需求和集体对知识增长的需求等领域关注不足。*《资本之后的世界》*第四和第五部分将探讨我们如何才能走出工业时代，但首先我们将仔细研究知识的力量和数字知识循环的获得成功的迹象。
+因此，资本主义的一个核心的局限是，如果没有有意义的改变，它将使我们困在工业时代，使政府和政治进程专注于资本。只要这种情况存在，我们就会继续过度关注工作和消费，而对个人对意义的需求和集体对知识增长的需求等领域关注不足。*《后资本世界》*第四和第五部分将探讨我们如何才能走出工业时代，但首先我们将仔细研究知识的力量和数字知识循环的获得成功的迹象。
 
